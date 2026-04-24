@@ -17,8 +17,8 @@ const diaryData: DiaryItem[] = [
 		id: 1,
 		content:
 			"折腾半天终于勉强上线了",
-		date: "2026-04-24T14:20:59Z",
-		images: ["/images/diary/sakura.jpg", "/images/diary/爆金币.png"],
+		date: "2026-04-24T22:50:59Z",
+		images: ["/images/diary/爆金币.png"],
 	},
 ];
 
