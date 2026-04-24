@@ -16,9 +16,9 @@ const diaryData: DiaryItem[] = [
 	{
 		id: 1,
 		content:
-			"Test $x^3$",
-		date: "2026-04-23T10:30:00Z",
-		images: ["/images/diary/sakura.jpg", "/images/diary/1.webp"],
+			"折腾半天终于勉强上线了",
+		date: "2026-04-24T14:20:59Z",
+		images: ["/images/diary/sakura.jpg", "/images/diary/爆金币.png"],
 	},
 ];
 
