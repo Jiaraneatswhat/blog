@@ -1,6 +1,6 @@
 ---
 title: "Campbell's Biology Ch.1"
-published: 2025-11-17
+published: 2024-11-17
 tags: [生物学, 普通生物学]
 category: Study
 author: ran
