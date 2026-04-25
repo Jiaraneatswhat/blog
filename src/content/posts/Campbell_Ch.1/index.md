@@ -1,5 +1,5 @@
 ---
-title: "Campbell's Biology Ch.1"
+title: "Campbell's Biology Ch.1 Evolution, the Themes of  Biology, and Scientific Inquiry"
 published: 2024-11-17
 tags: [生物学, 普通生物学]
 category: Study

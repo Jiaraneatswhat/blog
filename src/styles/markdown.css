@@ -281,3 +281,8 @@ p {
   background-color: var(--primary) !important;
   color: var(--primary) !important;
 }
+
+/* 全局缩小 LaTeX 公式字体 */
+.custom-md .katex {
+  font-size: 0.95em !important;
+}
