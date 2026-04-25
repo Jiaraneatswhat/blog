@@ -1,7 +1,7 @@
 ---
 title: "白井智之: 象首 プロローグ"
 published: 2026-03-03
-tags: [白井智之, 当代小说]
+tags: [白井智之, 大众文学]
 category: Books
 author: ran
 image: "./cover.png"
