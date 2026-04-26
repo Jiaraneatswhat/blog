@@ -7,14 +7,14 @@ author: ran
 image: "./images/cover.png"
 ---
 
-### Concept 4.1 Organic chemistry is key to the origin of life
+### CONCEPT 4.1 Organic chemistry is key to the origin of life
 由于历史原因，含碳化合物被称为有机物，对其开展的研究即为<font color="#ff0080"><b>有机化学</b></font>。有机物种类繁多，结构跨度极大：既有甲烷这类简单分子，也包含由数千个原子构成的蛋白质等巨型大分子。
 
 1953年，Stanley Miller 设计了一个非生物合成有机化合物的实验<font color="#034ea9"><b>(图 4.2)</b></font>，以研究生命的起源。他用一个烧瓶中的水来模拟<font color="#00b050">原始海 (<i>primeval sea</i>)</font>，这些水被加热后蒸发移动到第二个，包含着 "大气层" 的烧瓶——包含氢气，甲烷，氨以及水蒸气。通过火花放电来模拟闪电。用冷凝器冷却大气层，将水和溶解的分子落到海洋烧瓶中。当物质在这套设备中循环时，Miller 周期地收集样本来分析。最后得出结论，复杂的有机分子可以在当时认为存在于早期地球的条件下自发产生。
 
 ![图 4.2 w-50%](./images/fig_4.2.png "图 4.2 Miller 的实验")
 
-### Concept 4.2 Carbon atoms can form diverse molecules by bonding to four other atoms
+### CONCEPT 4.2 Carbon atoms can form diverse molecules by bonding to four other atoms
 原子的化学性质关键取决于电子排布。电子排布决定了一个原子能与其他原子形成化学键的类型与数量。需要注意的是，只有位于最外层的价电子，才可参与原子间的成键作用。
 
 #### The Formation of Bonds with Carbon
@@ -47,7 +47,7 @@ image: "./images/cover.png"
 以双键连接的两个碳原子为例<font color="#034ea9"><b>(图 4.7b)</b></font>，若二者均连有 H 与基团 X：两个 X 位于双键同侧为顺式异构体，位于异侧则为反式异构体。这类异构体细微的空间结构差异，会极大影响有机分子的生物活性。
 
 <font color="#ff0080"><b>对映异构体 (<i>enantiomer</i>)</b></font>互为镜像，其结构差异源于**不对称碳原子**——即连接四种不同原子或基团的碳原子<font color="#034ea9"><b>(图 4.7c)</b></font>。四个基团可在不对称碳周围以两种互为镜像的空间方式排列。对映异构体如同分子的左手与右手构型，无法相互重合。正如右手无法适配左手手套，右旋与左旋分子也不能互换空间结构。通常仅有其中一种异构体具备生物活性，因其可特异性结合生物体内的靶标分子。
-### Concept 4.3 A few chemical groups are key to molecular function
+### CONCEPT 4.3 A few chemical groups are key to molecular function
 #### The Chemical Groups Most Important in the Processes of Life
 有机分子的独特性质，不仅取决于碳骨架的排布方式，还与连接在骨架上的各类化学基团密切相关。化学基团会影响分子形状，进而影响其功能；也会直接参与化学反应，这些基团被称为<font color="#ff0080"><b>官能团</b></font>。在生物活动中有七个最重要的基团，<font color="#00b050">烃基 (<i>hydroxyl</i>)</font>, <font color="#00b050">羰基 (<i>carbonyl</i>)</font>, <font color="#00b050">羧基 (<i>carboxyl</i>)</font>, 氨基, <font color="#00b050">巯基 (sulfhydryl)</font>, 磷酸基, 和<font color="#00b050">甲基 (<i>methyl</i>)</font>。
 #### ATP: An Important Source of Energy for Cellular Processes

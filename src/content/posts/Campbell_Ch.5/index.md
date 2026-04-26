@@ -7,7 +7,7 @@ author: ran
 image: "./images/cover.png"
 ---
 
-### Concept 5.1 Macromolecules are polymers, built from monomers
+### CONCEPT 5.1 Macromolecules are polymers, built from monomers
 多糖、蛋白质与核酸因分子庞大，被称为<font color="#ff0080"><b>大分子</b></font>；它们均为链状聚合物。<font color="#ff0080"><b>聚合物 (<i>polymer</i>)</b></font>是由大量相似或相同的结构单元以共价键连接形成的长链分子。构成聚合物的重复基本单元，称作<font color="#ff0080"><b>单体 (<i>monomer</i>)</b></font>。部分单体除聚合作用外，自身也具备独立生理功能。
 #### The Synthesis and Breakdown of Polymers
 尽管各类聚合物的单体各不相同，但生物体内合成与分解生物大分子的化学机制高度相似。细胞中，这类过程由<font color="#ff0080"><b>酶 (<i>enzyme</i>)</b></font> 催化；酶是可加速化学反应的特异性大分子。单体之间或单体与聚合物连接的反应为<font color="#00b050">缩合反应 (<i>condensation reaction</i>)</font>：两分子通过共价键结合，同时脱去一个小分子。若脱去水分子，则该反应称为<font color="#ff0080"><b>脱水缩合反应 (<i>dehydration reaction</i>)</b></font>。
@@ -21,7 +21,7 @@ image: "./images/cover.png"
 一个细胞含有数千种不同的生物大分子，且细胞类型不同，大分子的种类组成也存在差异。近亲之间（如人类同胞）的遗传差异，本质源于聚合物的细微区别，尤以 DNA 与蛋白质为主。无亲缘个体间的分子差异更为显著，物种之间的差距则更大。自然界的生物大分子种类繁多，多样性几乎没有上限。
 
 聚合物的多样性的核心关键是排列顺序：所有生物共用一套基础小分子作为原料，依靠不同的排列组合，形成功能各异的独特大分子。尽管种类纷繁，生物大分子仍可依据结构与功能划分为四大类。每一类大分子都会产生单体不具备的涌现特性。
-### Concept 5.2 Carbohydrates serve as fuel and building material
+### CONCEPT 5.2 Carbohydrates serve as fuel and building material
 糖类包括单糖及多糖。最简单的糖类为单糖，是构成复杂糖类的单体。二糖由两个单糖通过共价键连接而成。糖类大分子统称为多糖，由大量单糖单元聚合形成。
 #### Sugars
 <font color="#ff0080"><b>单糖 (<i>monosaccharide</i>)</b></font> 的化学式通常是 $\text{CH}_2\text{O}$ 的整数倍。葡萄糖 ($\text{C}_6\text{H}_{12}\text{O}_6$) 是最常见的单糖，在生命化学中居核心地位。在其结构中我们可以看到单糖的许多特点：一个羰基，多个羟基。基于羰基的位置，一个单糖可以分为<font color="#e36c09">醛糖 (<i>aldose</i>)</font> 或<font color="#e36c09">酮糖 (<i>ketose</i>)</font>，大部分糖以 *-ose* 结尾。另一个分类标准是碳骨架的大小，其范围是 3-7。
@@ -62,7 +62,7 @@ image: "./images/cover.png"
 能够水解淀粉的$\alpha-$糖苷键的酶不能水解纤维素中的$\beta-$糖苷键，实际上只有很少部分生物体能够消化纤维素，几乎所有动物都无法消化纤维素。食物中的纤维素会直接经过消化道，最终随粪便排出。过程中，纤维素可摩擦消化道壁，刺激黏膜分泌黏液，助力食物顺畅通行。因此，纤维素虽不能为人体提供营养，却是健康饮食的重要组成部分。
 
 另一个重要的结构多糖是<font color="#ff0080"><b>几丁质 (<i>chitin</i>)</b></font>。节肢动物借助该糖类合成外骨骼，用以包裹保护柔软躯体。外骨骼由几丁质与蛋白质交织构成，质地柔韧；后续可通过蛋白质交联或碳酸钙沉积硬化。几丁质与纤维素结构相似，同样含有$\beta-$糖苷键，区别在于其葡萄糖单体上连有含氮基团。
-### Concept 5.3 Lipids are a diverse group of hydrophobic molecules
+### CONCEPT 5.3 Lipids are a diverse group of hydrophobic molecules
 脂质是唯一不含真正聚合物的生物大分子类别，且通常不足以被称作高分子化合物。<font color="#ff0080"><b>脂质 (<i>lipid</i>)</b></font> 物质因共同特征归为一类：具有疏水性，难以与水相融。该特性由分子结构决定：脂质虽含有少量含氧极性键，但主体为烃类区域，遍布非极性碳氢键。脂质形态与功能多样，包含蜡质与部分色素。生物学重点研究三类核心脂质：脂肪、磷脂与类固醇。
 #### Fats
 脂肪由一个甘油分子与三个脂肪酸分子结合而成<font color="#034ea9"><b>(图 5.9)</b></font>。甘油属于醇类，三个碳上均有一个羟基。<font color="#ff0080"><b>脂肪酸 (<i>fatty acid</i>)</b></font> 有一个长度为 16-18 的长的碳链，碳链末端通常是一个羧基，碳链其余部分为烃链。脂肪酸烃链中大量非极性碳氢键，是脂肪具备疏水性的根本原因。水分子之间会形成氢键，从而排斥脂肪分子，使二者相互分离。
@@ -95,7 +95,7 @@ image: "./images/cover.png"
 
 ![图 5.12 w-40%](./images/fig_5.12.png "图 5.12 胆固醇，一种类固醇")
 
-### Concept 5.4 Proteins include a diversity of structures, resulting in a wide range of functions
+### CONCEPT 5.4 Proteins include a diversity of structures, resulting in a wide range of functions
 生物体几乎所有生命活动都依赖蛋白质。在多数细胞中，蛋白质占干重的 50% 以上，广泛参与各项生命进程。部分蛋白质可催化化学反应，还有的承担免疫防御、物质储存、运输、细胞通讯、机体运动及结构支撑等功能。
 
 生命活动离不开酶，大部分酶都是蛋白质。<font color="#ff0080"><b>酶蛋白</b></font>可作为催化剂调控代谢反应，能选择性加快化学反应速率，且反应前后自身不被消耗。酶可反复发挥作用，是维持细胞生命代谢持续运转的核心功能分子。
@@ -173,7 +173,7 @@ image: "./images/cover.png"
 
 ![图 5.21 w-70%](./images/fig_5.21.png "图 5.21 X 射线晶体学")
 
-### Concept 5.5 Nucleic acids store, transmit, and help express hereditary information
+### CONCEPT 5.5 Nucleic acids store, transmit, and help express hereditary information
 倘若多肽的一级结构决定蛋白质的空间形态，那么又是什么决定了一级结构？多肽的氨基酸序列，由一种名为<font color="#ff0080"><b>基因</b></font>的独立遗传单位编码调控。基因的本质是 DNA，而 DNA 属于核酸类化合物。<font color="#ff0080"><b>核酸</b></font>是由核苷酸作为单体聚合形成的生物大分子。
 #### The Roles of Nucleic Acids
 核酸有两种，<font color="#ff0080"><b>脱氧核糖核酸</b></font>和<font color="#ff0080"><b>核糖核酸</b></font>，使生物体能够将其复杂的成分代代相传。DNA 为其自身的复制提供方向，也可以引导 RNA 的合成，通过 RNA 控制蛋白质的合成，这整个过程叫做<font color="#ff0080"><b>基因表达</b></font><font color="#034ea9"><b>(图 5.22)</b></font>。

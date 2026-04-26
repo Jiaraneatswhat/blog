@@ -7,7 +7,7 @@ author: ran
 image: "./images/cover.png"
 ---
 
-### Concept 3.1 Polar covalent bonds in water molecules result in hydrogen bonding
+### CONCEPT 3.1 Polar covalent bonds in water molecules result in hydrogen bonding
 
 水分子的结构看似简单。整体呈宽 V 形，两个氢原子以极性共价单键与氧原子相连。氧的电负性强于氢，成键电子更偏向氧原子一侧。电子的不均等共用，加之 V 形空间结构，使水成为<font color="#ff0080"><b>极性分子</b></font>，整体电荷分布不均匀。水分子中，氧原子带部分负电荷 ($\delta^-$)，氢原子带部分正电荷 ($\delta^+$)。
 
@@ -16,7 +16,7 @@ image: "./images/cover.png"
 ![图 3.2 w-50%](./images/fig_3.2.png "图 3.2 水分子间的氢键")
 
 液态水中的氢键十分微弱，强度仅约为共价键的 $1/20$。氢键不断快速断裂、重组，单个氢键的存续时间仅有数万亿分之一秒，但水分子会持续与周边分子形成新的氢键。因此在任意时刻，绝大多数水分子都与相邻分子以氢键相连。水的独特理化性质，正是源于这种氢键作用，它让水分子形成更高层次的有序结构。
-### Concept 3.2 Four emergent properties of water contribute to Earth’s suitability for life
+### CONCEPT 3.2 Four emergent properties of water contribute to Earth’s suitability for life
 #### Cohesion of Water Molecules
 氢键使水分子彼此紧密聚集。液态水的分子排布时刻动态变化，但任意时刻，大量水分子都会通过多重氢键相互连接。这种联结让水的有序程度远高于多数液体。大量氢键共同作用、维系水体聚集的现象，称为<font color="#ff0080"><b>内聚 (<i>cohesion</i>)</b></font>。
 
@@ -63,7 +63,7 @@ image: "./images/cover.png"
 大部分化学反应牵扯到水中溶解的溶质，为了理解这些反应，我们需要知道溶剂中溶质的浓度。在进行实验时，首先要计算<font color="#ff0080"><b>分子质量</b></font>，也就是分子中所有原子的质量和。由于无法直接称量微量分子，在化学中使用 mol 作为计量单位：1 <font color="#ff0080"><b>mol</b></font> 表示固定数目的微观粒子集合：$6.02\times10^{23}$，叫做<font color="#00b050">阿伏伽德罗常数 (<i>Avogadro’s number</i>)</font>。根据定义：$1\text{g}=6.02\times10^{23}\text{ dalton}$，因此物质摩尔质量数值与分子质量相等、单位为克。
 
 在配制溶液时，生物领域水溶液最常用的浓度单位是<font color="#ff0080"><b>摩尔浓度 (<i>molarity</i>)</b></font>，指每升溶液中所含溶质的摩尔数。
-### Concept 3.3 Acidic and basic conditions affect living organisms
+### CONCEPT 3.3 Acidic and basic conditions affect living organisms
 水分子间形成氢键时，偶尔会发生氢原子的转移。该氢原子会留存电子，实际发生转移的是氢离子 ($\text{H}^+$)，即带 1 个正电荷的质子，失去一个质子的水分子成为<font color="#ff0080"><b>氢氧根离子 (<i>hydroxide ion</i>)</b></font>($\text{OH}^-$)，质子与另一个水分子成键，使得它成为<font color="#ff0080"><b>水合氢离子 (<i>hydronium ion</i>)</b></font> ($\text{H}_3\text{O}^+$)，这个过程如下:
 
 ![图 w-50%](./images/example_fig_1.png)
