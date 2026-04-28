@@ -3,9 +3,8 @@ title: "梶井基次郎: 奎吉"
 published: 2026-03-18
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRnpjZHBkYWJ0dHpF"
 image: "./cover.png"
+description: "奎吉"
 ---
 
 :::note[META]

@@ -3,9 +3,8 @@ title: "梶井基次郎: 橡の花"
 published: 2026-03-09
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRnFza2hyS3pCbWRO"
 image: "./cover.png"
+description: "七叶树之花"
 ---
 
 :::note[META]

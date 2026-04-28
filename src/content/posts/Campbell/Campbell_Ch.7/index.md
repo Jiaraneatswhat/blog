@@ -3,8 +3,8 @@ title: "Campbell's Biology Ch.7 Membrane Structure and Function"
 published: 2024-12-05
 tags: [生物学, 普通生物学]
 category: Study
-author: ran
 image: "./images/cover.png"
+description: "chapter 7"
 ---
 
 ### CONCEPT 7.1 Cellular membranes are fluid mosaics of lipids and proteins

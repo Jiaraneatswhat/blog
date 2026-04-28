@@ -1,12 +1,10 @@
 ---
 title: "梶井基次郎: Kの昇天"
 published: 2025-03-10
-pinned: false
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRk9RbVFaV0VVWm5Q"
 image: "./cover.png"
+description: "K 的升天"
 ---
 
 :::note[META]

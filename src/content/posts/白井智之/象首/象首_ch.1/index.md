@@ -1,10 +1,10 @@
 ---
-title: "白井智之: 象首 一/前兆"
+title: "白井智之: エレファントヘッド 一/前兆"
 published: 2026-03-10
 tags: [白井智之, 大众文学]
 category: Books
-author: ran
 image: "./cover.png"
+description: "象首  一/前兆"
 ---
 
 :::note[META]

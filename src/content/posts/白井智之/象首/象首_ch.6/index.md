@@ -1,10 +1,10 @@
 ---
-title: "白井智之: 象首 六/進行"
+title: "白井智之: エレファントヘッド 六/進行"
 published: 2026-03-27
 tags: [白井智之, 大众文学]
 category: Books
-author: ran
 image: "./cover.png"
+description: "象首 六/进展"
 ---
 
 :::note[META]

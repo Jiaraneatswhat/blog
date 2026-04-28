@@ -3,8 +3,8 @@ title: "Campbell's Biology Ch.6 A Tour of the Cell"
 published: 2024-12-01
 tags: [生物学, 普通生物学]
 category: Study
-author: ran
 image: "./images/cover.png"
+description: "chapter 6"
 ---
 
 ### CONCEPT 6.1 Biologists use microscopes and biochemistry to study cells

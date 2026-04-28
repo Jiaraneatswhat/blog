@@ -3,9 +3,8 @@ title: "梶井基次郎: 交尾"
 published: 2026-03-22
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRnpiamRRSkdjbFFW"
 image: "./cover.png"
+description: "交尾"
 ---
 
 :::note[META]

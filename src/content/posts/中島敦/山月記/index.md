@@ -5,6 +5,7 @@ tags: [中島敦, 近代文学]
 category: Books
 author: ran
 image: "./cover.png"
+description: "山月记"
 ---
 
 :::note[META]

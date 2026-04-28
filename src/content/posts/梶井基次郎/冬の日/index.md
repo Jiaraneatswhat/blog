@@ -3,9 +3,8 @@ title: "梶井基次郎: 冬の日"
 published: 2025-03-19
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRmJnaHd5Q3hyYkNt"
 image: "./cover.png"
+description: "冬日"
 ---
 
 :::note[META]

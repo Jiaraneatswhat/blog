@@ -3,9 +3,8 @@ title: "坂口安吾: 桜の森の満開の下"
 published: 2025-05-23
 tags: [坂口安吾, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRnhJV1JEdUN0bHB1"
 image: "./cover.png"
+description: "盛开的樱花树下"
 ---
 
 :::note[META]

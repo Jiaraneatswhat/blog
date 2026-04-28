@@ -1,10 +1,10 @@
 ---
-title: "白井智之: 象首 四/増殖"
+title: "白井智之: エレファントヘッド 四/増殖"
 published: 2026-03-17
 tags: [白井智之, 大众文学]
 category: Books
-author: ran
 image: "./cover.png"
+description: "象首 四/增殖"
 ---
 
 :::note[META]

@@ -3,9 +3,8 @@ title: "梶井基次郎: 蒼穹"
 published: 2025-03-21
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRm1CdGtHUEhwQ1Vs"
 image: "./cover.png"
+description: "苍穹"
 ---
 
 :::note[META]

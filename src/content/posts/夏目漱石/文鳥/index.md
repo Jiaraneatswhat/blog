@@ -5,6 +5,7 @@ tags: [夏目漱石, 近代文学]
 category: Books
 author: ran
 image: "./cover.png"
+description: "文鸟"
 ---
 
 :::note[META]

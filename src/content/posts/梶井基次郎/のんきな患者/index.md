@@ -3,9 +3,8 @@ title: "梶井基次郎: のんきな患者"
 published: 2026-03-28
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRmZMT2xRU1JxSXpm"
 image: "./cover.png"
+description: "悠哉的患者"
 ---
 
 :::note[META]

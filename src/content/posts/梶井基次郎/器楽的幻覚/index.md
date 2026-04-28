@@ -3,9 +3,8 @@ title: "梶井基次郎: 器楽的幻覚"
 published: 2026-03-09
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRnVyYmtEektnRGVr"
 image: "./cover.png"
+description: "器乐的幻觉"
 ---
 
 :::note[META]

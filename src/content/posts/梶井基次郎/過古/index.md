@@ -3,9 +3,8 @@ title: "梶井基次郎: 過古"
 published: 2025-02-19
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRkJrbkxFZ0tXZmdH"
 image: "./cover.png"
+description: "过往"
 ---
 
 :::note[META]

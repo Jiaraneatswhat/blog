@@ -4,6 +4,7 @@ published: 2025-04-09 23:58:10
 tags: [谷崎潤一郎, 现代文学]
 category: Books
 image: "./cover.png"
+description: "十一"
 ---
 
 :::note[META]

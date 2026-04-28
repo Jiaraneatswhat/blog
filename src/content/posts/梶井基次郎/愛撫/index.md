@@ -3,9 +3,8 @@ title: "梶井基次郎: 愛撫"
 published: 2026-03-06
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRnVQTVR5RkRteENi"
 image: "./cover.png"
+description: "爱抚"
 ---
 
 :::note[META]

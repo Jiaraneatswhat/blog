@@ -3,9 +3,8 @@ title: "梶井基次郎: 城のある町にて"
 published: 2025-02-16
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRmRzb25RdFVWcUV6"
 image: "./cover.png"
+description: "坐落在古城的市街"
 ---
 
 :::note[META]

@@ -3,9 +3,8 @@ title: "梶井基次郎: 檸檬"
 published: 2025-02-11
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRkJoU2dzQkFGZHF0"
 image: "./cover.png"
+description: "柠檬"
 ---
 
 :::note[META]

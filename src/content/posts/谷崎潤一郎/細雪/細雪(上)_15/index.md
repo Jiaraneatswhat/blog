@@ -4,6 +4,7 @@ published: 2025-05-01 00:26:44
 tags: [谷崎潤一郎, 现代文学]
 category: Books
 image: "./cover.png"
+description: "十五"
 ---
 
 :::note[META]

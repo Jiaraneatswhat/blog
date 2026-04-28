@@ -3,9 +3,8 @@ title: "梶井基次郎: 太郎と街"
 published: 2026-03-09
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRnZEZ3NtcEJqWmdB"
 image: "./cover.png"
+description: "太郎和街"
 ---
 
 :::note[META]

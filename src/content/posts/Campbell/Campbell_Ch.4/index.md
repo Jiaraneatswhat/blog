@@ -3,8 +3,8 @@ title: "Campbell's Biology Ch.4 Carbon and the Molecular Diversity of Life"
 published: 2024-11-28
 tags: [生物学, 普通生物学]
 category: Study
-author: ran
 image: "./images/cover.png"
+description: "chapter 4"
 ---
 
 ### CONCEPT 4.1 Organic chemistry is key to the origin of life

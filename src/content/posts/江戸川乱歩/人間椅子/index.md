@@ -1,13 +1,10 @@
 ---
 title: "江戸川乱歩: 人間椅子"
 published: 2024-10-26
-pinned: false
-description: "江戸川乱歩: 人間椅子"
 tags: [江戸川乱歩, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRktDWHRoeEtHQ3ZN"
 image: "./cover.png"
+description: "人间椅子"
 ---
 
 :::note[META]

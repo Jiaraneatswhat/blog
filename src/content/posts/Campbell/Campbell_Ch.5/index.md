@@ -3,8 +3,8 @@ title: "Campbell's Biology Ch.5 The Structure and Function of Large Biological M
 published: 2024-11-30
 tags: [生物学, 普通生物学]
 category: Study
-author: ran
 image: "./images/cover.png"
+description: "chapter 5"
 ---
 
 ### CONCEPT 5.1 Macromolecules are polymers, built from monomers

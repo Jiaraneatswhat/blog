@@ -3,8 +3,8 @@ title: "化物語(中): 第四話 なでこスネイク"
 published: 2025-04-15
 tags: [物语系列, 西尾維新, 轻小说]
 category: Books
-author: ran
 image: "./cover.png"
+description: "第四话"
 ---
 
 :::note[META]

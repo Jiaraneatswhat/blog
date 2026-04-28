@@ -3,8 +3,8 @@ title: "谷崎潤一郎: 细雪(上) 八"
 published: 2025-04-02 22:24:17
 tags: [谷崎潤一郎, 现代文学]
 category: Books
-author: ran
 image: "./cover.png"
+description: "八"
 ---
 
 悦子はままごとにも飽きてしまうと、お花に云いつけて二階の部屋から帳面を持って来させて、洋間で宿題の綴方を書いていた。

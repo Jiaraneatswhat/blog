@@ -3,9 +3,8 @@ title: "梶井基次郎: 泥濘"
 published: 2025-02-17
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRkFmUk53Q0VWeGdz"
 image: "./cover.png"
+description: "泥泞"
 ---
 
 :::note[META]

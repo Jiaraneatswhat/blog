@@ -3,8 +3,8 @@ title: "Campbell's Biology Ch.2 The Chemical Context of Life"
 published: 2024-11-26 21:00:00
 tags: [生物学, 普通生物学]
 category: Study
-author: ran
 image: "./images/cover.png"
+description: "chapter 2"
 ---
 
 ### CONCEPT 2.1 Matter consists of chemical elements in pure form and in combinations called compounds

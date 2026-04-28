@@ -3,8 +3,8 @@ title: "化物語(上): 第一話 ひたぎクラブ"
 published: 2024-10-29
 tags: [物语系列, 西尾維新, 轻小说]
 category: Books
-author: ran
 image: "./cover.png"
+description: "第一话"
 ---
 
 :::note[META]

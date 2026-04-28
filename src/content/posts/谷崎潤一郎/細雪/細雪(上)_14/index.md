@@ -4,6 +4,7 @@ published: 2025-04-19 20:51:11
 tags: [谷崎潤一郎, 现代文学]
 category: Books
 image: "./cover.png"
+description: "十四"
 ---
 
 :::note[META]

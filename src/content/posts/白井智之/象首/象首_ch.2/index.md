@@ -1,10 +1,10 @@
 ---
-title: "白井智之: 象首 二/変異"
+title: "白井智之: エレファントヘッド 二/変異"
 published: 2026-03-13
 tags: [白井智之, 大众文学]
 category: Books
-author: ran
 image: "./cover.png"
+description: "象首 二/变异" 
 ---
 
 :::note[META]

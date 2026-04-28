@@ -3,9 +3,8 @@ title: "江戸川乱歩: 白昼夢"
 published: 2024-10-24
 tags: [江戸川乱歩, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRk5LSG5aS0FpZWR4"
 image: "./cover.png"
+description: "白昼梦"
 ---
 
 :::note[META]

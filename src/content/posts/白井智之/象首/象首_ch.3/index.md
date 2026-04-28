@@ -1,10 +1,10 @@
 ---
-title: "白井智之: 象首 三/分裂"
+title: "白井智之: エレファントヘッド 三/分裂"
 published: 2026-03-15
 tags: [白井智之, 大众文学]
 category: Books
-author: ran
 image: "./cover.png"
+description: "象首 三/分裂"
 ---
 
 :::note[META]

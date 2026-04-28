@@ -5,6 +5,7 @@ tags: [夏目漱石, 近代文学]
 category: Books
 author: ran
 image: "./cover.png"
+description: "梦十夜"
 ---
 
 :::note[META]

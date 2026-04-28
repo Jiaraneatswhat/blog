@@ -5,6 +5,7 @@ tags: [生物学, 普通生物学]
 category: Study
 author: ran
 image: "./images/cover.png"
+description: "chapter 1"
 ---
 
 ### CONCEPT 1.1 The study of life reveals unifying themes

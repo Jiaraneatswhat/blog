@@ -3,9 +3,8 @@ title: "梶井基次郎: 冬の蠅"
 published: 2026-03-09
 tags: [梶井基次郎, 近代文学]
 category: Books
-author: ran
-sourceLink: "https://docs.qq.com/markdown/DRk90dU9UUnJoQmdC"
 image: "./cover.png"
+description: "冬蝇"
 ---
 
 :::note[META]
