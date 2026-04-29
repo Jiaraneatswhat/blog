@@ -1,9 +1,8 @@
 ---
 title: "芥川龍之介: 羅生門"
-published: 2026-04-10
+published: 2026-04-28
 tags: [芥川龍之介, 近代文学]
 category: Books
-author: ran
 image: "./cover.png"
 description: "罗生门"
 ---
