@@ -2,7 +2,7 @@
 title: "谷崎潤一郎: 细雪(上) 八"
 published: 2025-04-02 22:24:17
 tags: [谷崎潤一郎, 现代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "八"
 ---

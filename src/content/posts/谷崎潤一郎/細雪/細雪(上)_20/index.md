@@ -2,7 +2,7 @@
 title: "谷崎潤一郎: 细雪(上) 二十"
 published: 2025-05-28 14:35:40
 tags: [谷崎潤一郎, 现代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "二十"
 ---

@@ -2,7 +2,7 @@
 title: "梶井基次郎: ある崖上の感情"
 published: 2026-03-09
 tags: [梶井基次郎, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "山崖上的情感"
 ---

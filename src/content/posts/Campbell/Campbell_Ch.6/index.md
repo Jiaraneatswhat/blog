@@ -2,7 +2,7 @@
 title: "Campbell's Biology Ch.6 A Tour of the Cell"
 published: 2024-12-01
 tags: [生物学, 普通生物学]
-category: Study
+category: Science
 image: "./images/cover.png"
 description: "chapter 6"
 ---

@@ -2,8 +2,7 @@
 title: "中島敦: 弟子"
 published: 2026-03-30
 tags: [中島敦, 近代文学]
-category: Books
-author: ran
+category: Literature
 image: "./cover.png"
 description: "弟子"
 ---

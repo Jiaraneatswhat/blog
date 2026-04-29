@@ -2,7 +2,7 @@
 title: "梶井基次郎: 蒼穹"
 published: 2025-03-21
 tags: [梶井基次郎, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "苍穹"
 ---

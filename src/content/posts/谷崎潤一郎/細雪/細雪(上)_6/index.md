@@ -2,7 +2,7 @@
 title: "谷崎潤一郎: 细雪(上) 六"
 published: 2025-03-30 23:09:23
 tags: [谷崎潤一郎, 现代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "六"
 ---

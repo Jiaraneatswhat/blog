@@ -2,8 +2,7 @@
 title: "夏目漱石: 夢十夜"
 published: 2026-04-02
 tags: [夏目漱石, 近代文学]
-category: Books
-author: ran
+category: Literature
 image: "./cover.png"
 description: "梦十夜"
 ---

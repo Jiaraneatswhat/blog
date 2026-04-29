@@ -2,7 +2,7 @@
 title: "梶井基次郎: 雪後"
 published: 2025-02-20
 tags: [梶井基次郎, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "雪后"
 ---

@@ -2,7 +2,7 @@
 title: "Campbell's Biology Ch.3 Water and Life"
 published: 2024-11-26 21:21:00
 tags: [生物学, 普通生物学]
-category: Study
+category: Science
 image: "./images/cover.png"
 description: "chapter 3"
 ---

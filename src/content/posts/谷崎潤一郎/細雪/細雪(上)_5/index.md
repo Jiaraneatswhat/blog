@@ -2,7 +2,7 @@
 title: "谷崎潤一郎: 细雪(上) 五"
 published: 2025-03-26 20:59:29
 tags: [谷崎潤一郎, 现代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "五"
 ---

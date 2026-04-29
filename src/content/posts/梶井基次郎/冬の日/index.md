@@ -2,7 +2,7 @@
 title: "梶井基次郎: 冬の日"
 published: 2025-03-19
 tags: [梶井基次郎, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "冬日"
 ---

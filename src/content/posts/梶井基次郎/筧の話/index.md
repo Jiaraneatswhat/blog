@@ -2,7 +2,7 @@
 title: "梶井基次郎: 筧の話"
 published: 2026-03-09
 tags: [梶井基次郎, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "导水竹管的故事"
 ---

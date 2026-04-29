@@ -2,7 +2,7 @@
 title: "江戸川乱歩: 人間椅子"
 published: 2024-10-26
 tags: [江戸川乱歩, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "人间椅子"
 ---

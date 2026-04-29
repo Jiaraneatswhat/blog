@@ -2,7 +2,7 @@
 title: "梶井基次郎: Kの昇天"
 published: 2025-03-10
 tags: [梶井基次郎, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "K 的升天"
 ---

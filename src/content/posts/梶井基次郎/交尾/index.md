@@ -2,7 +2,7 @@
 title: "梶井基次郎: 交尾"
 published: 2026-03-22
 tags: [梶井基次郎, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "交尾"
 ---

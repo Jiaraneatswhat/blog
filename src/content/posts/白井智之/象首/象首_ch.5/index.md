@@ -1,8 +1,8 @@
 ---
 title: "白井智之: エレファントヘッド 五/発症"
 published: 2026-03-25
-tags: [白井智之, 大众文学]
-category: Books
+tags: [白井智之, 现代文学]
+category: Literature
 image: "./cover.png"
 description: "象首 五/发病"
 ---

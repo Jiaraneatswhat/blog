@@ -2,7 +2,7 @@
 title: "梶井基次郎: ある心の風景"
 published: 2025-03-10
 tags: [梶井基次郎, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "某个内心风景"
 ---

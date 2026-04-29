@@ -2,7 +2,7 @@
 title: "中島敦: 李陵"
 published: 2026-03-08
 tags: [中島敦, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "李陵"
 ---

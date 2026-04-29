@@ -2,7 +2,7 @@
 title: "江戸川乱歩: 白昼夢"
 published: 2024-10-24
 tags: [江戸川乱歩, 近代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "白昼梦"
 ---

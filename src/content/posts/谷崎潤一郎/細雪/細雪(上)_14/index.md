@@ -2,7 +2,7 @@
 title: "谷崎潤一郎: 细雪(上) 十四"
 published: 2025-04-19 20:51:11
 tags: [谷崎潤一郎, 现代文学]
-category: Books
+category: Literature
 image: "./cover.png"
 description: "十四"
 ---

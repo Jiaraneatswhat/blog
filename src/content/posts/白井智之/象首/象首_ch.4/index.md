@@ -1,8 +1,8 @@
 ---
 title: "白井智之: エレファントヘッド 四/増殖"
 published: 2026-03-17
-tags: [白井智之, 大众文学]
-category: Books
+tags: [白井智之, 现代文学]
+category: Literature
 image: "./cover.png"
 description: "象首 四/增殖"
 ---
