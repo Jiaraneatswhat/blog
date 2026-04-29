@@ -20,6 +20,13 @@ const diaryData: DiaryItem[] = [
 		date: "2026-04-24T22:50:59Z",
 		images: ["/images/diary/爆金币.png"],
 	},
+{
+		id: 2,
+		content:
+			"第一次同时出两个五星",
+		date: "2026-04-29T18:50:59Z",
+		images: ["/images/diary/bangdream1.png"],
+	},
 ];
 
 // 获取日记列表（按时间倒序）
