@@ -176,9 +176,6 @@ if (siteConfig.font) {
 			configHue={configHue}
 		/>
 
-		<!-- KaTeX CSS 核心样式 -->
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" />
-
 		<!-- defines global css variables. This will be applied to <html> <body> and some other elements idk why -->
 		<slot name="head" />
 
@@ -331,62 +328,4 @@ if (siteConfig.font) {
 <!-- 主题切换综合性能优化器（包含代码块优化、重型元素优化、性能诊断） -->
 <script>
 	import "../scripts/theme-optimizer.js";
-</script>
-
-<!-- 固定 Swup + Astro KaTeX 首次不显示问题 -->
-<script is:inline>
-document.addEventListener('DOMContentLoaded', () => {
-  if (window.renderMathInElement) {
-    renderMathInElement(document.body, {
-      delimiters: [{ left: "$", right: "$", display: false }],
-      throwOnError: false
-    })
-  }
-
-  document.addEventListener('swup:contentReplaced', function () {
-    setTimeout(() => {
-      if (window.renderMathInElement) {
-        renderMathInElement(document.body, {
-          delimiters: [{ left: "$", right: "$", display: false }],
-          throwOnError: false
-        })
-      }
-    }, 50)
-  })
-})
-</script>
-
-<script is:inline>
-// 加载 KaTeX 并永久解决 Swup 跳转不渲染公式
-const loadKaTeX = async () => {
-  if (window.renderMathInElement) return;
-  
-  await new Promise((res) => {
-    const s = document.createElement('script');
-    s.src = 'https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js';
-    s.onload = res;
-    document.head.appendChild(s);
-  });
-
-  const render = () => {
-    try {
-      renderMathInElement(document.body, {
-        delimiters: [
-          { left: "$$", right: "$$", display: true },
-          { left: "$", right: "$", display: false }
-        ],
-        throwOnError: false
-      });
-    } catch(e) {}
-  };
-
-  render();
-  document.addEventListener('swup:contentReplaced', () => setTimeout(render, 80));
-};
-
-if (document.readyState === 'complete') {
-  loadKaTeX();
-} else {
-  window.addEventListener('load', loadKaTeX);
-}
 </script>

@@ -120,7 +120,7 @@ export default defineConfig({
 	],
 	markdown: {
 		remarkPlugins: [
-			// remarkMath,
+			remarkMath,
 			remarkContent,
 			remarkFixGithubAdmonitions,
 			remarkDirective,
@@ -129,7 +129,7 @@ export default defineConfig({
 			remarkMermaid,
 		],
 		rehypePlugins: [
-			// rehypeKatex,
+			rehypeKatex,
 			[
 				rehypeExternalLinks,
 				{
