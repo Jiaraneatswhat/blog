@@ -30,7 +30,6 @@ pinned: true
 	<tr> 
 		<td style="text-align:center; background:#16ad6b;">1916</td> 
 		<td><a href="/posts/芥川龍之介/芋粥/">芋粥</a></td>
-		<td>芋粥</td> 
 		<td style="text-align:center;">☑</td>
 	</tr>
 	<tr> 
