@@ -8,7 +8,6 @@ description: "第三话"
 ---
 
 :::note[META]
-`audio`: `Amazon Audible`
 `desc`: 沦为吸血鬼体质的高中生阿良良木历。他所邂逅的、向猴子许下愿望的少女，以及被毒蛇缠附缠身的少女，究竟是……？
 :::
 

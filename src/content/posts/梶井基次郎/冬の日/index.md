@@ -9,7 +9,6 @@ description: "冬日"
 
 :::note[META]
 `first published`:『青空』 1927年2月・通巻24号-4月・通巻26号
-`audio`: https://www.youtube.com/watch?v=Nc_s3_7HMLY
 `desc`: 作品由六章的片段式插曲构成，是一篇抒情写意的内心独白式作品。在肺结核症状明显加重、开始持续咳血痰的时期，作者将内心的焦躁与绝望，同隆冬时节不断更迭的季节景致交织在一起进行描绘
 :::
 

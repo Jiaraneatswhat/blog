@@ -9,7 +9,6 @@ description: "路上"
 
 :::note[META]
 `first published`:『青空』 1925年10月・通巻8号
-`audio`: https://www.youtube.com/watch?v=1eYVBN74MPU&t=44s
 `desc`: “我”曾和朋友一起发现了一条靠近悬崖的近路。在一个雨后的日子，我想从那道悬崖边回家，却因为路面泥泞湿滑，不断打滑、险些摔倒。我既不安地担心有没有人看到自己这副狼狈模样，可转念想到其实根本没人在看，又不由得感到一阵落寞
 :::
 

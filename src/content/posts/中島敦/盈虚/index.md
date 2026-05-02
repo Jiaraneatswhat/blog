@@ -9,7 +9,6 @@ description: "盈虚"
 
 :::note[META]
 `first published`:『政界往来』1942年7月
-`audio`: https://www.youtube.com/watch?v=VTlAUVOnHWY&t=415s
 `desc`: 取材于左传中定公十四年至哀公十七年关于卫庄公的历史记载，讲述了流亡归国夺权的卫庄公蒯聩，因长期积怨变得暴虐无道，最终众叛亲离、被曾受他羞辱的百姓杀死的故事，尽显人生盛衰无常的 “盈虚” 之理
 :::
 

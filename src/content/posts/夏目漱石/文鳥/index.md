@@ -9,7 +9,6 @@ description: "文鸟"
 
 :::note[META]
 `first published`:『大阪朝日新聞』1908年6月
-`audio`: https://www.youtube.com/watch?v=rLvztmr1vUI
 `desc`: 在学生的要求下，夏目漱石开始饲养一只文鸟，随着照料与接近，文鸟的美丽与个性，让漱石一再想起过去交往过的女性，最終……夏目漱石到底都怎么跟恋人交往、互动呢？一场养鸟的经历，带你一窥夏目漱石的爱情世界
 :::
 

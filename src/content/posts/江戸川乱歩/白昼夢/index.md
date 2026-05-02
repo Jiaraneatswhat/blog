@@ -9,7 +9,6 @@ description: "白昼梦"
 
 :::note[META]
 `first published`:『新青年』1925年7月号
-`audio`: https://www.youtube.com/watch?v=1go2jtKKAcE&t=130s
 `desc`: 有着偷窥他人生活的病态癖好的主人公，因偷窥到住在楼下一对夫妇的秘密，而逐渐陷入梦境与现实边界模糊的状态
 :::
 

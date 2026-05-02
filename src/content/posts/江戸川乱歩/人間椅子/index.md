@@ -9,7 +9,6 @@ description: "人间椅子"
 
 :::note[META]
 `first published`:『苦楽』1925年9月増刊号
-`audio`: https://www.youtube.com/watch?v=zat3ffz08Cs
 `desc`: 寄到某位女作家手中的一封信。本以为是粉丝来信，没想到信中却……
 :::
 

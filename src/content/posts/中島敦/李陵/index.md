@@ -9,7 +9,6 @@ description: "李陵"
 
 :::note[META]
 `first published`:『文學界』1943年7月号
-`audio`: https://www.youtube.com/watch?v=MXFqxjXk_4k&t=1578s
 `desc`: 以汉武帝天汉二年李陵伐匈奴的史实为蓝本，围绕李陵、司马迁、苏武三人的命运交织，讲述了一场由战场绝境、廷议构陷、君主误判引发的千古悲剧
 :::
 

@@ -8,7 +8,6 @@ description: "太郎和街"
 ---
 
 :::note[META]
-`audio`: https://www.youtube.com/watch?v=kfQAKHehkSM
 `desc`: 以感官漫游加上内心幻想的散文诗式写法，描绘出一个青年在秋日都市里漫无目的游荡、挥霍、沉醉于街景声色的短暂狂喜
 :::
 
