@@ -15,9 +15,9 @@ pinned: true
 		<th style="text-align: center;">status</th>
 	</tr> 
 	<tr> 
-		<td rowspan="38" style="text-align:center; vertical-align:middle;">JP</td> 
-		<td rowspan="4" style="text-align:center; vertical-align:middle;">あ行</td>
-		<td rowspan="2" style="text-align:center; vertical-align:middle;">芥川龍之介</td>
+		<td rowspan="39" style="text-align:center; vertical-align:middle;">JP</td> 
+		<td rowspan="5" style="text-align:center; vertical-align:middle;">あ行</td>
+		<td rowspan="3" style="text-align:center; vertical-align:middle;">芥川龍之介</td>
 		<td style="text-align:center; background:#16ad6b;">1915</td>
 		<td><a href="/posts/芥川龍之介/羅生門/">羅生門</a></td>
 		<td style="text-align:center;">☑</td>
@@ -27,6 +27,12 @@ pinned: true
 		<td><a href="/posts/芥川龍之介/鼻/">鼻</a></td> 
 		<td style="text-align:center;">☑</td>
 	</tr> 
+	<tr> 
+		<td style="text-align:center; background:#16ad6b;">1916</td> 
+		<td><a href="/posts/芥川龍之介/芋粥/">芋粥</a></td>
+		<td>芋粥</td> 
+		<td style="text-align:center;">☑</td>
+	</tr>
 	<tr> 
 		<td rowspan="2" style="text-align:center; vertical-align:middle;">江戸川乱歩</td>
 		<td style="text-align:center; background:#16ad6b;">1925</td>
