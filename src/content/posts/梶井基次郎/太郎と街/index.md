@@ -8,8 +8,13 @@ description: "太郎和街"
 ---
 
 :::note[META]
+`audio`：`https://www.youtube.com/watch?v=kfQAKHehkSM`
 `desc`: 以感官漫游加上内心幻想的散文诗式写法，描绘出一个青年在秋日都市里漫无目的游荡、挥霍、沉醉于街景声色的短暂狂喜
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Taroutomachi.mp3"> 
+</audio>
 
 秋は洗ひたての<ruby>敷布<rt>シーツ</ruby>の樣に<ruby>快<rt>こころよ</ruby>かつた。太郎は第一の街で夏服を<font color="#ff0080"><ruby>質<rt>しち</ruby></font>[^1]に入れ、第二の街で牛肉を食つた。微醉して街の上へ出ると正午のドンが鳴つた。
 

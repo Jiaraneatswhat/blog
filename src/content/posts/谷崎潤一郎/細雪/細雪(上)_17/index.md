@@ -8,10 +8,14 @@ description: "十七"
 ---
 
 :::note[META]
-初出:『中央公論』1943年1月号・3月号
-`audio`: https://www.youtube.com/watch?v=7NrVUjSmwtQ&t=5s
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=7NrVUjSmwtQ&t=5s`
 `desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_17.mp3"> 
+</audio>
 
 そんなことから、最初は真面目でよばれに行く気はなかったのだけれども、妙子の話でだんだん好奇心が<font color="#ff0080">募って</font>[^82]来たのと、先方から再三招待があって断りにくくなったのとで、とうとうキリレンコの家へ出かけて行ったのは、
 

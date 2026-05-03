@@ -9,8 +9,13 @@ description: "芋粥"
 
 :::note[META]
 `first published`:『新小説』1916年9月
+`audio`: `https://www.youtube.com/watch?v=ootmPt4WYmk`
 `desc`: 五位是侍奉藤原基经的一名武士，年过四十，模样邋遢散漫。他平日里也受尽周遭众人的刻薄对待。五位的梦想，是尽情喝个够芋头粥。听闻他这份心愿的藤原利仁，决意帮他实现这个梦想，然而……
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/AkutagawaRyunosuke/Imogayu.mp3"> 
+</audio>
 
 <ruby>元慶<rt>ぐわんぎやう</ruby>の末か、<font color="#e36c09"><ruby>仁和<rt>にんな</ruby></font>[^1]の始にあつた話であらう。どちらにしても時代はさして、この話に大事な役を、勤めてゐない。読者は唯、平安朝と云ふ、遠い昔が背景になつてゐると云ふ事を、知つてさへゐてくれれば、よいのである。――その頃、<ruby>摂政<rt>せつしやう</ruby>藤原<ruby>基経<rt>もとつね</ruby>に仕へてゐる<ruby>侍<rt>さむらひ</ruby>の中に、<ruby>某<rt>なにがし</ruby>と云ふ<font color="#e36c09">五位</font>[^2]があつた。
 

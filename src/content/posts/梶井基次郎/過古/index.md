@@ -9,8 +9,13 @@ description: "过往"
 
 :::note[META]
 `first published`:『青空』 1926年1月・通巻11号
+`audio`: `https://www.youtube.com/watch?v=XNsS2vwt-ow&t=1311s`
 `desc`: 以第一人称记录了作者在伊豆汤之岛疗养期间，于深夜山林溪谷间行走的感官体验与哲思
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Kako.mp3"> 
+</audio>
 
 母親がランプを消して出て来るのを、子供達は父親や祖母と共に、戸外で待っていた。
 

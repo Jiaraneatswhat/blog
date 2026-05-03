@@ -8,10 +8,14 @@ description: "十五"
 ---
 
 :::note[META]
-初出:『中央公論』1943年1月号・3月号
-`audio`: https://www.youtube.com/watch?v=Q7671BbPfHA
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=Q7671BbPfHA`
 `desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_15.mp3"> 
+</audio>
 
 井谷は十二月になってからはぱったり催促して来なくなったが、事によると形勢の非なることを大凡そ悟ったのかも知れないので、それなら却って都合がよい訳でもあった。貞之助は、他聞を憚ることもあるから美容院でなく、岡本のお宅の方へお伺いしたいと思いますがと、在宅の時間を確かめておいて、夕刻、いつもよりは遅めに事務所を出て、その足で岡本へ廻った。
 

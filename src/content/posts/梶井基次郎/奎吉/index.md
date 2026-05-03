@@ -9,8 +9,13 @@ description: "奎吉"
 
 :::note[META]
 `first published`:『眞素木』1923年5月号
+`audio`：`https://www.youtube.com/watch?v=rVbfglcn2Pw`
 `desc`: 主人公奎吉沉溺于堕落的生活，被金钱的欲望驱使，想要向弟弟借钱。可与此同时，后悔与罪恶感却始终萦绕在他心头
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Keikichi.mp3"> 
+</audio>
 
 「たうとう弟にまで金を借りる樣になつたかなあ。」と奎吉は、一度思ひついたら最後の後悔の幕迄行つて見なければ得心の出來なくなる、いつもの彼の盲目的な欲望がむらむらと高まつて來るのを感じながら思つた。
 

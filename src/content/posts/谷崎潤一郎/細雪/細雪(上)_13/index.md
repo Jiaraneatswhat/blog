@@ -8,10 +8,15 @@ description: "十三"
 ---
 
 :::note[META]
-初出:『中央公論』1943年1月号・3月号
-`audio`: https://www.youtube.com/watch?v=WPv5xgajy8U
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=WPv5xgajy8U`
 `desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_13.mp3"> 
+</audio>
+
 
 「そんなら、あんたどない云やはった」
 

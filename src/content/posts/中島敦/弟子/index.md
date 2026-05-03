@@ -9,10 +9,15 @@ description: "弟子"
 
 :::note[META]
 `first published`:『中央公論』1943年2月号
+`audio`：`https://www.youtube.com/watch?v=zKbx8x2HiEY&t=299s`
 `desc`: 以《论语》为原典创作的短篇小说，讲述子路拜入孔子门下，直至在卫国政变中身亡的故事。作品饱含情感地刻画了子路拜师后，在自己率直鲁莽的性格与儒家学说之间的巨大反差中，一边苦恼一边求学的模样，以及孔子虽时常严厉斥责他，却始终真心喜爱他的样子
 :::
 
 ### 一
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_1.mp3"> 
+</audio>
 
 <ruby>魯<rt>ろ</ruby>の<ruby>卞<rt>べん</ruby>の<ruby>游侠<rt>ゆうきょう</ruby>の徒、<ruby>仲由<rt>ちゅうゆう</ruby>、<ruby>字<rt>あざな</ruby>は子路という者が、近頃賢者の噂も高い<ruby>学匠<rt>がくしょう</ruby>・<ruby>陬人<rt>すうひと</ruby><ruby>孔丘<rt>こうきゅう</ruby>を<ruby>辱<rt>はずか</ruby>しめてくれようものと思い立った。
 
@@ -72,6 +77,10 @@ description: "弟子"
 
 ### 二
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_2.mp3"> 
+</audio>
+
 このような人間を、子路は見たことがない。力<ruby>千鈞<rt>せんきん</ruby>の<ruby>鼎<rt>かなえ</ruby>を挙げる勇者を<ruby>彼<rt>かれ</ruby>は見たことがある。<ruby>明<rt>めい</ruby>千里の外を察する<ruby>智者<rt>ちしゃ</ruby>の話も聞いたことがある。しかし、孔子に在るものは、決してそんな怪物めいた異常さではない。ただ最も常識的な完成に過ぎないのである。知情意のおのおのから肉体的の諸能力に至るまで、実に平凡に、しかし実に伸び伸びと発達した見事さである。一つ一つの能力の優秀さが全然目立たないほど、<ruby>過不及<rt>かふきゅう</ruby>無く均衡のとれた豊かさは、子路にとって<ruby>正<rt>まさ</ruby>しく初めて見る所のものであった。
 
 <font color="#548dd4">这样的人，子路从来不曾见过。他看到过力举千斤鼎的勇士，也听说过明察千里外的智者；可孔子身上有的决不是那种近乎怪物似的异常之能，而不过是最常识性的达成。那是从知情意各个方面到身体诸项能力都平凡地、却又无比舒展地获得发达后生出的精彩。不是单独哪一项能力特别优秀引人注目，而是无过无不及的整体均衡中包含的丰富。这些对于子路完全是第一次。</font>
@@ -113,6 +122,10 @@ description: "弟子"
 <font color="#548dd4">子路不是精细的心理分析学家，但由于极端正直的性格，所以感觉到了这些。只是在多年之后有一天，他无意间发现父母都已经垂垂老去，想起自己小时候两人年轻健康的样子，顿时涌出了眼泪。从那以后，子路的孝顺变成了一种世所罕见的献身式的行为。但在那之前，总之他的孝行不过是刚才所讲的那样。</font>
 
 ### 三
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_3.mp3"> 
+</audio>
 
 ある日子路が街を歩いて行くと、かつての友人の二三に出会った。無頼とは云えぬまでも<ruby>放縦<rt>ほうじゅう</ruby>にして<ruby>拘<rt>こだ</ruby>わる所の無い游侠の徒である。
 
@@ -172,6 +185,10 @@ description: "弟子"
 
 ### 四
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_4.mp3"> 
+</audio>
+
 ある時、子路が一室で<ruby>瑟<rt>しつ</ruby>を<ruby>鼓<rt>こ</ruby>していた。
 
 <font color="#548dd4">一次，子路独自在室内鼓瑟。</font>
@@ -197,6 +214,10 @@ description: "弟子"
 <font color="#548dd4">看到好兄弟兴奋的笑容，年轻的子贡忍不住笑了。聪明的子贡知道，子路弹出的乐音仍然充满北声的杀伐之气；而夫子之所以不加责备，只是出于对苦思到人都瘦了的直性子子路的怜悯罢了。</font>
 
 ### 五
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_5.mp3"> 
+</audio>
 
 弟子の中で、子路ほど孔子に叱られる者は無い。子路ほど遠慮なく師に反問する者もない。
 
@@ -235,6 +256,10 @@ description: "弟子"
 <font color="#548dd4">“敬而不中礼，谓之野。勇而不中礼，谓之逆。”“好直不好学，其蔽也绞；好勇不好学，其蔽也乱。”这些话，与其说是讲给作为个人的子路听的，还不如说是讲给作为学生头的子路听的。因为在子路这个特殊的个体身上是魅力的东西，若到了其他门生身上，则往往是有害的。</font>
 
 ### 六
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_6.mp3"> 
+</audio>
 
 <ruby>晋<rt>しん</ruby>の<ruby>魏楡<rt>きゆ</ruby>の地で石が<ruby>もの<rt>丶丶</ruby>を言ったという。民の<ruby>怨嗟<rt>えんさ</ruby>の声が石を仮りて発したのであろうと、ある賢者が解した。既に<ruby>衰微<rt>すいび</ruby>した周室は更に二つに分れて争っている。十に余る大国はそれぞれ相結び相闘って<ruby>干戈<rt>かんか</ruby>の止む時が無い。<ruby>斉侯<rt>せいこう</ruby>の一人は臣下の妻に通じて夜ごとその<ruby>邸<rt>やしき</ruby>に<ruby>忍<rt>しの</ruby>んで来る中についにその夫に<ruby>弑<rt>しい</ruby>せられてしまう。<ruby>楚<rt>そ</ruby>では王族の一人が<ruby>病臥<rt>びょうが</ruby>中の王の<ruby>頸<rt>くび</ruby>をしめて位を奪う。<ruby>呉<rt>ご</ruby>では足頸を<ruby>斬取<rt>きりと</ruby>られた罪人共が王を襲い、晋では二人の臣が互いに妻を交換し合う。このような世の中であった。
 
@@ -302,6 +327,10 @@ description: "弟子"
 
 ### 七
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_7.mp3"> 
+</audio>
+
 大きな疑問が一つある。子供の時からの疑問なのだが、成人になっても老人になりかかってもいまだに納得できないことに変りはない。それは、誰もが一向に怪しもうとしない事柄だ。<ruby>邪<rt>じゃ</ruby>が栄えて正が<font color="#ff0080"><ruby>虐<rt>しいた</ruby>げられる</font>[^13]という・ありきたりの事実についてである。
 
 <font color="#548dd4">有一个大疑问。从孩提时就为这个疑问感到困惑，而到了长大成人，甚至渐入老境后依然找不到答案。那是关于一种谁也不感到奇怪的现象，关于邪荣正凋这种处处可见的事实的疑问。</font>
@@ -331,6 +360,10 @@ description: "弟子"
 <font color="#548dd4">从为斯人、斯世洒泪的那天起，子路下定了决心。要做一面在浊世的所有侵害中保护斯人的盾牌。作为精神上获得指引和守护的回报，要用自己的身躯承担所有世俗的污辱和烦劳。就算是自不量力也罢，总之这是自己的使命。论才学，自己也许比不上后学的诸位才子，但是一旦有事，能为了夫子抛却性命在所不惜的却首先是自己。他深深地相信着这一点。</font>
 
 ### 八
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_8.mp3"> 
+</audio>
 
 「ここに美玉あり。<ruby>匱<rt>ひつ</ruby>に<ruby>韞<rt>おさ</ruby>めて<ruby>蔵<rt>かく</ruby>さんか。<ruby>善賈<rt>ぜんか</ruby>を求めて<ruby>沽<rt>う</ruby>らんか。」と子貢が言った時、孔子は即座に、「これを沽らん<ruby>哉<rt>かな</ruby>。これを沽らん哉。我は<ruby>賈<rt>あたい</ruby>を待つものなり。」と答えた。
 
@@ -389,6 +422,10 @@ description: "弟子"
 <font color="#548dd4">正是这样！子路彻底心服了。但是子贡却感到自己又被巧妙地闪了个空。“那是不错，可我说的并不是那回事。”子贡脸上的表情明显这么写着不满。</font>
 
 ### 九
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_9.mp3"> 
+</audio>
 
 <ruby>衛<rt>えい</ruby>の霊公は極めて意志の弱い君主である。賢と不才とを識別し得ないほど愚かではないのだが、結局は苦い<ruby>諫言<rt>かんげん</ruby>よりも甘い<ruby>諂諛<rt>てんゆ</ruby>に<ruby>欣<rt>よろこ</ruby>ばされてしまう。衛の国政を左右するものはその後宮であった。
 
@@ -452,6 +489,10 @@ description: "弟子"
 
 ### 十
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_10.mp3"> 
+</audio>
+
 <ruby>葉公<rt>しょうこう</ruby><ruby>子高<rt>しこう</ruby>は<ruby>竜<rt>りゅう</ruby>を好むこと甚だしい。居室にも竜を<ruby>雕<rt>ほ</ruby>り<ruby>繍帳<rt>しゅうちょう</ruby>にも竜を画き、日常竜の中に<ruby>起臥<rt>きが</ruby>していた。これを聞いた<ruby>ほん<rt>丶丶</ruby><ruby>物<rt>もの</ruby>の天竜が大きに欣んで一日葉公の家に<ruby>降<rt>くだ</ruby>り己の愛好者を覗き見た。頭は<ruby>牖<rt>まど</ruby>に窺い<ruby>尾<rt>お</ruby>は堂に<ruby>拖<rt>ひ</ruby>くという素晴らしい大きさである。葉公はこれを見るや<ruby>怖<rt>おそ</ruby>れわなないて<ruby>逃<rt>に</ruby>げ走った。その<ruby>魂魄<rt>こんぱく</ruby>を失い<ruby>五色主無<rt>ごしきしゅな</ruby>し、という意気地無さであった。
 
 <font color="#548dd4">叶公子高很喜欢龙。他在居室里刻上龙，在帷帐上绣着龙，每天生活在龙的中间。天上的真龙听说此事大喜过望，一日飞降到叶公家里，要一睹自己的崇拜者。真龙体格雄伟，龙头钻出窗口，龙尾还拖在堂前。叶公见后周身战栗，落荒而走，失魂落魄，六神无主。</font>
@@ -497,6 +538,10 @@ description: "弟子"
 <font color="#548dd4">子路不由得脸红了。他感到自己身上的小人被指了出来。以困穷为命运，临大难而不动声色，看到这样的孔子，他不得不感叹“大哉勇也”。相形之下，以前自己所引以为豪的白刃加睫而目不转睛的勇，实在是渺小得可怜。</font>
 
 ### 十一
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_11.mp3"> 
+</audio>
 
 <ruby>許<rt>きょ</ruby>から<ruby>葉<rt>しょう</ruby>へと出る途すがら、子路が独り孔子の一行に遅れて畑中の<ruby>路<rt>みち</ruby>を歩いて行くと、<ruby>蓧<rt>あじな</ruby>を<ruby>荷<rt>にな</ruby>うた一人の老人に会った。
 
@@ -555,6 +600,10 @@ description: "弟子"
 <font color="#548dd4">将近午时，他终于在前方远处碧绿的麦田的小路上看到了一群人影。当认出在里面显得尤其高大的孔子的身影时，子路突然感到一种胸口被紧紧揪住的痛苦。</font>
 
 ### 十二
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_12.mp3"> 
+</audio>
 
 宋から陳に出る渡船の上で、子貢と宰予とが議論をしている。
 
@@ -634,6 +683,10 @@ description: "弟子"
 
 ### 十三
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_13.mp3"> 
+</audio>
+
 衛に出入すること四度、陳に留まること三年、<ruby>曹<rt>そう</ruby>・宋・蔡・葉・楚と、子路は孔子に従って歩いた。
 
 <font color="#548dd4">进出卫国凡四次，滞留陈国共三年，曹，宋，蔡，叶，楚……子路始终追随在孔子左右。</font>
@@ -655,6 +708,10 @@ description: "弟子"
 <font color="#548dd4">在漂泊岁月的流逝中，子路也已经年届五十了。棱角虽然尚未磨平，但人格的厚重的的确在增加。后世所谓“万钟与我有何加焉”的气骨，还有那炯炯的目光，都早已摆脱了穷酸游侠的自吹自擂，具备了堂堂一家的风骨。</font>
 
 ### 十四
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_14.mp3"> 
+</audio>
 
 孔子が四度目に衛を訪れた時、若い衛侯や正卿<ruby>孔叔圉<rt>こうしゅくぎょ</ruby>等から<ruby>乞<rt>こ</ruby>われるままに、子路を推してこの国に仕えさせた。孔子が十余年ぶりで故国に<ruby>聘<rt>むか</ruby>えられた時も、子路は別れて衛に留まったのである。
 
@@ -694,6 +751,10 @@ description: "弟子"
 
 ### 十五
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_15.mp3"> 
+</audio>
+
 魯の<ruby>哀公<rt>あいこう</ruby>が西の<ruby>方<rt>かた</ruby><ruby>大野<rt>たいや</ruby>に<ruby>狩<rt>かり</ruby>して<ruby>麒麟<rt>きりん</ruby>を<ruby>獲<rt>え</ruby>た頃、子路は一時衛から魯に帰っていた。その時<ruby>小邾<rt>しょうちゅ</ruby>の大夫・<ruby>射<rt>えき</ruby>という者が国に<ruby>叛<rt>そむ</ruby>き魯に来奔した。
 
 <font color="#548dd4">鲁哀公在西方的大野狩猎、捕获了麒麟的时候，子路回了一趟鲁国。当时小邾的大夫射叛逃自己的国家，亡命到了鲁国。</font>
@@ -731,6 +792,10 @@ description: "弟子"
 <font color="#548dd4">受教将近四十年，这中间的鸿沟，还是无法可想。</font>
 
 ### 十六
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Deshi/Deshi_16.mp3"> 
+</audio>
 
 子路が魯に来ている間に、衛では政界の大黒柱<ruby>孔叔圉<rt>こうしゅくぎょ</ruby>が死んだ。その未亡人で、亡命太子<ruby>蒯聩<rt>かいがい</ruby>の姉に当る<ruby>伯姫<rt>はくき</ruby>という女策士が政治の表面に出て来る。
 

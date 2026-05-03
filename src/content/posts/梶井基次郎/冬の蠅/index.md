@@ -9,8 +9,13 @@ description: "冬蝇"
 
 :::note[META]
 `first published`:『創作月刊』1928年5月1日発行5月号
+`audio`：`https://www.youtube.com/watch?v=cqd4KrjoLzk&list=RDcqd4KrjoLzk&start_radio=1`
 `desc`: 以溪谷间温泉疗养地的冬季为背景，描写 “我” 在房间里观察栖息于此的苍蝇。作品以在伊豆汤之岛度过的第二个冬天为题材 —— 彼时 “我” 因病情不见好转、对未来充满不安，每日都在焦躁与倦怠中度过。文中细致刻画了 “我” 矛盾交织的心境：一方面是沐浴在阳光中、带有自欺性质的安逸；另一方面则是在极度寒冷的绝望与紧绷中所感受到的战栗。通过在数日徘徊后死去的冬日苍蝇的命运，作品描绘出 “我” 最终获得的全新认知：世界上的一切生命，其命运都被托付于超越人类意志、变幻无常的偶然条件之中
 :::
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohae/Fuyunohae_0.mp3"> 
+</audio>
 
 冬の<ruby>蠅<rt>はえ</ruby>とは何か？
 
@@ -25,6 +30,10 @@ description: "冬蝇"
 <font color="#548dd4">从冬天到早春这段时间，人们肯定不止一次看过这种苍蝇。这就是冬蝇。此刻我想以这个冬天住在我房里的它们，来写一篇小说。</font>
 
 ### 1
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohae/Fuyunohae_1.mp3"> 
+</audio>
 
 冬が来て私は日光浴をやりはじめた。<ruby>溪間<rt>たにま</ruby>の温泉宿なので日が<ruby>翳<rt>かげ</ruby>り易い。溪の風景は朝遅くまでは日影のなかに澄んでいる。やっと十時頃溪向こうの山に<ruby>堰<rt>せ</ruby>きとめられていた日光が<ruby>閃々<rt>せんせん</ruby>と私の窓を<ruby>射<rt>い</ruby>はじめる。窓を開けて仰ぐと、溪の空は<ruby>虻<rt>あぶ</ruby>や<ruby>蜂<rt>はち</ruby>の光点が忙しく飛び交っている。白く輝いた蜘蛛の糸が弓形に膨らんで幾条も幾条も流れてゆく。（その糸の上には、なんという小さな天女！　蜘蛛が乗っているのである。彼らはそうして自分らの身体を溪のこちら岸からあちら岸へ運ぶものらしい。）昆虫。昆虫。初冬といっても彼らの活動は空に織るようである。日光が<ruby>樫<rt>かし</ruby>の梢に染まりはじめる。するとその梢からは白い水蒸気のようなものが立ち<ruby>騰<rt>のぼ</ruby>る。霜が溶けるのだろうか。溶けた霜が蒸発するのだろうか。いや、それも昆虫である。微粒子のような羽虫がそんなふうに群がっている。そこへ日が当ったのである。
 
@@ -99,6 +108,10 @@ description: "冬蝇"
 <font color="#548dd4">只要心里挂念着这件事，我就会失眠。一旦睡不着，就会想起军舰的下水仪式。接着一首一首回想《小仓百人一首》，思考和歌的含义。最后我幻想着我能想得到的各种残忍的自杀手法，借由这样的一再累积，引自己入睡。地点在空荡的溪谷旅馆内的某个房间。它们紧贴着天花板，就像死了一样，静静蛰伏不动的某个房间。</font>
 
 ### 2
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohae/Fuyunohae_2.mp3"> 
+</audio>
 
 その日はよく晴れた温かい日であった。午後私は村の郵便局へ手紙を出しに行った。私は疲れていた。それから<ruby>溪<rt>たに</ruby>へ下りてまだ三四丁も歩かなければならない私の宿へ帰るのがいかにも<ruby>億劫<rt>おっくう</ruby>であった。そこへ一台の乗合自動車が通りかかった。それを見ると私は不意に手を挙げた。そしてそれに乗り込んでしまったのである。
 
@@ -185,6 +198,10 @@ description: "冬蝇"
 <font color="#548dd4">我以港口为中心，连着三天都待在附近的温泉地，推迟了归期。南方大海明亮的颜色及气味，我觉得有点狂野、粗糙。而且那粗俗又肮脏的平原景致，我很快就看腻了。山林与溪谷互相对立，没有半点让心灵静养的空间，也没有令人安稳的愿望，这是我所居住的村庄的风景，我知道它不知不觉间已如影随形。三天后，为了封闭我的心灵，我再次回到了村庄。</font>
 
 ### 3
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohae/Fuyunohae_3.mp3"> 
+</audio>
 
 私は何日も悪くなった身体を寝床につけていなければならなかった。私には別にさした後悔もなかったが、知った人びとの誰彼がそうしたことを聞けばさぞ陰気になり気を悪くするだろうとそのことばかり思っていた。
 

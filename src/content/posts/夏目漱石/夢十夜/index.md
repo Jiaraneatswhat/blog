@@ -9,10 +9,15 @@ description: "梦十夜"
 
 :::note[META]
 `first published`: 1908年连载于『東京朝日新聞』
+`audio`: `https://www.youtube.com/watch?v=bVJnRRiaBSA`
 `desc`: 夏目漱石的短篇幻想小说集，描绘了十个不可思议的梦境。以经典开篇 “我做了这样一个梦” 起笔，围绕爱、嫉妒、死亡、恐惧等主题，将漱石自身的深层心理与人类社会的矛盾浓缩其中，是一组充满奇幻色彩与诗意的作品
 :::
 
 ### 第一夜
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_1.mp3"> 
+</audio>
 
 こんな夢を見た。
 
@@ -124,6 +129,10 @@ description: "梦十夜"
 
 ### 第二夜
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_2.mp3"> 
+</audio>
+
 こんな夢を見た。
 
 <font color="#548dd4">做了这样一个梦。</font>
@@ -197,6 +206,10 @@ description: "梦十夜"
 <font color="#548dd4">不久，我有了异样的感觉。座灯、蕪村的画、榻榻米、棚架，好似都消失了，可是又好似都仍存在著。话虽如此，这并不表示 “无” 已现身在我眼前。我只是马马虎虎坐着而已。然后，隔壁房间的座钟开始响起。我吓了一跳。右手马上搁在短刀上。时钟又敲了第二响。</font>
 
 ### 第三夜
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_3.mp3"> 
+</audio>
 
 こんな夢を見た。
 
@@ -344,6 +357,10 @@ description: "梦十夜"
 
 ### 第四夜
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_4.mp3"> 
+</audio>
+
 広い土間の真中に涼み台のようなものを<ruby>据<rt>す</ruby>えて、その<ruby>周囲<rt>まわり</ruby>に小さい<font color="#ff0080"><ruby>床几<rt>しょうぎ</ruby></font>[^10]が並べてある。台は黒光りに光っている。
 
 <font color="#548dd4">广阔的水泥地中央，搁置着一个类似纳凉用的长凳，四周并排着几个小折凳。长凳黑得发亮。</font>
@@ -466,6 +483,10 @@ description: "梦十夜"
 
 ### 第五夜
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_5.mp3"> 
+</audio>
+
 こんな夢を見た。
 
 <font color="#548dd4">做了这样一个梦。</font>
@@ -535,6 +556,10 @@ description: "梦十夜"
 <font color="#548dd4">马蹄痕现在仍清晰地刻印在岩石上。模仿鸡啼声的是天探女。只要这马蹄痕还刻印在岩石上期间，天探女永远是我的敌人。</font>
 
 ### 第六夜
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_6.mp3"> 
+</audio>
 
 <font color="#e36c09"><ruby>運慶<rt>うんけい</ruby></font>[^18]が<ruby>護国寺<rt>ごこくじ</ruby>の山門で<ruby>仁王<rt>におう</ruby>を刻んでいると云う評判だから、散歩ながら行って見ると、自分より先にもう大勢集まって、しきりに<font color="#ff0080"><ruby>下馬評<rt>げばひょう</ruby></font>[^19]をやっていた。
 
@@ -622,6 +647,10 @@ description: "梦十夜"
 
 ### 第七夜
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_7.mp3"> 
+</audio>
+
 何でも大きな船に乗っている。
 
 <font color="#548dd4">我搭上一艘大船。</font>
@@ -700,6 +729,10 @@ description: "梦十夜"
 
 ### 第八夜
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_8.mp3"> 
+</audio>
+
 床屋の敷居を<ruby>跨<rt>また</ruby>いだら、白い着物を着てかたまっていた三四人が、一度にいらっしゃいと云った。
 
 <font color="#548dd4">跨进理发店门檐时，三、四个穿着白色制服的员工异口同声地喊着欢迎光临。</font>
@@ -774,6 +807,10 @@ description: "梦十夜"
 
 ### 第九夜
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_9.mp3"> 
+</audio>
+
 世の中が何となくざわつき始めた。今にも<ruby>戦争<rt>いくさ</ruby>が起りそうに見える。焼け出された<ruby>裸馬<rt>はだかうま</ruby>が、夜昼となく、屋敷の<ruby>周囲<rt>まわり</ruby>を<ruby>暴<rt>あ</ruby>れ<ruby>廻<rt>まわ</ruby>ると、それを夜昼となく<ruby>足軽共<rt>あしがるども</ruby>が<font color="#ff0080"><ruby>犇<rt>ひしめ</ruby>き</font>[^30]ながら<ruby>追<rt>おっ</ruby>かけているような心持がする。それでいて家のうちは<ruby>森<rt>しん</ruby>として静かである。
 
 <font color="#548dd4">这个社会逐渐动荡不安，眼看战争即将爆发。好比遭遇空袭无处可归的无鞍马，不分昼夜地在住家四周狂奔，而走卒们也不舍昼夜地猛追马只一样混乱。可是在住家中却呈现一片死寂。</font>
@@ -835,6 +872,10 @@ description: "梦十夜"
 <font color="#548dd4">这个悲哀的故事，是母亲在梦中告诉我的。</font>
 
 ### 第十夜
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/YumeJuya/YumeJuya_10.mp3"> 
+</audio>
 
 庄太郎が女に攫われてから七日目の晩にふらりと帰って来て、急に熱が出てどっと、床に<ruby>就<rt>つ</ruby>いていると云って<ruby>健<rt>けん</ruby>さんが知らせに来た。
 

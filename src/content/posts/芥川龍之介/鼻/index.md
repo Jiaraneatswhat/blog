@@ -9,8 +9,13 @@ description: "鼻"
 
 :::note[META]
 `first published`:『新思潮』1916年2月・第4次創刊号
+`audio`: `https://www.youtube.com/watch?v=rLDhMgcqMUY`
 `desc`: 禅智内供这位高僧，因鼻子修长，屡屡遭旁人取笑。他设法医治、让鼻子变短，世人的嘲弄却变本加厉。某日清晨，他一觉醒来，发现鼻子恢复了原状。此刻，内供的内心反倒归于平静。这篇名作，刻画了无论任何时代都永世不绝、堪称庸众生存原动力的利己本性，以及虚荣心与自尊执念的愚昧虚妄
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/AkutagawaRyunosuke/Hana.mp3"> 
+</audio>
 
 <font color="#e36c09"><ruby>禅智内供<rt>ぜんちないぐ</ruby></font>[^1]の鼻と云えば、<ruby>池<rt>いけ</ruby>の<ruby>尾<rt>お</ruby>で知らない者はない。長さは五六寸あって<ruby>上唇<rt>うわくちびる</ruby>の上から<ruby>顋<rt>あご</ruby>の下まで下っている。形は元も先も同じように太い。云わば細長い<ruby>腸詰<rt>ちょうづ</ruby>めのような物が、ぶらりと顔のまん中からぶら下っているのである。
 

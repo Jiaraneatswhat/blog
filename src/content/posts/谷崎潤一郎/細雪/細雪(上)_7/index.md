@@ -7,6 +7,18 @@ image: "./cover.png"
 description: "七"
 ---
 
+:::note[META]
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=KAKyT9d_-tc&t=3s`
+`desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
+
+三女雪子是四姐妹中容貌最为出众之人，婚事却屡屡未果，年过三十依旧独身。幸子夫妇为此忧心不已、四处奔走，性格沉默寡言的雪子却对每一门亲事都无意应允，岁月便这般缓缓流逝。
+:::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_7.mp3"> 
+</audio>
+
 「ちょっと、<ruby>中姉<rt>なかあん</ruby>ちゃんまだやろか。―――」二人はさっきから門のところに待っているのに、幸子がなかなか出て来そうもないので、「―――もう二時になるがな」と、妙子は運転手が扉を開けて立っている方へ寄って行った。
 
 <font color="#548dd4">“喂，二姐还在打电话吗？” 姐妹俩早在大门前等候，可是幸子却迟迟未见出来。“快到两点了。” 妙子说着，走向司机已经打开的车门前。</font>

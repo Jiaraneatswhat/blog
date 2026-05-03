@@ -9,10 +9,15 @@ description: "坐落在古城的市街"
 
 :::note[META]
 `first published`:『青空』1925年2月20日発行2月号（第1巻第2号・通巻2号）
+`audio`: `https://www.youtube.com/watch?v=BHYjYBjbZPY&t=1s`
 `desc`: 一部私小说风格的作品，以作者亲身经历为题材：在目睹年幼的异母妹妹离世后，为平复动荡不安的情绪与内心的悲伤，前往居住在三重县松阪町的姐姐夫妇家中，记叙了这段期间的种种经历
 :::
 
 ### ある午後
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Shironoarumachi/Shironoarumachi_1.mp3"> 
+</audio>
 
 「高いとこの眺めは、アアッ（と咳をして）また<ruby>格段<rt>かくだん</ruby>でごわすな」
 
@@ -231,6 +236,10 @@ description: "坐落在古城的市街"
 <font color="#548dd4">市街的屋顶升起炊烟。远山传来暮蝉的鸣唱。</font>
 
 ### 手品と花火
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Shironoarumachi/Shironoarumachi_2.mp3"> 
+</audio>
 
 これはまた別の日。
 
@@ -654,6 +663,10 @@ description: "坐落在古城的市街"
 
 ### 病気
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Shironoarumachi/Shironoarumachi_3.mp3"> 
+</audio>
+
 姉が病気になった。<ruby>脾腹<rt>ひばら</ruby>が痛む、そして高い熱が出る。峻は腸チブスではないかと思った。枕元で兄が
 
 <font color="#548dd4">姐姐病了。她侧腹发疼，高烧不断。峻怀疑她染上了伤寒。姐夫在她枕边说：</font>
@@ -808,6 +821,10 @@ description: "坐落在古城的市街"
 
 ### 勝子
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Shironoarumachi/Shironoarumachi_4.mp3"> 
+</audio>
+
 峻は原っぱに面した窓に<ruby>倚<rt>よ</ruby>りかかって外を眺めていた。
 
 <font color="#548dd4">峻倚在面向原野的窗边，望着窗外。</font>
@@ -917,6 +934,10 @@ description: "坐落在古城的市街"
 <font color="#548dd4">“或许这让她当时的逞强彻底瓦解了吧。​” 他这样想着，再度竖耳细听时，发现那像着火似的哭声，听起来透着一丝悲戚。</font>
 
 ### 昼と夜
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Shironoarumachi/Shironoarumachi_5.mp3"> 
+</audio>
 
 彼はある日城の傍の崖の蔭に立派な井戸があるのを見つけた。
 
@@ -1064,6 +1085,10 @@ description: "坐落在古城的市街"
 <font color="#548dd4">他在明信片上乱写的这种心情，就是源自他那心痒难搔的古怪念头。</font>
 
 ### 雨
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Shironoarumachi/Shironoarumachi_6.mp3"> 
+</audio>
 
 八月も終わりになった。
 

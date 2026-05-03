@@ -7,6 +7,18 @@ image: "./cover.png"
 description: "八"
 ---
 
+:::note[META]
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=QXz1txCP2tc`
+`desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
+
+三女雪子是四姐妹中容貌最为出众之人，婚事却屡屡未果，年过三十依旧独身。幸子夫妇为此忧心不已、四处奔走，性格沉默寡言的雪子却对每一门亲事都无意应允，岁月便这般缓缓流逝。
+:::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_8.mp3"> 
+</audio>
+
 悦子はままごとにも飽きてしまうと、お花に云いつけて二階の部屋から帳面を持って来させて、洋間で宿題の綴方を書いていた。
 
 <font color="#548dd4">悦子玩够了 “过家家”，叫阿花从二楼的房间拿来作业本，在西式房间里写作文。</font>

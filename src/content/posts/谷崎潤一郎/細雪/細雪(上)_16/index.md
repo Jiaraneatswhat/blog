@@ -8,10 +8,14 @@ description: "十六"
 ---
 
 :::note[META]
-初出:『中央公論』1943年1月号・3月号
-`audio`: https://www.youtube.com/watch?v=dtK7UzkB20A
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=dtK7UzkB20A`
 `desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_16.mp3"> 
+</audio>
 
 妙子の個展は今度は神戸の<ruby>鯉川<rt>こいかわ</ruby>筋の画廊を借りて三日間開催され、阪神間に顔のひろい幸子の蔭の運動もあって、第一日で大部分の作品が売約済になると云う成績を挙げた。幸子は三日目の夕方、会場の取り片附けを手伝い<ruby>旁<rt>かたがた</ruby>雪子や悦子たちを連れて来たが、残務を終えておもてへ出ると、
 

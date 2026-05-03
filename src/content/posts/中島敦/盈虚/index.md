@@ -9,8 +9,13 @@ description: "盈虚"
 
 :::note[META]
 `first published`:『政界往来』1942年7月
+`audio`：`https://www.youtube.com/watch?v=VTlAUVOnHWY&t=415s`
 `desc`: 取材于左传中定公十四年至哀公十七年关于卫庄公的历史记载，讲述了流亡归国夺权的卫庄公蒯聩，因长期积怨变得暴虐无道，最终众叛亲离、被曾受他羞辱的百姓杀死的故事，尽显人生盛衰无常的 “盈虚” 之理
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Eikyo.mp3"> 
+</audio>
 
 <ruby>衞<rt>えい</ruby>の靈公の三十九年と云ふ年の秋に、太子<ruby>蒯聵<rt>かいがい</ruby>が父の命を受けて<ruby>齊<rt>せい</ruby>に使したことがある。<ruby>途<rt>みち</ruby>に宋の國を過ぎた時、畑に<ruby>耕<rt>たがや</ruby>す農夫共が妙な唄を歌ふのを聞いた。
 

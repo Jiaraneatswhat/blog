@@ -9,10 +9,15 @@ description: "泥泞"
 
 :::note[META]
 `first published`:『青空』 1925年7月・通巻5号
+`audio`: `https://www.youtube.com/watch?v=ETGvrglNq9s`
 `desc`: 拼尽全力写下的东西，却以一种病态的方式宣告失败，于是无论做什么都精神恍惚。令人不快的妄想会突然涌上心头，到最后甚至变得疑神疑鬼。这是一个将目之所及的一切都强行纳入自我意识之中的男人的悲剧
 :::
 
 ### 一
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Deine/Deine_1.mp3"> 
+</audio>
 
 それはある日の事だった。――
 
@@ -63,6 +68,10 @@ description: "泥泞"
 <font color="#548dd4">不过，我不为所动的心境依旧。在望着镜子或水瓶时，那种被送往奇妙境地的感觉，反而会与我死气沉沉的心情紧紧纠缠。就连没发生这种情况时，我也会一觉到中午，不断做梦，时常无法区分梦境与现实，使得整个下午疲惫不堪。不知不觉间，我开始对自己所经历的这个世界感到怀疑。有时走在街上我会想，看到我的人该不会说一句“那家伙来了”​，而转头就跑吧？心中对此暗暗吃惊。有时则会想，那位低着头帮人照顾小孩的女孩，转头望向我时，该不会变成一张妖怪的脸吧？——不过，我等候多时的支票终于来了。时隔多日，我再次走在积着厚厚一层雪的马路上，朝省线电车的方向而去。</font>
 
 ### 二
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Deine/Deine_2.mp3"> 
+</audio>
 
 お茶の水から本郷へ出るまでの間に人が三人まで雪で<ruby>辷<rt>すべ</ruby>った。銀行へ着いた時分には自分もかなり不機嫌になってしまっていた。赤く焼けている<ruby>瓦斯<rt>ガス</ruby><ruby>煖炉<rt>だんろ</ruby>の上へ濡れて重くなった下駄をやりながら自分は係りが名前を呼ぶのを待っていた。自分の前に店の小僧さんが一人差向かいの位置にいた。下駄をひいてからしばらくして自分は何とはなしにその小僧さんが自分を見ているなと思った。雪と一緒に持ち込まれた泥で汚れている床を見ているこちらの目が妙に<font color="#ff0080">うろたえた</font>[^7]。独り相撲だと思いながらも自分は仮想した小僧さんの視線に縛られたようになった。自分はそんなときよく顔の赧くなる自分の癖を思い出した。もう少し赧くなっているんじゃないか。思う尻から自分は顔が熱くなって来たのを感じた。
 
@@ -121,6 +130,10 @@ description: "泥泞"
 <font color="#548dd4">望着排成一列的洋酒瓶，我微微感觉到啤酒带来的醉意。</font>
 
 ### 三
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Deine/Deine_3.mp3"> 
+</audio>
 
 ライオンを出てからは唐物屋で石鹸を買った。ちぐはぐな気持はまたいつの間にか自分に帰っていた。石鹸を買ってしまって自分は、なにか今のは変だと思いはじめた。<ruby>瞭然<rt>はっき</ruby>りした買いたさを自分が感じていたのかどうか、自分にはどうも思い出せなかった。宙を踏んでいるようにたよりない気持であった。
 

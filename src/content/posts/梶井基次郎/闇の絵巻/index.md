@@ -9,8 +9,13 @@ description: "黑暗画轴"
 
 :::note[META]
 `first published`:『詩・現実』1930年9月22日発行・第二冊
+`audio`：`https://www.youtube.com/watch?v=qhmDy-6g6Qk`
 `desc`: 以第一人称记录了作者在伊豆汤之岛疗养期间，于深夜山林溪谷间行走的感官体验与哲思
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Yaminoemaki.mp3"> 
+</audio>
 
 最近東京を騒がした有名な強盗が<ruby>捕<rt>つか</ruby>まって語ったところによると、彼は何も見えない闇の中でも、一本の棒さえあれば何里でも走ることができるという。その棒を身体の前へ突き出し突き出しして、畑でもなんでも<ruby>盲滅法<rt>めくらめっぽう</ruby>に走るのだそうである。
 

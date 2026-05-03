@@ -8,10 +8,14 @@ description: "十九"
 ---
 
 :::note[META]
-初出:『中央公論』1943年1月号・3月号
-`audio`: https://www.youtube.com/watch?v=FRxgsBJXghE
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=FRxgsBJXghE`
 `desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_19.mp3"> 
+</audio>
 
 幸子は昔、貞之助と新婚旅行に行った時に、箱根の旅館で食い物の好き嫌いの話が出、君は魚では何が一番好きかと聞かれたので、「<ruby>鯛<rt>たい</ruby>やわ」と答えて貞之助に可笑しがられたことがあった。貞之助が笑ったのは、鯛とはあまり月並過ぎるからであったが、しかし彼女の説に依ると、形から云っても、味から云っても、鯛こそは最も日本的なる魚であり、鯛を好かない日本人は日本人らしくないのであった。彼女のそう云う心の中には、自分の生れた上方こそは、日本で鯛の最も美味な地方、―――従って、日本の中でも最も日本的な地方であると云う誇りが潜んでいるのであったが、同様に彼女は、花では何が一番好きかと問われれば、躊躇なく桜と答えるのであった。
 

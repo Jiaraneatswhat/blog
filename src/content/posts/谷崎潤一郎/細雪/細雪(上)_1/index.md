@@ -8,11 +8,16 @@ description: "一"
 ---
 
 :::note[META]
-初出:『中央公論』1943年1月号・3月号
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=HlTiIYR_9lk&t=23s`
 `desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
 
 三女雪子是四姐妹中容貌最为出众之人，婚事却屡屡未果，年过三十依旧独身。幸子夫妇为此忧心不已、四处奔走，性格沉默寡言的雪子却对每一门亲事都无意应允，岁月便这般缓缓流逝。
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_1.mp3"> 
+</audio>
 
 「<font color="#ff0080">こいさん</font>[^1]、頼むわ。―――」鏡の中で、廊下からうしろへ這入って来た<ruby>妙子<rt>たえこ</ruby>を見ると、自分で<ruby>襟<rt>えり</ruby>を塗りかけていた<ruby>刷毛<rt>はけ</ruby>を渡して、<ruby>其方<rt>そちら</ruby>は見ずに、眼の前に映っている<ruby>長襦袢<rt>ながじゅばん</ruby>姿の、<font color="#e36c09">抜き<ruby>衣<rt>え</ruby><ruby>紋<rt>もん</ruby></font>[^2]の顔を他人の顔のように見据えながら 、「雪子ちゃん下で何してる」と、<ruby>幸子<rt>さちこ</ruby>はきいた。
 

@@ -9,10 +9,15 @@ description: "交尾"
 
 :::note[META]
 `first published`:『作品』1931年1月1日発行1月号
+`audio`：`https://www.youtube.com/watch?v=p87-RMv0Grc`
 `desc`: 作品由《其一》《其二》两小节构成。这是一篇随笔式短篇，以夜里从晾台上所见的猫的相拥、以及溪流浅滩鸣叫的河鹿（蛙类）惹人怜惜的求偶行为为题材。关于猫的描写取材于作者在大阪阿倍野老家的见闻，河鹿的描写则源于他在伊豆汤岛的亲身经历。作品中，隐约能窥见濒临死亡、已然无法期许美满婚姻的梶井基次郎，对于生命的乡愁与眷恋。作者还以在堺市水族馆所见的鳖的交尾为素材，写下了《其三》，但因梶井基次郎离世，最终成为未完成的遗稿
 :::
 
 ### その一
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Koubi/Koubi_1.mp3"> 
+</audio>
 
 星空を見上げると、音もしないで何匹も<ruby>蝙蝠<rt>こうもり</ruby>が飛んでいる。その姿は見えないが、瞬間瞬間光を消す星の工合から、気味の悪い畜類の飛んでいるのが感じられるのである。
 
@@ -59,6 +64,10 @@ description: "交尾"
 <font color="#548dd4">巡警见这两只猫没有动作，便向前又走了两三步。这时说也奇怪，两只猫不约而同地转过头来，但它们仍旧抱着彼此。现在我反而觉得那名巡警比较有趣。接着，巡警突然将他的手杖戳向白猫面前。那两只猫马上化为两道放射线，逃向巷弄深处。巡警目送它们离去后，一如往常，再度很无趣地敲响手杖，离开了这条巷弄。完全没注意到晾衣场上的我。</font>
 
 ### その二
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Koubi/Koubi_2.mp3"> 
+</audio>
 
 私は一度<ruby>河鹿<rt>かじか</ruby>をよく見てやろうと思っていた。
 

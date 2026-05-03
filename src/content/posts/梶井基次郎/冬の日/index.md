@@ -9,10 +9,15 @@ description: "冬日"
 
 :::note[META]
 `first published`:『青空』 1927年2月・通巻24号-4月・通巻26号
+`audio`: `https://www.youtube.com/watch?v=Nc_s3_7HMLY`
 `desc`: 作品由六章的片段式插曲构成，是一篇抒情写意的内心独白式作品。在肺结核症状明显加重、开始持续咳血痰的时期，作者将内心的焦躁与绝望，同隆冬时节不断更迭的季节景致交织在一起进行描绘
 :::
 
 ### 一
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_1.mp3"> 
+</audio>
 
 季節は<ruby>冬至<rt>とうじ</ruby>に間もなかった。<ruby>堯<rt>たかし</ruby>の窓からは、地盤の低い家々の庭や門辺に立っている木々の葉が、一日ごと剥がれてゆく<ruby>様<rt>さま</ruby>が見えた。
 
@@ -55,6 +60,10 @@ description: "冬日"
 <font color="#548dd4">尧看完这一幕，在一股近似绝望的情感下，锁上窗户。竖耳细听一味呼唤黑夜的寒风，有时会听到某个连电灯也没亮的远处发出玻璃门碎裂落地的声响。</font>
 
 ### 二
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_2.mp3"> 
+</audio>
 
 堯は母からの手紙を受け取った。
 
@@ -125,6 +134,10 @@ description: "冬日"
 <font color="#548dd4">“晚安，妈。”</font>
 
 ### 三
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_3.mp3"> 
+</audio>
 
 堯は掃除をすました部屋の窓を明け放ち、籐の寝椅子に休んでいた。と、ジュッジュッという啼き声がしてかなむぐらの垣の蔭に<font color="#ff0080"><ruby>笹<rt>ささ</ruby><ruby>鳴<rt>な</ruby>き</font>[^5]の鶯が見え隠れするのが見えた。
 
@@ -236,6 +249,10 @@ description: "冬日"
 
 ### 四
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_4.mp3"> 
+</audio>
+
 街路樹から次には街路から、風が枯葉を掃ってしまったあとは風の音も変わっていった。夜になると街のアスファルトは鉛筆で光らせたように凍てはじめた。そんな夜を堯は自分の静かな町から銀座へ出かけて行った。そこでは華ばなしいクリスマスや歳末の売出しがはじまっていた。
 
 <font color="#548dd4">先是行道树，接着是马路，强风扫走枯叶后，连风声也起了改变。入夜后，街上的柏油路开始冻结，就像是用铅笔画过，让它发出光芒般。在这样的夜晚，尧从自己居住的宁静小镇前往银座。那里正展开热闹的圣诞节和岁末大特卖。</font>
@@ -313,6 +330,10 @@ description: "冬日"
 <font color="#548dd4">冰霰源源不绝地打向黝黑的屋瓦，朝地面滚落。接着，传出撞击铁皮屋顶的声响，打向八角金盘的反弹声，及消失在枯草间的声响。不久，传来它落向世间的一声 “沙——”。紧接着，从附近的宅邸传出一声鹤鸣，划破这银白寒冬的面纱。这时候，尧的内心也感受到某种新鲜的喜悦。他倚着窗边，遥想有 “风雅狂士” 这种人物存在的古代。但尧无法将这种形象套在自己身上。</font>
 
 ### 五
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_5.mp3"> 
+</audio>
 
 いつの隙にか冬至が過ぎた。そんなある日堯は長らく寄りつかなかった、以前住んでいた町の質店へ行った。金が来たので冬の<ruby>外套<rt>がいとう</ruby>を出しに出掛けたのだった。が、行ってみるとそれはすでに流れたあとだった。
 
@@ -507,6 +528,10 @@ description: "冬日"
 <font color="#548dd4">“你到学校拿也很麻烦对吧，省得你再去了。”</font>
 
 ### 六
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_6.mp3"> 
+</audio>
 
 母から手紙が来た。
 

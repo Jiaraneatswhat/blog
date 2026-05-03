@@ -9,10 +9,15 @@ description: "七叶树之花"
 
 :::note[META]
 `first published`:『創作月刊』1928年5月1日発行5月号
+`audio`：`https://www.youtube.com/watch?v=c0sPDqMIpCo&t=92s`
 `desc`: ”我“ 因阴郁的天气而精神萎靡。坐在电车里，总觉得前排的人在盯着自己的脸。忍不住要去挑剔同乘者的毛病。就连和熟悉的朋友聊天，内心也焦躁不安。神经质倾向的主人公，向友人倾诉烦恼的书信体
 :::
 
 ### 一
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Tsurubami/Tsurubami_1.mp3"> 
+</audio>
 
 この頃の陰鬱な天候に弱らされていて手紙を書く気にもなれませんでした。以前京都にいた頃は毎年のようにこの季節に<ruby>肋膜<rt>ろくまく</ruby>を悪くしたのですが、<ruby>此方<rt>こちら</ruby>へ来てからはそんなことはなくなりました。一つは酒類を飲まなくなったせいかも知れません。然しやはり精神が不健康になります。感心なことを云うと云ってあなたは笑うかも知れませんが、学校へ行くのが実に<ruby>億劫<rt>おっくう</ruby>でした。電車に乗ります。電車は四十分かかるのです。気持が消極的になっているせいか、前に坐っている人が私の顔を見ているような気が常にします。それが私の独ひとり相撲だとは判っているのです。と云うのは、はじめは気がつきませんでしたが、まあ云えば私自身そんな視線を捜しているという工合なのです。何気ない眼附きをしようなど思うのが<ruby>抑ゝ<rt>そもそも</ruby>の苦しむもとです。
 
@@ -51,6 +56,10 @@ description: "七叶树之花"
 <font color="#548dd4">某天，我和一位年轻的友人一同搭电车。他是晚我们一年，今年四月才来到东京的朋友。东京令他感到不快。开口老谈京都的好。他这种心情，我多少也有过类似的体验。初来乍到，便马上爱上东京的人，才会让人觉得不愉快。但朋友说的话，我实在难以苟同。我告诉他，东京有它另一种好。但友人连听到别人说这种话都觉得不愉快。从他说话的口吻便感觉得出他的想法。接着我们两人沉默良久。那是令人难受的沉默。友人那天还说，他以前还住京都时，当两班电车的车窗交错而过时，他会在心里想 “坐那班车第几扇窗的女孩，日后会和我的生活产生交集”，并暗自选定一个数字，然后抱持一种聆听神谕的心情，等候对方与他交错而过的瞬间。他这番话听在我耳里毫无感觉。因为我对这种事也有我自己的坚持。</font>
 
 ### 二
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Tsurubami/Tsurubami_2.mp3"> 
+</audio>
 
 或る日Ｏが訪ねてくれました。Ｏは健康そうな顔をしていました。そして<ruby>種々<rt>いろいろ</ruby>元気な話をしてゆきました。――
 
@@ -102,6 +111,10 @@ description: "七叶树之花"
 
 ### 三
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Tsurubami/Tsurubami_3.mp3"> 
+</audio>
+
 私の部屋はいい部屋です。難を云えば造りが薄手に出来ていて湿気などに敏感なことです。一つの窓は樹木とそして<ruby>崖<rt>がけ</ruby>とに近く、一つの窓は<ruby>奥狸穴<rt>おくまみあな</ruby>などの低地をへだてて飯倉の電車道に臨む展望です。その展望のなかには旧徳川邸の<ruby>椎<rt>し</ruby>いの老樹があります。その何年を経たとも知れない樹は見わたしたところ一番大きな見事なながめです。一体椎という樹は梅雨期に葉が赤くなるものなのでしょうか。最初はなにか夕焼の反射をでも受けているのじゃないかなど疑いました。そんな赤さなのです。然し雨の日になってもそれは同じ。いつも同じでした。やはり樹自身の現象なのです。私は古人の「<font color="#e36c09"><ruby>五月雨<rt>さみだれ</ruby>の降り残してや光堂</font>[^9]」の句を、日を<ruby>距<rt>へだ</ruby>ててではありましたが、思い出しました。そして<ruby>椎茜<rt>しいあかね</ruby>という言葉を造って下の<font color="#e36c09">五</font>[^10]におきかえ嬉しい気がしました。中の七が降り残し<ruby>たる<rt>丶丶</ruby>ではなく、降り残し<ruby>てや<rt>丶丶</ruby>だったことも新しい眼で見得た気がしました。
 
 <font color="#548dd4">我很满意我的房间。真要挑剔的话，大概就是墙壁砌得太薄，房间里容易潮湿。当中一扇窗很贴近屋外的树木和山崖，另一扇窗隔着奥狸穴等低洼地，可以远眺饭仓的电车轨道。在这样的视野中，可以望见昔日德川宅邸的一株老苦槠树。那不知已有多大树龄的老树，是放眼所及最美的景致。苦槠这种树木的树叶真的会在梅雨季转红吗？一开始我还以为是夕阳余晖的反射。它就是这般艳红。但雨天也一样。不管什么时候都一样。这果然是树木本身的现象。隔了几天后，我想起古人的俳句 “梅雨纷纷下，是否独遗金色堂”。我造了 “苦槠红” 一词，替换原句的 “金色堂”，觉得很开心。至于原句的“独遗”，用的不是肯定句，而是疑问句，这也给了我一种新发现的感觉。</font>
@@ -119,6 +132,10 @@ description: "七叶树之花"
 <font color="#548dd4">某天，我朝自己房间发出这声咒骂，并环视房内。我自己觉得这个咒骂方式有趣，心情就此转变。有时家母会对我叨絮责骂。最后来一句无厘头的责骂，就此笑了起来，感觉就像这样。借由那句话，我幻想着自己在一艘破船底下铺上榻榻米，在一条大川上展开旅程。事实上，唯有在这种时候，那令人郁闷的梅雨声才会增添几分趣味。</font>
 
 ### 四
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Tsurubami/Tsurubami_4.mp3"> 
+</audio>
 
 それもやはり雨の降った或る日の午後でした。私は赤坂のＡの家へ出かけました。京都時代の私達の会合――その席へはあなたも一度来られたことがありますね――<ruby>憶<rt>おぼ</ruby>えていらっしゃればその時いたＡです。
 
@@ -173,6 +190,10 @@ description: "七叶树之花"
 <font color="#548dd4">“在电车里要看对方的长相不容易，但如果是从马路上看，或是与对方擦身而过，就能长时间细看了。” 友人说。因为友人不经意的一句话，我改以美丽的真切感受去重新思考之前毫无感觉的种种。</font>
 
 ### 五
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Tsurubami/Tsurubami_5.mp3"> 
+</audio>
 
 これはあなたにこの手紙を書こうと思い立った日の出来事です。私は久し振りに手拭をさげて<ruby>銭湯<rt>せんとう</ruby>へ行きました。やはり<ruby>雨後<rt>うご</ruby>でした。垣根の<ruby>きこく<rt>丶丶丶</ruby>がぷんぷん快い匂いを放っていました。
 

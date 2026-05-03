@@ -8,10 +8,15 @@ description: "第三话"
 ---
 
 :::note[META]
+`audio from Amazon Audible`
 `desc`: 沦为吸血鬼体质的高中生阿良良木历。他所邂逅的、向猴子许下愿望的少女，以及被毒蛇缠附缠身的少女，究竟是……？
 :::
 
 #### 001
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Surugamonkey_001.mp3"> 
+</audio>
 
 神原駿河といえば学校内で知らない生徒が一人もいないほどの抜きん出た有名人であり、当然ながら僕も何度となく聞いたことがある名前だった。いや、単純に有名人というならば、僕のクラスメイトであるところの羽川翼や戦場ヶ原ひたぎだって、ひょっとしたら彼女に引けを取らないのかもしれないが、しかしそれは、三年生という僕達の属する学年に限っての話である。そう、神原駿河は僕や羽川翼や戦場ヶ原ひたぎよりも一つ下、二年生でありながらにして、三年生の、それもそういう噂めいたことにはかなり疎い方である僕のいる地点にまで届くほどの、並外れた名声を得ているということなのだ。これは普通に考えて、ちょっとないことである。若いのに大したものだなんて大物ぶってお<ruby>道化<rt>どけ</ruby>るにしても、ちょっとばかり言葉が真に迫り過ぎているというべきだろう。
 
@@ -94,6 +99,10 @@ description: "第三话"
 <font color="#548dd4">神原骏河踏着响亮的脚步声跑来向我搭话，从这时开始，她的左手已经缠着一层洁白的绷带——</font>
 
 #### 002
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Surugamonkey_002.mp3"> 
+</audio>
 
 「あ……ありゃりゃ木さん」
 
@@ -1834,6 +1843,10 @@ description: "第三话"
 <font color="#548dd4">「我已经攻陷难易度最高的角色了。」</font>
 
 #### 003
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Surugamonkey_003.mp3"> 
+</audio>
 
 「不愉快なことを言われた気がするわ」
 
@@ -3636,6 +3649,10 @@ description: "第三话"
 
 #### 004
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Surugamonkey_004.mp3"> 
+</audio>
+
 戦場ヶ原は二年間──そして僕は二週間、である。
 
 <font color="#548dd4">战场原是两年，而我是两个礼拜。</font>
@@ -4929,6 +4946,10 @@ description: "第三话"
 <font color="#548dd4">以及明天该做的事。</font>
 
 #### 005
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Surugamonkey_005.mp3"> 
+</audio>
 
 神原駿河の家は──学校の校門から数えて自転車で三十分ほどの距離にあった。そしてそれは、駆け足でも、三十分ほどの距離だった。最初、後ろに神原を乗っけての二人乗りをしようと思ったのだけれど、それは神原にそれとなく辞された。二人乗りは危険だし、そもそも法律違反だと。まあ、それはそう言われればその通りだし、あるいは後ろに乗って、僕に抱きつく形になることに対して、神原は抵抗があるのかもしれなかった。ならば僕が神原に合わせて、自転車を押して歩こうか、あるいは自転車を学校に置きっぱなしにして行こうかと考えたのだけれど、気にせず乗ってもらって構わないと、神原は言って、じゃあどうするつもりなのかと思ったら、当たり前のように、神原は「では、案内する」と、その両脚で駆け出したのだった。僕をストーキングしているときもそうだったが、この神原駿河、『徒歩』や『自転車』や『自動車』、『電車』という移動手段の候補の中に、同列のものとして『駆け足』を入れているようだった。そんな奴は体育会系の中でも、多分、珍しいのではないかと思う。『たっ、たっ、たっ、たっ、たっ、たっ』と、小気味のよいリズムで僕の自転車を先導する神原──そして左手の、真っ白い包帯。目的地に到着したところで、神原は心なし少々の汗をかいている程度で、呼吸一つ乱れていなかった。
 
@@ -6364,6 +6385,10 @@ description: "第三话"
 
 #### 006
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Surugamonkey_006.mp3"> 
+</audio>
+
 ウイリアム・ウイマーク・ジェイコブズの『猿の手』の<ruby>粗筋<rt>あらすじ</ruby>を、ここで紐解き、詳しく説明する必要はないだろうけれど──その話を知らなかった僕にしたところで、聞いてみれば、なるほどそれは、怪談として、あるいはホラーとして、よくできたストーリーである。教科書通りの恐怖譚、<font color="#ff0080"><ruby>由緒<rt>ゆいしょ</ruby></font>[^48]正しく<ruby>古<rt>こ</ruby><ruby>色<rt>しょく</ruby><ruby>蒼然<rt>そうぜん</ruby>とした、物語──そう、その話を知らなかった僕にしたところで、聞いてみれば、どこかで聞き覚えがあるような、思い当たる節があるような、そんな風な感想を持った。
 
 <font color="#548dd4">威廉 · 威马克 · 杰考布斯的《猴掌》一书的大纲，在这里没有阅读和详细说明的必要——不过就连不知道那故事的我，听完后都会出声赞同，在怪谈和恐怖故事的分野当中，那的确是一个经典故事。一个就像教科书一样的恐怖谈、古色古香的故事。没错，即便我没听过那故事，听完都会觉得很耳熟，或是某些桥段很熟悉。</font>
@@ -7599,6 +7624,10 @@ description: "第三话"
 <font color="#548dd4">「照顺序来吧。看来不是什么快乐的话题。和手扯上关系的话题，每次都是这样，对我来说啦。何况还是左手，那就更不用说了。」</font>
 
 #### 007
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Surugamonkey_007.mp3"> 
+</audio>
 
 神原駿河の部屋を片付けたとき、炭酸飲料の握りつぶされた空き缶とかスナック菓子の袋とかインスタント食品のカップとかに混じって、それ一つだけ異様に違和感のある、長細い拵えの桐箱があった。時代を感じさせる色がついていて、それは神原の扱いが荒かったからだろう、傷だらけではあったが、分厚い、丈夫そうな箱だった。多分それは、何らかの<ruby>骨董品<rt>こっとうひん</ruby>でも──多分花瓶でも──入れられているのだろうと、僕は思った。この日本家屋の荘厳さのことを考えれば、こういう代物があって、それらしいものが中に入っていてもおかしくはない。
 
@@ -8912,6 +8941,10 @@ description: "第三话"
 <font color="#548dd4">忍野说。</font>
 
 #### 008
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Surugamonkey_008.mp3"> 
+</audio>
 
 レイニー・デヴィルは、とても暴力的な悪魔らしい──何よりも人の悪意や敵意、<ruby>怨恨<rt>えんこん</ruby>や<ruby>悔恨<rt>かいこん</ruby>、嫉心や<ruby>妬心<rt>としん</ruby>、総じて、マイナス方面、ネガティヴな感情を好む。人の暗黒面を見抜き、<ruby>惹起<rt>じゃっき</ruby>し、引き出し、<ruby>結実<rt>けつじつ</ruby>させる。嫌がらせのように人の願いを聞いて、嫌がらせのように叶える。契約自体は、契約として──人の魂と引き換えに、三つの願いを叶える。三つの願いを叶え終えたときに──その人間の生命と肉体を奪ってしまう、そうだ。つまり、人間そのものが、最終的には悪魔となってしまう、そういう性質であるらしい。もしも神原が、一年前、戦場ヶ原の抱える秘密を知った段階で、それを解決してくれと願ったところで、その願いは叶えられなかったということなのだろう。レイニー・デヴィルが叶えることのできる願いは、暴力的で、ネガティヴな願いだけなのだから。
 
@@ -11263,6 +11296,10 @@ description: "第三话"
 <font color="#548dd4">我一边思考，决定在肚子上的大洞愈合之前，暂时停止不识趣的吐槽，安静欣赏在眼前展开的百合情景。如果我是忍野的话，在这边我应该故意摆酷（虽然这不适合我），叼一根没点火的香烟，开口问她们是不是发生了什么好事啦之类的，但很不巧，我未成年。</font>
 
 #### 009
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Surugamonkey_009.mp3"> 
+</audio>
 
 後日談というか、今回のオチ。
 

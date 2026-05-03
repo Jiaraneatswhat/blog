@@ -8,11 +8,16 @@ description: "二"
 ---
 
 :::note[META]
-初出:『中央公論』1943年1月号・3月号
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=XO00BzISfWU&t=1s`
 `desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
 
 三女雪子是四姐妹中容貌最为出众之人，婚事却屡屡未果，年过三十依旧独身。幸子夫妇为此忧心不已、四处奔走，性格沉默寡言的雪子却对每一门亲事都无意应允，岁月便这般缓缓流逝。
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_2.mp3"> 
+</audio>
 
 井谷と云うのは、神戸のオリエンタルホテルの近くの、幸子たちが行きつけの美容院の女主人なのであるが、<font color="#ff0080"><ruby>縁談<rt>えんだん</ruby></font>[^9]の世話をするのが好きと聞いていたので、幸子はかねてから雪子のことを頼み込んで、写真を渡しておいたところ、先日<font color="#ff0080">セット</font>[^10]に行った時に、「ちょっと奥さん、お茶に附き合って下さいませんか」と手の空いた隙に幸子を誘い出して、ホテルのロビーで始めてこの話をしたのである。
 

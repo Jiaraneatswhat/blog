@@ -9,10 +9,15 @@ description: "雪后"
 
 :::note[META]
 `first published`:『青空』 1926年6月・通巻16号
+`audio`: `https://www.youtube.com/watch?v=2DcUn3GvKn0&t=2s`
 `desc`: 作品讲述了不顾父母及亲人反对、执意结婚的行一与信子，二人质朴平淡的生活，以及随着信子怀孕，行一内心逐渐发生变化的过程，故事穿插了丰富多样的生活片段。结尾处小牛平安降生，暗示了行一与信子未来的光明与希望。在平实淡然的叙事中，梶井的景物描写极具美感
 :::
 
 ### 一
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Setsugo/Setsugo_1.mp3"> 
+</audio>
 
 行一が大学へ残るべきか、それとも就職すべきか迷っていたとき、彼に研究を続けてゆく願いと、生活の保証と、その二つが不充分ながら叶えられる位置を与えてくれたのは、彼の師事していた教授であった。その教授は自分の主裁している研究所の一隅に彼のための椅子を設けてくれた。そして彼は地味な研究の生活に入った。それと同時に信子との結婚生活が始まった。その結婚は行一の親や親族の意志が<ruby>阻<rt>はば</ruby>んでいたものだった。しかし結局、彼はそんな人びとから我が儘だ<ruby>剛情<rt>ごうじょう</ruby>だと言われる以外のやり方で、物事を振舞うすべを知らなかったのだ。
 
@@ -60,6 +65,10 @@ description: "雪后"
 
 ### 二
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Setsugo/Setsugo_2.mp3"> 
+</audio>
+
 青空が広く、葉は落ち尽くし、<ruby>鈴懸<rt>すずかけ</ruby>が木に<ruby>褐色<rt>かっしょく</ruby>の実を乾かした。冬。凩 が吹いて、人が殺された。泥棒の噂や火事が起こった。短い日に戸をたてる信子は舞いこむ木の葉にも<ruby>慴<rt>おび</ruby>えるのだった。
 
 <font color="#548dd4">蓝天无限宽阔，树叶落尽，悬铃木的树上挂着干枯的褐色果实。冬天，刮起寒风，取人性命。小偷猖獗的传闻四起，火灾频发。在昼短夜长的白天，信子大门紧锁，连吹进屋内的树叶都害怕。</font>
@@ -81,6 +90,10 @@ description: "雪后"
 <font color="#548dd4">信子请房东太太代为看家，也去了一趟市里。</font>
 
 ### 三
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Setsugo/Setsugo_3.mp3"> 
+</audio>
 
 ある日、空は早春を告げ知らせるような大雪を降らした。
 
@@ -255,6 +268,10 @@ description: "雪后"
 <font color="#548dd4">一声——两声——三声——之后就没再叫了。已抵达终点。不知从什么时候开始，行一将它与划船比赛联想在一起，习惯去听那鸡鸣声。</font>
 
 ### 四
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Setsugo/Setsugo_4.mp3"> 
+</audio>
 
 「あの、電車の切符を置いてってくださいな」靴の紐を結び終わった夫に帽子を渡しながら、信子は弱よわしい声を出した。
 

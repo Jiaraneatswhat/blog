@@ -9,10 +9,15 @@ description: "李陵"
 
 :::note[META]
 `first published`:『文學界』1943年7月号
+`audio`：`https://www.youtube.com/watch?v=MXFqxjXk_4k&t=1578s`
 `desc`: 以汉武帝天汉二年李陵伐匈奴的史实为蓝本，围绕李陵、司马迁、苏武三人的命运交织，讲述了一场由战场绝境、廷议构陷、君主误判引发的千古悲剧
 :::
 
 ### 一
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Riryo/Riryo_1.mp3"> 
+</audio>
 
 <ruby>漢<rt>かん</ruby>の<ruby>武帝<rt>ぶてい</ruby>の<font color="#e36c09"><ruby>天漢<rt>てんかん</ruby></font>[^1]二年秋九月、<ruby>騎都尉<rt>きとい</ruby>・<ruby>李陵<rt>りりょう</ruby>は<ruby>歩卒<rt>ほそつ</ruby>五千を率い、<ruby>辺塞<rt>へんさい</ruby><ruby>遮虜鄣<rt>しゃりょしょう</ruby>を発して北へ向かった。
 
@@ -196,6 +201,10 @@ description: "李陵"
 
 ### 二
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Riryo/Riryo_2.mp3"> 
+</audio>
+
 九月に北へ立った五千の<ruby>漢軍<rt>かんぐん</ruby>は、十一月にはいって、疲れ傷ついて将を失った四百足らずの敗兵となって<ruby>辺塞<rt>へんさい</ruby>に辿りついた。敗報はただちに<ruby>駅伝<rt>えきでん</ruby>をもって長安の都に達した。
 
 <font color="#548dd4">九月北上的五千汉军，进入十一月后，化作伤病疲惫、彷徨无主的四百残兵回到了边塞。败讯立刻通过驿马飞报到了长安。</font>
@@ -361,6 +370,10 @@ description: "李陵"
 <font color="#548dd4">凄惨的努力持续了大约一年之后，他终于发现，生的快乐彻底失去之后，唯有表现的快乐还可以残留下来。即便如此，他那彻底的沉默并没有打破，风貌中的凄厉也没有丝毫缓和。在写稿的时候，每当不得不写下宦者或者阉奴之类字眼时，他就会不由得发出呻吟。独自在居室中，或者夜晚躺在床上时，屈辱的感情时而在无意中萌发。如同被烧红的烙铁炙烤一样，一种炙热的疼痛片刻间传遍全身。这时他会大叫一声跳起，一面呻吟，一面快步徘徊，然后再咬紧牙关尽力使自己平静下来。</font>
 
 ### 三
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NakajimaAtushi/Riryo/Riryo_3.mp3"> 
+</audio>
 
 乱軍の中に気を失った<ruby>李陵<rt>りりょう</ruby>が<ruby>獣脂<rt>じゅうし</ruby>を<ruby>灯<rt>とも</ruby>し<ruby>獣糞<rt>じゅうふん</ruby>を<ruby>焚<rt>た</ruby>いた<ruby>単于<rt>ぜんう</ruby>の<ruby>帳房<rt>ちょうぼう</ruby>の中で目を覚ましたとき、<ruby>咄嗟<rt>とっさ</ruby>に彼は心を決めた。<ruby>自<rt>みずか</ruby>ら首<ruby>刎<rt>は</ruby>ねて<ruby>辱<rt>はずか</ruby>しめを免れるか、それとも今一応は敵に従っておいてそのうちに機を見て脱走する――敗軍の責を<ruby>償<rt>つぐな</ruby>うに足る手柄を<ruby>土産<rt>みやげ</ruby>として――か、この二つのほかに<ruby>途<rt>みち</ruby>はないのだが、李陵は、後者を選ぶことに心を決めたのである。
 

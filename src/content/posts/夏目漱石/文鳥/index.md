@@ -9,8 +9,13 @@ description: "文鸟"
 
 :::note[META]
 `first published`:『大阪朝日新聞』1908年6月
+`audio`：`https://www.youtube.com/watch?v=rLvztmr1vUI`
 `desc`: 在学生的要求下，夏目漱石开始饲养一只文鸟，随着照料与接近，文鸟的美丽与个性，让漱石一再想起过去交往过的女性，最終……夏目漱石到底都怎么跟恋人交往、互动呢？一场养鸟的经历，带你一窥夏目漱石的爱情世界
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/Buntyou.mp3"> 
+</audio>
 
 十月<ruby>早稲田<rt>わせだ</ruby>に移る。<ruby>伽藍<rt>がらん</ruby>のような書斎にただ一人、片づけた顔を<ruby>頬杖<rt>ほおづえ</ruby>で支えていると、<ruby>三重吉<rt>みえきち</ruby>が来て、鳥を御<ruby>飼<rt>か</ruby>いなさいと云う。飼ってもいいと答えた。しかし念のためだから、何を飼うのかねと聞いたら、<ruby>文鳥<rt>ぶんちょう</ruby>ですと云う返事であった。
 

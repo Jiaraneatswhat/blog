@@ -9,8 +9,13 @@ description: "罗生门"
 
 :::note[META]
 `first published`:『帝国文学』1915年11月号
+`audio`: `https://www.youtube.com/watch?v=O9e0R_WXX3g`
 `desc`: 以《今昔物语集》为蓝本，刻画一名底层仆人为求生存、被迫染指恶行的模样。作品标题取自平安京朱雀大街的正门 ——罗生门
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/AkutagawaRyunosuke/Rashomon.mp3"> 
+</audio>
 
 <ruby>或日<rt>あるひ</ruby>の暮方の事である。一人の下人が、<ruby>羅生門<rt>らしやうもん</ruby>の下で雨やみを待つてゐた。
 

@@ -9,8 +9,13 @@ description: "白昼梦"
 
 :::note[META]
 `first published`:『新青年』1925年7月号
+`audio`: `https://www.youtube.com/watch?v=DrF4x7Z5ouA&list=PLNGCNpKwAdxdFrtzl8O9Lhbosqvr3LXgG&index=15`
 `desc`: 有着偷窥他人生活的病态癖好的主人公，因偷窥到住在楼下一对夫妇的秘密，而逐渐陷入梦境与现实边界模糊的状态
 :::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/EdokawaRanpo/Hakuchumu.mp3"> 
+</audio>
 
 あれは、白昼の悪夢であったか、それとも現実の出来事であったか。
 

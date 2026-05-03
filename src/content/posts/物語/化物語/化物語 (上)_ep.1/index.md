@@ -8,10 +8,15 @@ description: "第一话"
 ---
 
 :::note[META]
+`audio from Amazon Audible`
 `desc`: 向着阿良良木历从天而降的少女・战场原黑仪，身上几乎可以说是完全没有所谓的体重这回事——！？青春里，总少不了这般荒诞离奇的事！
 :::
 
 ### 001
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_001.mp3"> 
+</audio>
 
 戦場ヶ原ひたぎは、クラスにおいて、いわゆる病弱な女の子という立ち位置を与えられている──当然のように体育の授業なんかには参加しないし、全校朝会や全校集会でさえ、貧血対策とやらで、一人だけ日陰で受けている。戦場ヶ原とは、一年、二年、そして今年の三年と、高校生活、ずっと同じクラスだけれど、僕はあいつが活発に動いているという絵をいまだかつて見たことが無い。保健室の常連で、かかりつけの病院に行くからという理由で、遅刻や早退、あるいは欠席を繰り返す。病院に住んでいるんじゃないかと、面白おかしく囁かれるくらいに。
 
@@ -122,6 +127,10 @@ description: "第一话"
 <font color="#548dd4">战场原她，几乎没有可称之为体重的东西存在。</font>
 
 ### 002
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_002.mp3"> 
+</audio>
 
 「戦場ヶ原さん？」
 
@@ -666,6 +675,10 @@ description: "第一话"
 <font color="#548dd4">然后，我便走出了教室。</font>
 
 ### 003
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_003.mp3"> 
+</audio>
 
 教室から出、後ろ手で扉を閉じ、一歩進んだところで、背中から、
 
@@ -1699,6 +1712,9 @@ description: "第一话"
 
 ### 004
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_004.mp3"> 
+</audio>
 
 春休みのことである。
 
@@ -2934,6 +2950,10 @@ description: "第一话"
 <font color="#548dd4">她如此说道。</font>
 
 ### 005
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_005.mp3"> 
+</audio>
 
 二時間後。
 
@@ -4879,6 +4899,10 @@ description: "第一话"
 
 ### 006
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_006.mp3"> 
+</audio>
+
 ここは地方の、更に外れの町である。
 
 <font color="#548dd4">这里是地方上偏僻的小镇。</font>
@@ -6549,6 +6573,10 @@ description: "第一话"
 
 ### 007
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_007.mp3"> 
+</audio>
+
 時系列。
 
 <font color="#548dd4">时间顺序。</font>
@@ -6978,6 +7006,10 @@ description: "第一话"
 <font color="#548dd4">看来，冬天的到来似乎值得期待呢。</font>
 
 ### 008
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_008.mp3"> 
+</audio>
 
 後日談というか、今回のオチ。
 

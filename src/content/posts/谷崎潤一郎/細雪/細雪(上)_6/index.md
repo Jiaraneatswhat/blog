@@ -7,6 +7,18 @@ image: "./cover.png"
 description: "六"
 ---
 
+:::note[META]
+`first published`:『中央公論』1943年1月号・3月号
+`audio`: `https://www.youtube.com/watch?v=aCVsoyKlA1Y`
+`desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
+
+三女雪子是四姐妹中容貌最为出众之人，婚事却屡屡未果，年过三十依旧独身。幸子夫妇为此忧心不已、四处奔走，性格沉默寡言的雪子却对每一门亲事都无意应允，岁月便这般缓缓流逝。
+:::
+
+<audio controls> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_6.mp3"> 
+</audio>
+
 立っている幸子には、坐って下を向いている雪子の表情を、どうにも読み取りようがなかった。雪子は<font color="#ff0080">出しな</font>[^35]に洋間を覗いて、<ruby>小女<rt>こおんな</ruby>のお花を相手にままごとの道具を並べている悦子に云った。「ええか、あんじょう留守番頼みまっせ」
 
 <font color="#548dd4">“小悦，我们出去一趟。” 雪子临出门时，看见西式房间里悦子正和小女佣阿花玩 “过家家” 的游戏。“你要乖乖地在家待着，好吗？”</font>

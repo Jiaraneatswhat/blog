@@ -9,10 +9,16 @@ description: "某个内心风景"
 
 :::note[META]
 `first published`:『青空』1926年8月・通巻18号
-`desc`: 这部随笔式作品以作者在京都三高求学时期的心境为素材，记录下自身情感投射于凝望的风景与事物之中，由此造就情景与内心相融的 “心灵风景” 的真切感受。作品刻画了这样一种自觉意识：在与外物交感共鸣、从阴郁郁结的情绪中获得解脱的瞬间，以超然的另一个自我视角捕捉内心的微妙感触，进而更清晰地体认到这种心灵净化的状态
+`audio`: `https://www.youtube.com/watch?v=N1q96p7QX_w&t=10s`
+`desc`: 这部随笔式作品以作者在京都三高求学时期的心境为素材，记录下自身情感投射于凝望的风景与事物之中，由此造就情景与内心相融的 “心灵风景” 的真切感受。
+作品刻画了这样一种自觉意识：在与外物交感共鸣、从阴郁郁结的情绪中获得解脱的瞬间，以超然的另一个自我视角捕捉内心的微妙感触，进而更清晰地体认到这种心灵净化的状态
 :::
 
 ### 一
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Arukokoro/Arukokoro_1.mp3"> 
+</audio>
 
 <ruby>喬<rt>たかし</ruby>は彼の部屋の窓から寝静まった通りに<ruby>凝視<rt>みい</ruby>っていた。起きている窓はなく、深夜の静けさは<ruby>暈<rt>かさ</ruby>となって街燈のぐるりに集まっていた。固い音が時どきするのは突き当っていく<ruby>黄金虫<rt>ぶんぶん</ruby>の音でもあるらしかった。
 
@@ -56,6 +62,9 @@ description: "某个内心风景"
 
 ### 二
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Arukokoro/Arukokoro_2.mp3"> 
+</audio>
 
 どうして喬がそんなに夜更けて窓に起きているか、それは彼がそんな時刻まで寝られないからでもあった。寝るには余り暗い考えが彼を苦しめるからでもあった。彼は悪い病気を女から得て来ていた。
 
@@ -147,6 +156,9 @@ description: "某个内心风景"
 
 ### 三
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Arukokoro/Arukokoro_3.mp3"> 
+</audio>
 
 喬はたびたびその不幸な夜のことを思い出した。――
 
@@ -298,6 +310,10 @@ description: "某个内心风景"
 
 ### 四
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Arukokoro/Arukokoro_4.mp3"> 
+</audio>
+
 喬は丸太町の橋の<ruby>袂<rt>たもと</ruby>から加茂<ruby>磧<rt>かわら</ruby>へ下りて行った。磧に面した家々が、そこに午後の日蔭を作っていた。
 
 <font color="#548dd4">乔从丸太町的桥边往下来到加茂川的河滩。面向河滩的人家，午后就此成了遮荫的去处。</font>
@@ -352,6 +368,10 @@ description: "某个内心风景"
 
 ### 五
 
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Arukokoro/Arukokoro_5.mp3"> 
+</audio>
+
 喬は夜更けまで街をほっつき歩くことがあった。
 
 <font color="#548dd4">乔在街上漫无目的地游走，直到深夜。</font>
@@ -393,6 +413,10 @@ description: "某个内心风景"
 <font color="#548dd4">丁零、丁零。他那渺小的希望，令深夜的空气为之颤动。</font>
 
 ### 六
+
+<audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
+    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Arukokoro/Arukokoro_6.mp3"> 
+</audio>
 
 窓からの風景はいつの夜も<ruby>渝<rt>かわ</ruby>らなかった。喬にはどの夜もみな一つに思える。
 
