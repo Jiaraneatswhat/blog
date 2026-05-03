@@ -10,6 +10,7 @@ image: "./cover.png"
 `first published`:『中央公論』1943年1月号・3月号
 `audio`: `https://www.youtube.com/watch?v=p84oMVQQMbk`
 `desc`: 在大阪船场坐拥百年老店、历史底蕴深厚的莳冈家，鹤子、幸子、雪子、妙子四姐妹交织出百态人情。小说如华美画卷，循着四季流转，细致描绘出昭和十年间关西上流社会的日常光景。
+:::
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
     <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_24.mp3"> 
