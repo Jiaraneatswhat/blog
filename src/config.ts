@@ -162,7 +162,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "永雏多氢菲的 blog", // 主页横幅主标题
+			title: `<span style="color:#ff9ff3">永雏多氢菲</span>の<ruby>書庫<rt>ミーミルノヰヅミ</ruby>`, // 主页横幅主标题
 
 			subtitle: [
 				"关注 taffy 喵",
