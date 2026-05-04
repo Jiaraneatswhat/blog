@@ -14,6 +14,7 @@ import { MusicSidebarWidget } from "../widgets/music-sidebar";
 import Profile from "../widgets/profile/Profile.astro";
 import SiteStats from "../widgets/site-stats/SiteStats.astro";
 import Tags from "../widgets/tags/Tags.astro";
+import GiscusBoard from "../widgets/msg-board/GiscusBoard.astro";
 
 interface Props {
 	side: "left" | "right";
@@ -52,6 +53,7 @@ const componentMap: Record<string, unknown> = {
 	"music-sidebar": MusicSidebarWidget,
 	"site-stats": SiteStats,
 	calendar: Calendar,
+	"giscus-board": GiscusBoard,
 };
 
 type WidgetComponentConfig = ReturnType<

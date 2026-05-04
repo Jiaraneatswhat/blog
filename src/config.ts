@@ -513,12 +513,18 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 动画延迟时间
 			animationDelay: 250,
 		},
+		{
+  			type: "giscus-board",    // 必须和 componentMap 里的名字一致
+  			position: "sticky",      // 放在侧边栏固定区域（和统计、播放器一起）
+  			class: "onload-animation",
+  			animationDelay: 250,     // 延迟出现，和其他组件错开，更美观
+		},
 	],
 
 	// 侧栏组件布局配置
 	components: {
-		left: ["profile", "announcement", "tags"],
-		right: ["site-stats", "calendar", "categories"],
+		left: ["profile", "announcement", "tags", "categories"],
+		right: ["site-stats", "calendar", "giscus-board"],
 		drawer: [
 			"profile",
 			"announcement",
