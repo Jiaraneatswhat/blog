@@ -14,7 +14,7 @@ description: "山月记"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/NakajimaAtushi/Sangetuki.mp3"> 
+    <source src="https://audio.taffybook.cn/NakajimaAtushi/Sangetuki.mp3"> 
 </audio>
 
 <ruby>隴西<rt>ろうさい</ruby>の<ruby>李徴<rt>ちょう</ruby>は博学<ruby>才穎<rt>さいえい</ruby>、天宝の末年、若くして名を<ruby>虎榜<rt>こぼう</ruby>に連ね、ついで<ruby>江南尉<rt>こうなんい</ruby>に<font color="#ff0080">補せられた</font>[^1]が、性、<font color="#ff0080"><ruby>狷介<rt>けんかい</ruby></font>[^2]、自ら<ruby>恃<rt>たの</ruby>むところ頗る厚く、<ruby>賤吏<rt>せんり</ruby>に甘んずるを<ruby>潔<rt>いさぎよ</ruby>しとしなかった。いくばくもなく官を<ruby>退<rt>しりぞ</ruby>いた後は、<ruby>故山<rt>こざん</ruby>、<ruby>虢略<rt>かくりゃく</ruby>に<font color="#ff0080"><ruby>帰臥<rt>きが</ruby></font>[^3]し、人と<ruby>交<rt>まじわり</ruby>を絶って、ひたすら詩作に耽った。

@@ -16,7 +16,7 @@ description: "梦十夜"
 ### 第一夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_1.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_1.mp3"> 
 </audio>
 
 こんな夢を見た。
@@ -130,7 +130,7 @@ description: "梦十夜"
 ### 第二夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_2.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_2.mp3"> 
 </audio>
 
 こんな夢を見た。
@@ -208,7 +208,7 @@ description: "梦十夜"
 ### 第三夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_3.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_3.mp3"> 
 </audio>
 
 こんな夢を見た。
@@ -358,7 +358,7 @@ description: "梦十夜"
 ### 第四夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_4.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_4.mp3"> 
 </audio>
 
 広い土間の真中に涼み台のようなものを<ruby>据<rt>す</ruby>えて、その<ruby>周囲<rt>まわり</ruby>に小さい<font color="#ff0080"><ruby>床几<rt>しょうぎ</ruby></font>[^10]が並べてある。台は黒光りに光っている。
@@ -484,7 +484,7 @@ description: "梦十夜"
 ### 第五夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_5.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_5.mp3"> 
 </audio>
 
 こんな夢を見た。
@@ -558,7 +558,7 @@ description: "梦十夜"
 ### 第六夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_6.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_6.mp3"> 
 </audio>
 
 <font color="#e36c09"><ruby>運慶<rt>うんけい</ruby></font>[^18]が<ruby>護国寺<rt>ごこくじ</ruby>の山門で<ruby>仁王<rt>におう</ruby>を刻んでいると云う評判だから、散歩ながら行って見ると、自分より先にもう大勢集まって、しきりに<font color="#ff0080"><ruby>下馬評<rt>げばひょう</ruby></font>[^19]をやっていた。
@@ -648,7 +648,7 @@ description: "梦十夜"
 ### 第七夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_7.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_7.mp3"> 
 </audio>
 
 何でも大きな船に乗っている。
@@ -730,7 +730,7 @@ description: "梦十夜"
 ### 第八夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_8.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_8.mp3"> 
 </audio>
 
 床屋の敷居を<ruby>跨<rt>また</ruby>いだら、白い着物を着てかたまっていた三四人が、一度にいらっしゃいと云った。
@@ -808,7 +808,7 @@ description: "梦十夜"
 ### 第九夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_9.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_9.mp3"> 
 </audio>
 
 世の中が何となくざわつき始めた。今にも<ruby>戦争<rt>いくさ</ruby>が起りそうに見える。焼け出された<ruby>裸馬<rt>はだかうま</ruby>が、夜昼となく、屋敷の<ruby>周囲<rt>まわり</ruby>を<ruby>暴<rt>あ</ruby>れ<ruby>廻<rt>まわ</ruby>ると、それを夜昼となく<ruby>足軽共<rt>あしがるども</ruby>が<font color="#ff0080"><ruby>犇<rt>ひしめ</ruby>き</font>[^30]ながら<ruby>追<rt>おっ</ruby>かけているような心持がする。それでいて家のうちは<ruby>森<rt>しん</ruby>として静かである。
@@ -874,7 +874,7 @@ description: "梦十夜"
 ### 第十夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_10.mp3"> 
+    <source src="https://audio.taffybook.cn/NatsumeSoseki/YumeJuya/YumeJuya_10.mp3"> 
 </audio>
 
 庄太郎が女に攫われてから七日目の晩にふらりと帰って来て、急に熱が出てどっと、床に<ruby>就<rt>つ</ruby>いていると云って<ruby>健<rt>けん</ruby>さんが知らせに来た。

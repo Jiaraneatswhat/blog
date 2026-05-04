@@ -14,7 +14,7 @@ description: "白昼梦"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/EdokawaRanpo/Hakuchumu.mp3"> 
+    <source src="https://audio.taffybook.cn/EdokawaRanpo/Hakuchumu.mp3"> 
 </audio>
 
 あれは、白昼の悪夢であったか、それとも現実の出来事であったか。

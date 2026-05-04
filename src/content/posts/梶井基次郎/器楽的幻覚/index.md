@@ -14,7 +14,7 @@ description: "器乐的幻觉"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Kigakutekigenkaku.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Kigakutekigenkaku.mp3"> 
 </audio>
 
 ある秋<ruby>仏蘭西<rt>フランス</ruby>から来た年若い<ruby>洋琴家<rt>ピアニスト</ruby>がその国の伝統的な技巧で豊富な数の楽曲を冬にかけて演奏して行ったことがあった。そのなかには<ruby>独逸<rt>ドイツ</ruby>の古典的な曲目もあったが、これまで噂ばかりで稀にしか聴けなかった多くの仏蘭西系統の作品が<font color="#ff0080"><ruby>齎<rt>もた</ruby>らされていた</font>[^1]。私が聴いたのは何週間にもわたる六回の連続音楽会であったが、それはホテルのホールが会場だったので聴衆も少なく、そのため静かなこんもりした感じのなかで聴くことができた。回数を積むにつれて私は会場にも、周囲の聴衆の頭や横顔の恰好にも慣れて、教室へ出るような親しさを感じた。そしてそのような制度の音楽会を好もしく思った。

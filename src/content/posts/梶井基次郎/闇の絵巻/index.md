@@ -14,7 +14,7 @@ description: "黑暗画轴"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Yaminoemaki.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Yaminoemaki.mp3"> 
 </audio>
 
 最近東京を騒がした有名な強盗が<ruby>捕<rt>つか</ruby>まって語ったところによると、彼は何も見えない闇の中でも、一本の棒さえあれば何里でも走ることができるという。その棒を身体の前へ突き出し突き出しして、畑でもなんでも<ruby>盲滅法<rt>めくらめっぽう</ruby>に走るのだそうである。

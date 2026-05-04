@@ -16,7 +16,7 @@ description: "李陵"
 ### 一
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NakajimaAtushi/Riryo/Riryo_1.mp3"> 
+    <source src="https://audio.taffybook.cn/NakajimaAtushi/Riryo/Riryo_1.mp3"> 
 </audio>
 
 <ruby>漢<rt>かん</ruby>の<ruby>武帝<rt>ぶてい</ruby>の<font color="#e36c09"><ruby>天漢<rt>てんかん</ruby></font>[^1]二年秋九月、<ruby>騎都尉<rt>きとい</ruby>・<ruby>李陵<rt>りりょう</ruby>は<ruby>歩卒<rt>ほそつ</ruby>五千を率い、<ruby>辺塞<rt>へんさい</ruby><ruby>遮虜鄣<rt>しゃりょしょう</ruby>を発して北へ向かった。
@@ -202,7 +202,7 @@ description: "李陵"
 ### 二
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NakajimaAtushi/Riryo/Riryo_2.mp3"> 
+    <source src="https://audio.taffybook.cn/NakajimaAtushi/Riryo/Riryo_2.mp3"> 
 </audio>
 
 九月に北へ立った五千の<ruby>漢軍<rt>かんぐん</ruby>は、十一月にはいって、疲れ傷ついて将を失った四百足らずの敗兵となって<ruby>辺塞<rt>へんさい</ruby>に辿りついた。敗報はただちに<ruby>駅伝<rt>えきでん</ruby>をもって長安の都に達した。
@@ -372,7 +372,7 @@ description: "李陵"
 ### 三
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/NakajimaAtushi/Riryo/Riryo_3.mp3"> 
+    <source src="https://audio.taffybook.cn/NakajimaAtushi/Riryo/Riryo_3.mp3"> 
 </audio>
 
 乱軍の中に気を失った<ruby>李陵<rt>りりょう</ruby>が<ruby>獣脂<rt>じゅうし</ruby>を<ruby>灯<rt>とも</ruby>し<ruby>獣糞<rt>じゅうふん</ruby>を<ruby>焚<rt>た</ruby>いた<ruby>単于<rt>ぜんう</ruby>の<ruby>帳房<rt>ちょうぼう</ruby>の中で目を覚ましたとき、<ruby>咄嗟<rt>とっさ</ruby>に彼は心を決めた。<ruby>自<rt>みずか</ruby>ら首<ruby>刎<rt>は</ruby>ねて<ruby>辱<rt>はずか</ruby>しめを免れるか、それとも今一応は敵に従っておいてそのうちに機を見て脱走する――敗軍の責を<ruby>償<rt>つぐな</ruby>うに足る手柄を<ruby>土産<rt>みやげ</ruby>として――か、この二つのほかに<ruby>途<rt>みち</ruby>はないのだが、李陵は、後者を選ぶことに心を決めたのである。

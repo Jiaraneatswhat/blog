@@ -16,7 +16,7 @@ description: "七叶树之花"
 ### 一
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_1.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_1.mp3"> 
 </audio>
 
 この頃の陰鬱な天候に弱らされていて手紙を書く気にもなれませんでした。以前京都にいた頃は毎年のようにこの季節に<ruby>肋膜<rt>ろくまく</ruby>を悪くしたのですが、<ruby>此方<rt>こちら</ruby>へ来てからはそんなことはなくなりました。一つは酒類を飲まなくなったせいかも知れません。然しやはり精神が不健康になります。感心なことを云うと云ってあなたは笑うかも知れませんが、学校へ行くのが実に<ruby>億劫<rt>おっくう</ruby>でした。電車に乗ります。電車は四十分かかるのです。気持が消極的になっているせいか、前に坐っている人が私の顔を見ているような気が常にします。それが私の独ひとり相撲だとは判っているのです。と云うのは、はじめは気がつきませんでしたが、まあ云えば私自身そんな視線を捜しているという工合なのです。何気ない眼附きをしようなど思うのが<ruby>抑ゝ<rt>そもそも</ruby>の苦しむもとです。
@@ -58,7 +58,7 @@ description: "七叶树之花"
 ### 二
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_2.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_2.mp3"> 
 </audio>
 
 或る日Ｏが訪ねてくれました。Ｏは健康そうな顔をしていました。そして<ruby>種々<rt>いろいろ</ruby>元気な話をしてゆきました。――
@@ -112,7 +112,7 @@ description: "七叶树之花"
 ### 三
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_3.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_3.mp3"> 
 </audio>
 
 私の部屋はいい部屋です。難を云えば造りが薄手に出来ていて湿気などに敏感なことです。一つの窓は樹木とそして<ruby>崖<rt>がけ</ruby>とに近く、一つの窓は<ruby>奥狸穴<rt>おくまみあな</ruby>などの低地をへだてて飯倉の電車道に臨む展望です。その展望のなかには旧徳川邸の<ruby>椎<rt>し</ruby>いの老樹があります。その何年を経たとも知れない樹は見わたしたところ一番大きな見事なながめです。一体椎という樹は梅雨期に葉が赤くなるものなのでしょうか。最初はなにか夕焼の反射をでも受けているのじゃないかなど疑いました。そんな赤さなのです。然し雨の日になってもそれは同じ。いつも同じでした。やはり樹自身の現象なのです。私は古人の「<font color="#e36c09"><ruby>五月雨<rt>さみだれ</ruby>の降り残してや光堂</font>[^9]」の句を、日を<ruby>距<rt>へだ</ruby>ててではありましたが、思い出しました。そして<ruby>椎茜<rt>しいあかね</ruby>という言葉を造って下の<font color="#e36c09">五</font>[^10]におきかえ嬉しい気がしました。中の七が降り残し<ruby>たる<rt>丶丶</ruby>ではなく、降り残し<ruby>てや<rt>丶丶</ruby>だったことも新しい眼で見得た気がしました。
@@ -134,7 +134,7 @@ description: "七叶树之花"
 ### 四
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_4.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_4.mp3"> 
 </audio>
 
 それもやはり雨の降った或る日の午後でした。私は赤坂のＡの家へ出かけました。京都時代の私達の会合――その席へはあなたも一度来られたことがありますね――<ruby>憶<rt>おぼ</ruby>えていらっしゃればその時いたＡです。
@@ -192,7 +192,7 @@ description: "七叶树之花"
 ### 五
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_5.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Tsurubami/Tsurubami_5.mp3"> 
 </audio>
 
 これはあなたにこの手紙を書こうと思い立った日の出来事です。私は久し振りに手拭をさげて<ruby>銭湯<rt>せんとう</ruby>へ行きました。やはり<ruby>雨後<rt>うご</ruby>でした。垣根の<ruby>きこく<rt>丶丶丶</ruby>がぷんぷん快い匂いを放っていました。

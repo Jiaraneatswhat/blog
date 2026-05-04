@@ -16,7 +16,7 @@ description: "九"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_9.mp3"> 
+    <source src="https://audio.taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_9.mp3"> 
 </audio>
 
 「明日御都合がお悪いのでしたら、十六日は大変日が<ruby>吉<rt>よ</ruby>いのだそうですが、十六日にきめて戴く訳には参りませんでしょうか」―――幸子は先日、出しなに電話に掴まった時にそう云われて、しょうことなしに承知させられてしまったのであるが、「ではまあ行って見てもよい」と云う言葉を、どうにかこうにか雪子の口から引き出す迄にはそれから二日かかったことであった。

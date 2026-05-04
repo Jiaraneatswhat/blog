@@ -13,7 +13,7 @@ description: "太郎和街"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Taroutomachi.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Taroutomachi.mp3"> 
 </audio>
 
 秋は洗ひたての<ruby>敷布<rt>シーツ</ruby>の樣に<ruby>快<rt>こころよ</ruby>かつた。太郎は第一の街で夏服を<font color="#ff0080"><ruby>質<rt>しち</ruby></font>[^1]に入れ、第二の街で牛肉を食つた。微醉して街の上へ出ると正午のドンが鳴つた。

@@ -13,7 +13,7 @@ description: "导水竹管的故事"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Kakeinohanashi.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Kakeinohanashi.mp3"> 
 </audio>
 
 私は散歩に出るのに二つの路を持っていた。一つは<ruby>渓<rt>たに</ruby>に沿った街道で、もう一つは街道の傍から渓に懸った<ruby>吊橋<rt>つりばし</ruby>を渡って入ってゆく山径だった。街道は展望を持っていたがそんな道の性質として気が散り易かった。それに比べて山径の方は陰気ではあったが心を静かにした。どちらへ出るかはその日その日の気持が決めた。

@@ -14,7 +14,7 @@ description: "手绢"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/AkutagawaRyunosuke/Hankechi.mp3"> 
+    <source src="https://audio.taffybook.cn/AkutagawaRyunosuke/Hankechi.mp3"> 
 </audio>
 
 東京帝国法科大学教授、長谷川謹造先生は、ヴエランダの<ruby>籐椅子<rt>とういす</ruby>に腰をかけて、<font color="#e36c09">ストリントベルク</font>[^1]の<font color="#e36c09"><ruby>作劇術<rt>ドラマトウルギイ</ruby></font>[^2]を読んでゐた。

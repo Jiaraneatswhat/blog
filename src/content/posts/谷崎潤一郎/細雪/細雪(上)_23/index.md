@@ -13,7 +13,7 @@ image: "./cover.png"
 :::
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_23.mp3"> 
+    <source src="https://audio.taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_23.mp3"> 
 </audio>
 
 <p style="text-indent:0 !important;">拝啓</p>

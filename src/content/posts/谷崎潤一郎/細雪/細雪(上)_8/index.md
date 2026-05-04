@@ -16,7 +16,7 @@ description: "八"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_8.mp3"> 
+    <source src="https://audio.taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_8.mp3"> 
 </audio>
 
 悦子はままごとにも飽きてしまうと、お花に云いつけて二階の部屋から帳面を持って来させて、洋間で宿題の綴方を書いていた。

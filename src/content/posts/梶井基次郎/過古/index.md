@@ -14,7 +14,7 @@ description: "过往"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Kako.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Kako.mp3"> 
 </audio>
 
 母親がランプを消して出て来るのを、子供達は父親や祖母と共に、戸外で待っていた。

@@ -14,7 +14,7 @@ description: "十七"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_17.mp3"> 
+    <source src="https://audio.taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_17.mp3"> 
 </audio>
 
 そんなことから、最初は真面目でよばれに行く気はなかったのだけれども、妙子の話でだんだん好奇心が<font color="#ff0080">募って</font>[^82]来たのと、先方から再三招待があって断りにくくなったのとで、とうとうキリレンコの家へ出かけて行ったのは、

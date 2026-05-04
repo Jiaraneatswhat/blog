@@ -13,7 +13,7 @@ image: "./cover.png"
 :::
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_22.mp3"> 
+    <source src="https://audio.taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_22.mp3"> 
 </audio>
 
 辰雄は七月一日から丸の内の店に出勤するので、六月末に先に立って行って、当分<ruby>麻布<rt>あざぶ</ruby>の親戚の家に<ruby>寄食<rt>きしょく</ruby>しながら、手頃な借家を自分でも捜し、人にも捜して貰っていたが、大森に一軒見付かったから大体それにきめたと云う手紙が来た。で、家族は八月の<font color="#e36c09">地蔵盆</font>[^137]を済ましてから、廿九日の日曜の夜行で上京する、辰雄もその時は前日の土曜日からかけて大阪へ帰って来、出発の当夜駅頭に於いて改めて親戚知友の見送りを受ける、と云うことに極まった。

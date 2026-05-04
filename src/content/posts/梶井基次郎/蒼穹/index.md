@@ -14,7 +14,7 @@ description: "苍穹"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Soukyuu.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Soukyuu.mp3"> 
 </audio>
 
 ある晩春の午後、私は村の街道に沿った土堤の上で日を浴びていた。空にはながらく動かないでいる巨きな雲があった。その雲はその地球に面した側に藤紫色をした<ruby>陰翳<rt>いんえい</ruby>を持っていた。そしてその<ruby>尨大<rt>ぼうだい</ruby>な容積やその藤紫色をした陰翳はなにかしら<ruby>茫漠<rt>ぼうばく</ruby>とした<ruby>悲哀<rt>ひあい</ruby>をその雲に感じさせた。

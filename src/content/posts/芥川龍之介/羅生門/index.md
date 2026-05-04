@@ -14,7 +14,7 @@ description: "罗生门"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/AkutagawaRyunosuke/Rashomon.mp3"> 
+    <source src="https://audio.taffybook.cn/AkutagawaRyunosuke/Rashomon.mp3"> 
 </audio>
 
 <ruby>或日<rt>あるひ</ruby>の暮方の事である。一人の下人が、<ruby>羅生門<rt>らしやうもん</ruby>の下で雨やみを待つてゐた。

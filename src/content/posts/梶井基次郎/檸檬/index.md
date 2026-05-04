@@ -14,7 +14,7 @@ description: "柠檬"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Reimon.mp3">
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Reimon.mp3">
 </audio>
 
 えたいの知れない不吉な塊が私の心を始終<ruby>圧<rt>おさ</ruby>えつけていた。<ruby>焦躁<rt>しょうそう</ruby>と言おうか、嫌悪と言おうか──酒を飲んだあとに<ruby>宿酔<rt>ふつかよい</ruby>があるように、酒を毎日飲んでいると宿酔に相当した時期がやって来る。それが来たのだ。これはちょっといけなかった。結果した<ruby>肺尖<rt>はいせん</ruby><font color="#ff0080">カタル</font>[^1]や神経衰弱がいけないのではない。また背を焼くような借金などがいけないのではない。いけないのはその不吉な塊だ。以前私を喜ばせたどんな美しい音楽も、どんな美しい詩の一節も辛抱がならなくなった。<ruby>蓄音器<rt>ちくおんき</ruby>を聴かせてもらいにわざわざ出かけて行っても、最初の二三小節で不意に立ち上がってしまいたくなる。何かが私を<ruby>居堪<rt>いたたま</ruby>らずさせるのだ。それで始終私は街から街を浮浪し続けていた。

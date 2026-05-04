@@ -14,7 +14,7 @@ description: "在樱树下"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Sakuranoki.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Sakuranoki.mp3"> 
 </audio>
 
 桜の樹の下には屍体が埋まつてゐる！

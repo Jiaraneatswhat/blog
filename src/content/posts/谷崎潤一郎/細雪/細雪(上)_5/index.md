@@ -16,7 +16,7 @@ description: "五"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_5.mp3"> 
+    <source src="https://audio.taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_5.mp3"> 
 </audio>
 
 「中姉ちゃん、その帯締めて行くのん」と、姉のうしろで妙子が帯を結んでやっているのを見ると、雪子は云った。 「その帯、―――あれ、いつやったか、この前ピアノの会の時にも締めて行ったやろ」

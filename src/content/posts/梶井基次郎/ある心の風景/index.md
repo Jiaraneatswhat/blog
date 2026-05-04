@@ -17,7 +17,7 @@ description: "某个内心风景"
 ### 一
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_1.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_1.mp3"> 
 </audio>
 
 <ruby>喬<rt>たかし</ruby>は彼の部屋の窓から寝静まった通りに<ruby>凝視<rt>みい</ruby>っていた。起きている窓はなく、深夜の静けさは<ruby>暈<rt>かさ</ruby>となって街燈のぐるりに集まっていた。固い音が時どきするのは突き当っていく<ruby>黄金虫<rt>ぶんぶん</ruby>の音でもあるらしかった。
@@ -63,7 +63,7 @@ description: "某个内心风景"
 ### 二
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_2.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_2.mp3"> 
 </audio>
 
 どうして喬がそんなに夜更けて窓に起きているか、それは彼がそんな時刻まで寝られないからでもあった。寝るには余り暗い考えが彼を苦しめるからでもあった。彼は悪い病気を女から得て来ていた。
@@ -157,7 +157,7 @@ description: "某个内心风景"
 ### 三
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_3.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_3.mp3"> 
 </audio>
 
 喬はたびたびその不幸な夜のことを思い出した。――
@@ -311,7 +311,7 @@ description: "某个内心风景"
 ### 四
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_4.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_4.mp3"> 
 </audio>
 
 喬は丸太町の橋の<ruby>袂<rt>たもと</ruby>から加茂<ruby>磧<rt>かわら</ruby>へ下りて行った。磧に面した家々が、そこに午後の日蔭を作っていた。
@@ -369,7 +369,7 @@ description: "某个内心风景"
 ### 五
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_5.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_5.mp3"> 
 </audio>
 
 喬は夜更けまで街をほっつき歩くことがあった。
@@ -415,7 +415,7 @@ description: "某个内心风景"
 ### 六
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_6.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arukokoro/Arukokoro_6.mp3"> 
 </audio>
 
 窓からの風景はいつの夜も<ruby>渝<rt>かわ</ruby>らなかった。喬にはどの夜もみな一つに思える。

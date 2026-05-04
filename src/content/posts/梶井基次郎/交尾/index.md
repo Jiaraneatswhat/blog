@@ -16,7 +16,7 @@ description: "交尾"
 ### その一
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Koubi/Koubi_1.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Koubi/Koubi_1.mp3"> 
 </audio>
 
 星空を見上げると、音もしないで何匹も<ruby>蝙蝠<rt>こうもり</ruby>が飛んでいる。その姿は見えないが、瞬間瞬間光を消す星の工合から、気味の悪い畜類の飛んでいるのが感じられるのである。
@@ -66,7 +66,7 @@ description: "交尾"
 ### その二
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Koubi/Koubi_2.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Koubi/Koubi_2.mp3"> 
 </audio>
 
 私は一度<ruby>河鹿<rt>かじか</ruby>をよく見てやろうと思っていた。
@@ -109,7 +109,7 @@ description: "交尾"
 
 <font color="#548dd4">最后它当然是幸福地抵达母蛙跟前。接着就此展开交配。就在那舒畅的清流中。——不过，它们那痴情的美，比不上刚才渡水时的可爱。我欣赏了世间罕见的美丽之物，抱着这样的心情，荡漾在撼动河滩的河鹿蛙的蛙鸣声中。</font>
 
-[^1]: **ペッヒシュタイン** (Hermann Max Pechstein, 1881 - 1955)：德国表现主义画家和版画家，桥社成员之一，新分离派的创始人
+[^1]: **ペッヒシュタイン** (Hermann Max Pechstein, 1881－1955)：德国表现主义画家和版画家，桥社成员之一，新分离派的创始人
 
 [^2]: **ゲッセマネ** (Gethsemane)：位于耶路撒冷橄榄山脚、汲沦谷旁的古老橄榄园。该园因新约记载耶稣在受难前夜于此祷告并遭犹大出卖而闻名
 

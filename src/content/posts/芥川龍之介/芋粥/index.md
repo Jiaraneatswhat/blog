@@ -14,7 +14,7 @@ description: "芋粥"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/AkutagawaRyunosuke/Imogayu.mp3"> 
+    <source src="audio.https://taffybook.cn/AkutagawaRyunosuke/Imogayu.mp3"> 
 </audio>
 
 <ruby>元慶<rt>ぐわんぎやう</ruby>の末か、<font color="#e36c09"><ruby>仁和<rt>にんな</ruby></font>[^1]の始にあつた話であらう。どちらにしても時代はさして、この話に大事な役を、勤めてゐない。読者は唯、平安朝と云ふ、遠い昔が背景になつてゐると云ふ事を、知つてさへゐてくれれば、よいのである。――その頃、<ruby>摂政<rt>せつしやう</ruby>藤原<ruby>基経<rt>もとつね</ruby>に仕へてゐる<ruby>侍<rt>さむらひ</ruby>の中に、<ruby>某<rt>なにがし</ruby>と云ふ<font color="#e36c09">五位</font>[^2]があつた。

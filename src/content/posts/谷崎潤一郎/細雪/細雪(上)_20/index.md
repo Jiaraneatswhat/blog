@@ -14,7 +14,7 @@ description: "二十"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_20.mp3"> 
+    <source src="https://audio.taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_20.mp3"> 
 </audio>
 
 「あんた、ええ加減にしときなさい、そない一遍に精出したら、<font color="#ff0080">しんど</font>[^110]おまっせ」

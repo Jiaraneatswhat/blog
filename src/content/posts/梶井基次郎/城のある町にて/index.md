@@ -16,7 +16,7 @@ description: "坐落在古城的市街"
 ### ある午後
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_1.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_1.mp3"> 
 </audio>
 
 「高いとこの眺めは、アアッ（と咳をして）また<ruby>格段<rt>かくだん</ruby>でごわすな」
@@ -238,7 +238,7 @@ description: "坐落在古城的市街"
 ### 手品と花火
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_2.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_2.mp3"> 
 </audio>
 
 これはまた別の日。
@@ -664,7 +664,7 @@ description: "坐落在古城的市街"
 ### 病気
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_3.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_3.mp3"> 
 </audio>
 
 姉が病気になった。<ruby>脾腹<rt>ひばら</ruby>が痛む、そして高い熱が出る。峻は腸チブスではないかと思った。枕元で兄が
@@ -822,7 +822,7 @@ description: "坐落在古城的市街"
 ### 勝子
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_4.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_4.mp3"> 
 </audio>
 
 峻は原っぱに面した窓に<ruby>倚<rt>よ</ruby>りかかって外を眺めていた。
@@ -936,7 +936,7 @@ description: "坐落在古城的市街"
 ### 昼と夜
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_5.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_5.mp3"> 
 </audio>
 
 彼はある日城の傍の崖の蔭に立派な井戸があるのを見つけた。
@@ -1087,7 +1087,7 @@ description: "坐落在古城的市街"
 ### 雨
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_6.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Shiro/Shironoarumachi_6.mp3"> 
 </audio>
 
 八月も終わりになった。

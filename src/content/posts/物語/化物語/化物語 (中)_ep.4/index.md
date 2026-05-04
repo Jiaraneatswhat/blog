@@ -15,7 +15,7 @@ description: "第四话"
 #### 001
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_001.mp3"> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_001.mp3"> 
 </audio>
 
 千石撫子は妹の同級生だった。僕には二人の妹がいて、千石撫子はその内、下の方の妹の友達だった。今現在の酷い有様と違って、小学生の頃の僕は、それなりに普通に友達のいる子供だったのだが、それでもなんと言えばいいのだろう、みんなと遊ぶのは好きだが誰かと遊ぶのは好きではないという感じで、休み時間にクラスの連中と遊ぶことはあっても、放課後にクラスの連中と遊ぶことは、滅多になかった。嫌な子供だ。語るにつけ思い出すにつけ、嫌な子供だった。語りたくも思い出したくもない。まあ、三つ子の魂百まで＊というか、その逆と言うか、ただ単に、昔から僕はそういう奴だったと言うだけの話だ。そんなわけで、放課後は、特に習い事をしていたわけでもないのに、さっさと家に帰ることを常とする僕だったが、その帰った家に遊びに来ていたのが、千石撫子だったのである。今でこそ二人べったり、いつもいつでもいついつでもそばにいる、兄としては心配以上に気持ちの悪くなってしまうくらい仲のいい二人の妹ではあるが、小学生の頃は別々に行動することも多く、上の妹はもっぱらアウトドア派、下の妹はインドア派で、三日に一日は、下の妹は家に学校の友達を連れてきていた。千石撫子が特に妹と仲良しだったというわけではなく、たくさんいた妹の友達の中の一人だった感じなのだろう。『なのだろう』と、ここで語尾がいささか不確かになってしまうのは、正直言って僕がその頃のことをよく憶えていないからなのだが、そうは言っても、いざ思い出してみれば妹が家に連れてきた友達の中では、まだ千石撫子は印象に残っている方だ。それは何故なら、放課後、友達と遊ぶこともなく家に帰っていた僕は、妹の遊びに付き合わされることが多々あって（当時、二人の妹と僕は同室だった。僕が両親から自分ひとりの部屋が与えられたのは中学生になってからだ）、それは大抵の場合、人数合わせ、ボードゲームなどをするときの賑やかしということだったのだけれど、妹が千石撫子と遊ぶとき、僕にお呼びがかかる率が異様に高かったからである。要は、友達が多い妹が（これは今も変わらず、妹二人に共通して言えることなのだが、あの二人は人の中心に立つのが非常にうまい。兄としては非常に羨ましい限りである）、家に連れてくる同級生としては、千石撫子は珍しく、一人で行動するタイプの少女だったということだ。はっきり言って妹の友達なんて誰でも同じに見えてしまうので、必然、一人で、誰ともまぎれずにいた彼女の名前くらいは、僕の記憶にも残っていたというわけなのである。
@@ -73,7 +73,7 @@ description: "第四话"
 #### 002
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_002.mp3"> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_002.mp3"> 
 </audio>
 
 「阿良々木先輩、待たせてしまって申し訳ない」
@@ -2985,7 +2985,7 @@ description: "第四话"
 #### 003
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_003.mp3"> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_003.mp3"> 
 </audio>
 
 「これと──これかな。あ、その本はあんまりためにならないかも。書いてくださっている先生には申し訳ないんだけれども、結局、暗記を勧めているだけになってるから。効率を求めるなら、そっちの本の方がいいと思う」
@@ -5419,7 +5419,7 @@ description: "第四话"
 #### 004
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_004.mp3"> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_004.mp3"> 
 </audio>
 
 「<ruby>蛇<rt>じゃ</ruby><ruby>切縄<rt>ぎりなわ</ruby>」
@@ -6325,7 +6325,7 @@ description: "第四话"
 #### 005
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_005.mp3"> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_005.mp3"> 
 </audio>
 
 そして──
@@ -7675,7 +7675,7 @@ description: "第四话"
 #### 006
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_006.mp3"> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_006.mp3"> 
 </audio>
 
 場所は、例の神社跡だった。
@@ -9859,7 +9859,7 @@ description: "第四话"
 #### 007
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_007.mp3"> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Nadekosnake_007.mp3"> 
 </audio>
 
 後日談というか、今回のオチ。

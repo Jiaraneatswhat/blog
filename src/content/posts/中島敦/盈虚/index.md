@@ -14,7 +14,7 @@ description: "盈虚"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/NakajimaAtushi/Eikyo.mp3"> 
+    <source src="https://audio.taffybook.cn/NakajimaAtushi/Eikyo.mp3"> 
 </audio>
 
 <ruby>衞<rt>えい</ruby>の靈公の三十九年と云ふ年の秋に、太子<ruby>蒯聵<rt>かいがい</ruby>が父の命を受けて<ruby>齊<rt>せい</ruby>に使したことがある。<ruby>途<rt>みち</ruby>に宋の國を過ぎた時、畑に<ruby>耕<rt>たがや</ruby>す農夫共が妙な唄を歌ふのを聞いた。

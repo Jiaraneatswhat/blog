@@ -16,7 +16,7 @@ description: "山崖上的情感"
 ### 1
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arugakejou/Arugakejou_1.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arugakejou/Arugakejou_1.mp3"> 
 </audio>
 
 ある蒸し暑い夏の<ruby>宵<rt>よい</ruby>のことであった。山ノ手の町のとあるカフェで二人の青年が話をしていた。話の様子では彼らは別に友達というのではなさそうであった。銀座などとちがって、狭い山ノ手のカフェでは、孤独な客が<ruby>他所<rt>よそ</ruby>のテーブルを眺めたりしながら時を費すことはそう自由ではない。そんな不自由さが――そして狭さから来る親しさが、彼らを互いに近づけることが多い。彼らもどうやらそうした二人らしいのであった。
@@ -178,7 +178,7 @@ description: "山崖上的情感"
 ### 2
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arugakejou/Arugakejou_2.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arugakejou/Arugakejou_2.mp3"> 
 </audio>
 
 生島（これは酔っていた方の青年）はその夜<ruby>晩<rt>おそ</ruby>く自分の間借りしている崖下の家へ帰って来た。彼は戸を開けるとき、それが習慣のなんとも言えない憂鬱を感じた。それは彼がその家の寝ている主婦を思い出すからであった。生島はその四十を過ぎた<ruby>寡婦<rt>かふ</ruby>である「<ruby>小母<rt>おば</ruby>さん」となんの愛情もない身体の関係を続けていた。子もなく夫にも死に別れたその女にはどことなく<ruby>諦<rt>あき</ruby>らめた静けさがあって、そんな関係が生じたあとでも別に前と変わらない冷淡さもしくは親切さで彼を遇していた。生島には自分の愛情のなさを彼女に偽る必要など少しもなかった。彼が「小母さん」を呼んで寝床を共にする。そのあとで彼女はすぐ自分の寝床へ帰ってゆくのである。生島はその当初自分らのそんな関係に淡々とした安易を感じていた。ところが間もなく彼はだんだん<ruby>堪<rt>たま</ruby>らない嫌悪を感じ出した。それは彼が安易を見出していると同じ原因が彼に反逆するのであった。彼が彼女の膚に触れているとき、そこにはなんの感動もなく、いつもある<ruby>白<rt>しら</ruby>じらしい気持が消えなかった。生理的な終結はあっても、空想の満足がなかった。そのことはだんだん重苦しく彼の心にのしかかって来た。そのうちに彼は晴ればれとした往来へ出ても、自分に<ruby>萎<rt>しな</ruby>びた古手拭のような匂いが<ruby>沁<rt>し</ruby>みているような気がしてならなくなった。顔貌にもなんだかいやな線があらわれて来て、誰の目にも彼の陥っている地獄が感づかれそうな不安が絶えずつきまとった。そして女の<ruby>諦<rt>あきら</ruby>めたような平気さが極端にいらいらした嫌悪を刺戟するのだった。しかしその<ruby>憤懣<rt>ふんまん</ruby>が「小母さん」のどこへ向けられるべきだろう。彼が今日にも出てゆくと言っても彼女が一言の不平も唱えないことはわかりきったことであった。それでは何故出てゆかないのか。生島はその年の春ある大学を出てまだ就職する口がなく、国へは奔走中と言ってその日その日をまったく無気力な倦怠で送っている人間であった。彼はもう<font color="#ff0080">縦のものを横にする</font>[^5]にも、魅入られたような意志のなさを感じていた。彼が何々をしようと思うことは脳細胞の意志を刺戟しない部分を通って抜けてゆくのらしかった。結局彼はいつまで経ってもそこが動けないのである。――
@@ -228,7 +228,7 @@ description: "山崖上的情感"
 ### 3
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arugakejou/Arugakejou_3.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arugakejou/Arugakejou_3.mp3"> 
 </audio>
 
 石田（これは聴き手であった方の青年）はある晩のことその崖路の方へ散歩の足を向けた。彼は平常歩いていた往来から教えられたはじめての路へ足を踏み入れたとき、いったいこんなところが自分の家の近所にあったのかと不思議な気がした。元来その辺はむやみに坂の多い、丘陵と谷とに富んだ地勢であった。町の高みには皇族や華族の邸に並んで、立派な門構えの家が、夜になると古風な<ruby>瓦斯<rt>ガス</ruby>燈の<ruby>点<rt>つ</ruby>く静かな道を<ruby>挾<rt>はさ</ruby>んで立ち並んでいた。深い樹立のなかには教会の<ruby>尖塔<rt>せんとう</ruby>が<ruby>聳<rt>そび</ruby>えていたり、外国の公使館の旗がヴィラ風な屋根の上にひるがえっていたりするのが見えた。しかしその谷に当ったところには陰気なじめじめした家が、普通の通行人のための路ではないような<ruby>隘路<rt>あいろ</ruby>をかくして、朽ちてゆくばかりの存在を続けているのだった。
@@ -282,7 +282,7 @@ description: "山崖上的情感"
 ### 4
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Arugakejou/Arugakejou_4.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Arugakejou/Arugakejou_4.mp3"> 
 </audio>
 
 「今晩も来ている」と生島は崖下の部屋から崖路の闇のなかに浮かんだ人影を眺めてそう思った。彼は幾晩もその人影を認めた。そのたびに彼はそれがカフェで話し合った青年によもやちがいがないだろうと思い、自分の心に企らんでいる空想に、そのたび戦慄を感じた。  

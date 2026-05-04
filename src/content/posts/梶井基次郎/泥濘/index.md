@@ -16,7 +16,7 @@ description: "泥泞"
 ### 一
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook.cn/KajiiMotojiro/Deine/Deine_1.mp3"> 
+    <source src="https://audio.taffybook.cn/KajiiMotojiro/Deine/Deine_1.mp3"> 
 </audio>
 
 それはある日の事だった。――

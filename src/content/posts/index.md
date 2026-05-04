@@ -167,7 +167,7 @@ pinned: true
 		<tr>
 			<td style="border: 1px solid #000; text-align:center; vertical-align:middle;">背筋</td>
 			<td style="border: 1px solid #000; text-align:center; background:#2e8b57;">2023</td>
-			<td style="border: 1px solid #000;"><a href="/posts/背筋/近畿地方のある場所について/">近畿地方のある場所について</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/近畿地方のある場所について/">近畿地方のある場所について</a></td>
 			<td style="border: 1px solid #000; text-align:center;">☑</td>
 		</tr>
 		<tr>

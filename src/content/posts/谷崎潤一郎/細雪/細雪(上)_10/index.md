@@ -16,7 +16,7 @@ description: "十"
 :::
 
 <audio controls> 
-    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_10.mp3"> 
+    <source src="https://audio.taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_10.mp3"> 
 </audio>
 
 離れの書斎に逃げ込んでいた貞之助は、四時が過ぎてもまだ女達の支度が済まないらしいので、そろそろ時間を気にしていたが、ふと、<ruby>前栽<rt>せんざい</ruby>の八つ手の葉の乾いた上にパサリと物の落ちる音がしたので、机に<ruby>凭<rt>よ</ruby>ったなり手を伸ばして眼の前の障子を開けて見ると、ついさっきまで晴れていた空がしぐれて来て、かすかな雨の脚が軒先にすいすいと疎らな線を引き始めていた。
