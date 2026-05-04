@@ -18,7 +18,7 @@ pinned: true
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="41" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
+			<td rowspan="43" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
 			<td rowspan="7" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
 			<td rowspan="5" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
 			<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1915</td>
@@ -167,7 +167,7 @@ pinned: true
 		<tr>
 			<td style="border: 1px solid #000; text-align:center; vertical-align:middle;">背筋</td>
 			<td style="border: 1px solid #000; text-align:center; background:#2e8b57;">2023</td>
-			<td style="border: 1px solid #000;"><a href="/posts/近畿地方のある場所について/">近畿地方のある場所について</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/背筋/近畿地方のある場所について/">近畿地方のある場所について</a></td>
 			<td style="border: 1px solid #000; text-align:center;">☑</td>
 		</tr>
 		<tr>
@@ -215,6 +215,18 @@ pinned: true
 		</tr>
 		<tr>
 			<td style="border: 1px solid #000;"><a href="/posts/物語/化物语/化物語-中_ep3/">化物語(中)</a></td>
+			<td style="border: 1px solid #000; text-align:center;">☑</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="border: 1px solid #000; text-align:center; vertical-align:middle;">む行</td>
+			<td rowspan="2" style="border: 1px solid #000; text-align:center; vertical-align:middle;">村上春樹</td>
+			<td style="border: 1px solid #000; text-align:center; background:#2e8b57;">1979</td>
+			<td style="border: 1px solid #000;"><a href="/posts/村上春樹/風の歌を聴け/">風の歌を聴け</a></td>
+			<td style="border: 1px solid #000; text-align:center;">☑</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid #000; text-align:center; background:#2e8b57;">1980</td>
+			<td style="border: 1px solid #000;"><a href="/posts/村上春樹/1973年のピンボール/">1973年のピンボール</a></td>
 			<td style="border: 1px solid #000; text-align:center;">☑</td>
 		</tr>
 	</tbody>
