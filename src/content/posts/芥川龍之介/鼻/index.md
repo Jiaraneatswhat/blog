@@ -14,7 +14,7 @@ description: "鼻"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/AkutagawaRyunosuke/Hana.mp3"> 
+    <source src="https://taffybook.cn/AkutagawaRyunosuke/Hana.mp3"> 
 </audio>
 
 <font color="#e36c09"><ruby>禅智内供<rt>ぜんちないぐ</ruby></font>[^1]の鼻と云えば、<ruby>池<rt>いけ</ruby>の<ruby>尾<rt>お</ruby>で知らない者はない。長さは五六寸あって<ruby>上唇<rt>うわくちびる</ruby>の上から<ruby>顋<rt>あご</ruby>の下まで下っている。形は元も先も同じように太い。云わば細長い<ruby>腸詰<rt>ちょうづ</ruby>めのような物が、ぶらりと顔のまん中からぶら下っているのである。

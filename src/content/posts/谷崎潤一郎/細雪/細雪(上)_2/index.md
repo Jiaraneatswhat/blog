@@ -16,7 +16,7 @@ description: "二"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_2.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_2.mp3"> 
 </audio>
 
 井谷と云うのは、神戸のオリエンタルホテルの近くの、幸子たちが行きつけの美容院の女主人なのであるが、<font color="#ff0080"><ruby>縁談<rt>えんだん</ruby></font>[^9]の世話をするのが好きと聞いていたので、幸子はかねてから雪子のことを頼み込んで、写真を渡しておいたところ、先日<font color="#ff0080">セット</font>[^10]に行った時に、「ちょっと奥さん、お茶に附き合って下さいませんか」と手の空いた隙に幸子を誘い出して、ホテルのロビーで始めてこの話をしたのである。

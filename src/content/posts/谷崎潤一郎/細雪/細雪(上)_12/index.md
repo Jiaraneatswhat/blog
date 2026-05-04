@@ -14,7 +14,7 @@ description: "十二"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_12.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_12.mp3"> 
 </audio>
 
 明くる日の夕方、貞之助は家に帰って来ると、「今日井谷さんが事務所へ見えたで」と、幸子の顔を見るなり云った。

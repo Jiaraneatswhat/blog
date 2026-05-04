@@ -16,7 +16,7 @@ description: "雪后"
 ### 一
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Setsugo/Setsugo_1.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Setsugo/Setsugo_1.mp3"> 
 </audio>
 
 行一が大学へ残るべきか、それとも就職すべきか迷っていたとき、彼に研究を続けてゆく願いと、生活の保証と、その二つが不充分ながら叶えられる位置を与えてくれたのは、彼の師事していた教授であった。その教授は自分の主裁している研究所の一隅に彼のための椅子を設けてくれた。そして彼は地味な研究の生活に入った。それと同時に信子との結婚生活が始まった。その結婚は行一の親や親族の意志が<ruby>阻<rt>はば</ruby>んでいたものだった。しかし結局、彼はそんな人びとから我が儘だ<ruby>剛情<rt>ごうじょう</ruby>だと言われる以外のやり方で、物事を振舞うすべを知らなかったのだ。
@@ -66,7 +66,7 @@ description: "雪后"
 ### 二
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Setsugo/Setsugo_2.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Setsugo/Setsugo_2.mp3"> 
 </audio>
 
 青空が広く、葉は落ち尽くし、<ruby>鈴懸<rt>すずかけ</ruby>が木に<ruby>褐色<rt>かっしょく</ruby>の実を乾かした。冬。凩 が吹いて、人が殺された。泥棒の噂や火事が起こった。短い日に戸をたてる信子は舞いこむ木の葉にも<ruby>慴<rt>おび</ruby>えるのだった。
@@ -92,7 +92,7 @@ description: "雪后"
 ### 三
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Setsugo/Setsugo_3.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Setsugo/Setsugo_3.mp3"> 
 </audio>
 
 ある日、空は早春を告げ知らせるような大雪を降らした。
@@ -270,7 +270,7 @@ description: "雪后"
 ### 四
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Setsugo/Setsugo_4.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Setsugo/Setsugo_4.mp3"> 
 </audio>
 
 「あの、電車の切符を置いてってくださいな」靴の紐を結び終わった夫に帽子を渡しながら、信子は弱よわしい声を出した。

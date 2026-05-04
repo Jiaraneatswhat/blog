@@ -13,7 +13,7 @@ image: "./cover.png"
 :::
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_21.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_21.mp3"> 
 </audio>
 
 幸子の黄疸は大して重いと云うのでもなしに長いこと恢復しないでいて、どうやら直りかけたのは入梅に這入ってからであったが、或る日彼女は本家の姉から見舞の電話を貰ったついでに、意外な事を耳にした。と云うのは、今度義兄が、東京の丸の内支店長に<ruby>栄転<rt>えいてん</ruby>するについて、近々本家は上本町を引き払い、一家を挙げて東京へ移住しなければならなくなった、と云うのである。

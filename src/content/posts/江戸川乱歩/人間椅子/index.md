@@ -14,7 +14,7 @@ description: "人间椅子"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/EdokawaRanpo/Ningenisu.mp3"> 
+    <source src="https://taffybook.cn/EdokawaRanpo/Ningenisu.mp3"> 
 </audio>
 
 <ruby>佳<rt>よし</ruby><ruby>子<rt>こ</ruby>は、毎朝、夫の<ruby>登庁<rt>とうちょう</ruby>を見送って了うと、それはいつも十時を過ぎるのだが、やっと自分のからだになって、洋館の方の、夫と共用の書斎へ、とじ籠るのが例になっていた。そこで、彼女は今、Ｋ雑誌のこの夏の<ruby>増大<rt>ぞうだい</ruby>号にのせる為の、長い創作にとりかかっているのだった。

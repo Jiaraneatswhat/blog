@@ -14,7 +14,7 @@ description: "十六"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_16.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_16.mp3"> 
 </audio>
 
 妙子の個展は今度は神戸の<ruby>鯉川<rt>こいかわ</ruby>筋の画廊を借りて三日間開催され、阪神間に顔のひろい幸子の蔭の運動もあって、第一日で大部分の作品が売約済になると云う成績を挙げた。幸子は三日目の夕方、会場の取り片附けを手伝い<ruby>旁<rt>かたがた</ruby>雪子や悦子たちを連れて来たが、残務を終えておもてへ出ると、

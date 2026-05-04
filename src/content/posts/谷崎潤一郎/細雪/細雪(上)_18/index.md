@@ -14,7 +14,7 @@ description: "十八"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_18.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_18.mp3"> 
 </audio>
 
 原籍地　兵庫県姫路市竪町二〇番地

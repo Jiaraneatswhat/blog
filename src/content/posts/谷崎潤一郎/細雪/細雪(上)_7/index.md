@@ -16,7 +16,7 @@ description: "七"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_7.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_7.mp3"> 
 </audio>
 
 「ちょっと、<ruby>中姉<rt>なかあん</ruby>ちゃんまだやろか。―――」二人はさっきから門のところに待っているのに、幸子がなかなか出て来そうもないので、「―――もう二時になるがな」と、妙子は運転手が扉を開けて立っている方へ寄って行った。

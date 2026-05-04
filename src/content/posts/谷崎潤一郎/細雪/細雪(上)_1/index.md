@@ -16,7 +16,7 @@ description: "一"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_1.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_1.mp3"> 
 </audio>
 
 「<font color="#ff0080">こいさん</font>[^1]、頼むわ。―――」鏡の中で、廊下からうしろへ這入って来た<ruby>妙子<rt>たえこ</ruby>を見ると、自分で<ruby>襟<rt>えり</ruby>を塗りかけていた<ruby>刷毛<rt>はけ</ruby>を渡して、<ruby>其方<rt>そちら</ruby>は見ずに、眼の前に映っている<ruby>長襦袢<rt>ながじゅばん</ruby>姿の、<font color="#e36c09">抜き<ruby>衣<rt>え</ruby><ruby>紋<rt>もん</ruby></font>[^2]の顔を他人の顔のように見据えながら 、「雪子ちゃん下で何してる」と、<ruby>幸子<rt>さちこ</ruby>はきいた。

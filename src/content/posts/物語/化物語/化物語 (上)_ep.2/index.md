@@ -15,7 +15,7 @@ description: "第二话"
 #### 001
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Mayoimaimai_001.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Mayoimaimai_001.mp3"> 
 </audio>
 
 八九寺真宵と遭遇したのは、五月の十四日、日曜日のことである。この日は全国的に母の日だった。お母さんが好きな人でも嫌いな人でも、お母さんと仲がいい人でも仲が悪い人でも、日本国民ならば誰もが平等に<ruby>享受<rt>きょうじゅ</ruby>することになる、母の日。いや、母の日の起源は、確かアメリカだっただろう。ならばクリスマスやハロウィン、バレンタインデーなどと同列に、一種のイベントと考えるべきなのかもしれないが、とにかく、五月十四日というこの日は、カーネーションの消費が一年三百六十五日の中でトップを記録し、各地の家庭で、『肩たたき券』やら『お手伝い券』やらが、行き交っている日だったのだと思われる。いや、そんな風習が今も現存しているかどうかはわからないが、いずれにせよ、この年の五月十四日が母の日であることは、確かだった。
@@ -153,7 +153,7 @@ description: "第二话"
 #### 002
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Mayoimaimai_002.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Mayoimaimai_002.mp3"> 
 </audio>
 
 「あらあら、これはこれは。公園のベンチの上に犬の死体が捨てられていると思ったら、なんだ、阿良々木くんじゃないの」
@@ -2216,7 +2216,7 @@ description: "第二话"
 #### 003
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Mayoimaimai_003.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Mayoimaimai_003.mp3"> 
 </audio>
 
 その小学校高学年くらいの年齢だろう女の子は、公園の端っこにある、鉄製の看板、案内図──この辺りの住宅地図に、向かっていた。こちらに背中を向けているので、どんな顔をした女の子なのかはわからないが、背負った大きなリュックサックがとにかく印象的で──だから、僕はすぐに思い出すことができた。そう、その女の子は、ついさっき、戦場ヶ原がここに現れるその前にも、ああやって、住宅地図に向かっていた。あのときは、すぐに立ち去っていったけれど──どうやら、また戻ってきたらしい。なにやら、手に持っているメモらしきものと、看板とを、見比べているようだ。
@@ -3307,7 +3307,7 @@ description: "第二话"
 #### 004
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Mayoimaimai_004.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Mayoimaimai_004.mp3"> 
 </audio>
 
 ここらでそろそろ、春休みの話。
@@ -4621,7 +4621,7 @@ description: "第二话"
 #### 005
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Mayoimaimai_005.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Mayoimaimai_005.mp3"> 
 </audio>
 
 「迷い牛」
@@ -5928,7 +5928,7 @@ description: "第二话"
 #### 006
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Mayoimaimai_006.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Mayoimaimai_006.mp3"> 
 </audio>
 
 「で──その迷い牛って、どんな妖怪変化、魑魅魍魎なんだよ。どうやったら退治できるんだ」 
@@ -8375,7 +8375,7 @@ description: "第二话"
 #### 007
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Mayoimaimai_007.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Mayoimaimai_007.mp3"> 
 </audio>
 
 昔々のその昔──というほどのことではありません、ほんの十年ほど前の話です。あるところで、一組の夫婦が、その関係に終焉を迎えました。夫一人、妻一人。合わせて二人。かつては周囲の誰もが羨み、周囲の誰もが、幸せになると信じて疑わなかった、そんな二人ではありましたが、結局のところ、二人が婚姻関係にあった期間は十年にも満たない、短いものでした。 　
@@ -9215,7 +9215,7 @@ description: "第二话"
 #### 008
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Mayoimaimai_008.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Mayoimaimai_008.mp3"> 
 </audio>
 
 そして、一時間後──十年ほど前、正確なところはわからないが、とにかく十年ほど前に、少女、生前の八九寺真宵が母の日に目指した場所──あのメモに書かれていた通りの住所の場所に、僕と戦場ヶ原と八九寺は、辿り着いた。 　
@@ -10073,7 +10073,7 @@ description: "第二话"
 #### 009
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Mayoimaimai_009.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Mayoimaimai_009.mp3"> 
 </audio>
 
 後日談というか、今回のオチ。

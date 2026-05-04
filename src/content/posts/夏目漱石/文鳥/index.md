@@ -14,7 +14,7 @@ description: "文鸟"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/NatumeSoseki/Buntyou.mp3"> 
+    <source src="https://taffybook.cn/NatsumeSoseki/Buntyou.mp3"> 
 </audio>
 
 十月<ruby>早稲田<rt>わせだ</ruby>に移る。<ruby>伽藍<rt>がらん</ruby>のような書斎にただ一人、片づけた顔を<ruby>頬杖<rt>ほおづえ</ruby>で支えていると、<ruby>三重吉<rt>みえきち</ruby>が来て、鳥を御<ruby>飼<rt>か</ruby>いなさいと云う。飼ってもいいと答えた。しかし念のためだから、何を飼うのかねと聞いたら、<ruby>文鳥<rt>ぶんちょう</ruby>ですと云う返事であった。

@@ -16,7 +16,7 @@ description: "三"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_3.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_3.mp3"> 
 </audio>
 
 雪子を縁遠くしたもう一つの原因に、井谷の話の中に出た「新聞の事件」と云うものがあった。

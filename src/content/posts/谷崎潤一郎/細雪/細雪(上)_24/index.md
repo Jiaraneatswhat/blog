@@ -13,7 +13,7 @@ image: "./cover.png"
 :::
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_24.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_24.mp3"> 
 </audio>
 
 この寄せ書きに対しては間もなく幸子宛に返事が来、あれを繰り返し身に沁みてうれしく読んだこと、自分もこの間の十五夜には二階の窓からひとり月を眺めていたこと、あれを読んで、去年蘆屋の家で月見をした時の情景を昨日のことのように思い浮かべたこと、などを感傷的に書いて来たが、それから又暫く音信が<ruby>跡絶<rt>とだ</ruby>えた。

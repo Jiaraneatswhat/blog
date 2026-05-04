@@ -16,7 +16,7 @@ description: "冬日"
 ### 一
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_1.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohi/Fuyunohi_1.mp3"> 
 </audio>
 
 季節は<ruby>冬至<rt>とうじ</ruby>に間もなかった。<ruby>堯<rt>たかし</ruby>の窓からは、地盤の低い家々の庭や門辺に立っている木々の葉が、一日ごと剥がれてゆく<ruby>様<rt>さま</ruby>が見えた。
@@ -62,7 +62,7 @@ description: "冬日"
 ### 二
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_2.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohi/Fuyunohi_2.mp3"> 
 </audio>
 
 堯は母からの手紙を受け取った。
@@ -136,7 +136,7 @@ description: "冬日"
 ### 三
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_3.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohi/Fuyunohi_3.mp3"> 
 </audio>
 
 堯は掃除をすました部屋の窓を明け放ち、籐の寝椅子に休んでいた。と、ジュッジュッという啼き声がしてかなむぐらの垣の蔭に<font color="#ff0080"><ruby>笹<rt>ささ</ruby><ruby>鳴<rt>な</ruby>き</font>[^5]の鶯が見え隠れするのが見えた。
@@ -250,7 +250,7 @@ description: "冬日"
 ### 四
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_4.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohi/Fuyunohi_4.mp3"> 
 </audio>
 
 街路樹から次には街路から、風が枯葉を掃ってしまったあとは風の音も変わっていった。夜になると街のアスファルトは鉛筆で光らせたように凍てはじめた。そんな夜を堯は自分の静かな町から銀座へ出かけて行った。そこでは華ばなしいクリスマスや歳末の売出しがはじまっていた。
@@ -332,7 +332,7 @@ description: "冬日"
 ### 五
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_5.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohi/Fuyunohi_5.mp3"> 
 </audio>
 
 いつの隙にか冬至が過ぎた。そんなある日堯は長らく寄りつかなかった、以前住んでいた町の質店へ行った。金が来たので冬の<ruby>外套<rt>がいとう</ruby>を出しに出掛けたのだった。が、行ってみるとそれはすでに流れたあとだった。
@@ -530,7 +530,7 @@ description: "冬日"
 ### 六
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohi/Fuyunohi_6.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohi/Fuyunohi_6.mp3"> 
 </audio>
 
 母から手紙が来た。

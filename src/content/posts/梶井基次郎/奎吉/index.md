@@ -14,7 +14,7 @@ description: "奎吉"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Keikichi.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Keikichi.mp3"> 
 </audio>
 
 「たうとう弟にまで金を借りる樣になつたかなあ。」と奎吉は、一度思ひついたら最後の後悔の幕迄行つて見なければ得心の出來なくなる、いつもの彼の盲目的な欲望がむらむらと高まつて來るのを感じながら思つた。

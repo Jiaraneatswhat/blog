@@ -16,7 +16,7 @@ description: "交尾"
 ### その一
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Koubi/Koubi_1.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Koubi/Koubi_1.mp3"> 
 </audio>
 
 星空を見上げると、音もしないで何匹も<ruby>蝙蝠<rt>こうもり</ruby>が飛んでいる。その姿は見えないが、瞬間瞬間光を消す星の工合から、気味の悪い畜類の飛んでいるのが感じられるのである。
@@ -66,7 +66,7 @@ description: "交尾"
 ### その二
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Koubi/Koubi_2.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Koubi/Koubi_2.mp3"> 
 </audio>
 
 私は一度<ruby>河鹿<rt>かじか</ruby>をよく見てやろうと思っていた。

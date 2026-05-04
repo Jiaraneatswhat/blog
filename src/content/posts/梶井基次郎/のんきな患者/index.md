@@ -16,7 +16,7 @@ description: "悠哉的患者"
 ### 一
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Nonkinakanjya/Nonkinakanjya_1.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Nonki/Nonkinakanjya_1.mp3"> 
 </audio>
 
 吉田は肺が悪い。<ruby>寒<rt>かん</ruby>になって少し寒い日が来たと思ったら、すぐその翌日から高い熱を出してひどい咳になってしまった。胸の臓器を全部押し上げて出してしまおうとしているかのような咳をする。四五日経つともうすっかり痩せてしまった。咳もあまりしない。しかしこれは咳が<ruby>癒<rt>なお</ruby>ったのではなくて、咳をするための腹の筋肉がすっかり疲れ切ってしまったからで、彼らが咳をするのを<ruby>肯<rt>がえん</ruby>じなくなってしまったかららしい。それにもう一つは心臓がひどく弱ってしまって、一度咳をしてそれを乱してしまうと、それを再び鎮めるまでに非常に苦しい目を見なければならない。つまり咳をしなくなったというのは、身体が衰弱してはじめてのときのような元気がなくなってしまったからで、それが証拠には今度はだんだん呼吸困難の度を増して浅薄な呼吸を数多くしなければならなくなって来た。
@@ -54,7 +54,7 @@ description: "悠哉的患者"
 ### 二
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Nonkinakanjya/Nonkinakanjya_2.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Nonki/Nonkinakanjya_2.mp3"> 
 </audio>
 
 しかし吉田のそんな苦しみもだんだん耐えがたいようなものではなくなって来た。吉田は自分にやっと睡眠らしい睡眠ができるようになり、「今度はだいぶんひどい目に会った」ということを思うことができるようになると、やっと苦しかった二週間ほどのことが頭へのぼって来た。それは思想もなにもないただ荒々しい岩石の<ruby>重畳<rt>ちょうじょう</ruby>する風景だった。しかしそのなかでも最もひどかった咳の苦しみの最中に、いつも自分の頭へ浮かちょうじょうんで来るわけのわからない言葉があったことを吉田は思い出した。それは「ヒルカニヤの虎」という言葉だった。それは咳の喉を鳴らす音とも<ruby>連関<rt>れんかん</ruby>があり、それを吉田が観念するのは「俺はヒルカニヤの虎だぞ」というようなことを念じるからなのだったが、いったいその「ヒルカニヤの虎」というものがどんなものであったか吉田はいつも咳のすんだあと妙な気持がするのだった。吉田は何かきっとそれは自分の<ruby>寐<rt>ね</ruby>つく前に読んだ小説かなにかのなかにあったことにちがいないと思うのだったがそれが思い出せなかった。また吉田は「自己の残像」というようなものがあるものなんだなというようなことを思ったりした。それは吉田がもうすっかり咳をするのに疲れてしまって頭を枕へ<ruby>凭<rt>もた</ruby>らせていると、それでもやはり小さい咳が出て来る、しかし吉田はもうそんなものにいちいち<ruby>頸<rt>くび</ruby>を固くして応じてはいられないと思ってそれを出るままにさせておくと、どうしてもやはり頭はそのたびに動かざるを得ない。するとその「自己の残像」というものがいくつもできるのである。
@@ -189,7 +189,7 @@ description: "悠哉的患者"
 ### 三
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Nonkinakanjya/Nonkinakanjya_3.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Nonki/Nonkinakanjya_3.mp3"> 
 </audio>
 
 吉田はその娘の話からいろいろなことを思い出していた。第一に吉田が気付くのは吉田がその町からこちらの田舎へ来てまだ何ヶ月にもならないのに、その間に受けとったその町の人の誰かの死んだという便りの多いことだった。吉田の母は月に一度か二度そこへ行って来るたびに必ずそんな話を持って帰った。そしてそれはたいてい肺病で死んだ人の話なのだった。そしてその話をきいているとそれらの人達の病気にかかって死んでいったまでの期間は非常に短かった。ある学校の先生の娘は半年ほどの間に死んでしまって今はまたその息子が寝ついてしまっていた。通り筋の毛糸雑貨屋の主人はこの間まで店へ据えた毛糸の織機で一日中毛糸を織っていたが、急に死んでしまって、家族がすぐ店を畳んで国へ帰ってしまったそのあとはじきカフエーになってしまった。――

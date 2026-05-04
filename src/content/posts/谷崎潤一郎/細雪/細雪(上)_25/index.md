@@ -13,7 +13,7 @@ image: "./cover.png"
 :::
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_25.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_25.mp3"> 
 </audio>
 
 悦子の神経衰弱は、鎮静剤として折々<font color="#e36c09"><ruby>臭剥<rt>しゅうぼつ</ruby></font>[^145]を飲ませる外には<ruby>食餌<rt>しょくじ</ruby>療法に依っていたが、脂っこい物でも支那料理なら好んで食べることが分って、栄養分を取るようにしたのと、冬になって<ruby>脚気<rt>かっけ</ruby>が直ったのと、学校の先生が学課の方を気にしないで健康を取り戻すように諭してくれたのと、いろいろのことが効を奏して案じた程でもなく良くなって行った。で、助け船を呼ぶ必要はなくなってしまった訳であったが、幸子は東京の話を聞いてからと云うもの、どうしても一度雪子の顔を見ないことには気持が治まらなくなっていた。

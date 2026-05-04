@@ -14,7 +14,7 @@ description: "十五"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_15.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_15.mp3"> 
 </audio>
 
 井谷は十二月になってからはぱったり催促して来なくなったが、事によると形勢の非なることを大凡そ悟ったのかも知れないので、それなら却って都合がよい訳でもあった。貞之助は、他聞を憚ることもあるから美容院でなく、岡本のお宅の方へお伺いしたいと思いますがと、在宅の時間を確かめておいて、夕刻、いつもよりは遅めに事務所を出て、その足で岡本へ廻った。

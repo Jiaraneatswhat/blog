@@ -14,7 +14,7 @@ description: "爱抚"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Aibu.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Aibu.mp3"> 
 </audio>
 
 猫の耳というものはまことに<ruby>可笑<rt>おか</ruby>しなものである。薄べったくて、冷たくて、竹の子の皮のように、表には<ruby>絨毛<rt>じゅうもう</ruby>が生えていて、裏はピカピカしている。硬いような、柔らかいような、なんともいえない一種特別の物質である。私は子供のときから、猫の耳というと、一度「切符切り」でパチンとやってみたくて堪らなかった。これは残酷な空想だろうか？

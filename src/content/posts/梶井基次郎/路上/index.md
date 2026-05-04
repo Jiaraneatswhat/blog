@@ -14,7 +14,7 @@ description: "路上"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Rojyou.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Rojyou.mp3"> 
 </audio>
 
 自分がその道を見つけたのは<ruby>卯<rt>う</ruby>の花の咲く時分であった。

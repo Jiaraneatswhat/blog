@@ -15,7 +15,7 @@ description: "第一话"
 ### 001
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_001.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Hitagicrab_001.mp3"> 
 </audio>
 
 戦場ヶ原ひたぎは、クラスにおいて、いわゆる病弱な女の子という立ち位置を与えられている──当然のように体育の授業なんかには参加しないし、全校朝会や全校集会でさえ、貧血対策とやらで、一人だけ日陰で受けている。戦場ヶ原とは、一年、二年、そして今年の三年と、高校生活、ずっと同じクラスだけれど、僕はあいつが活発に動いているという絵をいまだかつて見たことが無い。保健室の常連で、かかりつけの病院に行くからという理由で、遅刻や早退、あるいは欠席を繰り返す。病院に住んでいるんじゃないかと、面白おかしく囁かれるくらいに。
@@ -129,7 +129,7 @@ description: "第一话"
 ### 002
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_002.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Hitagicrab_002.mp3"> 
 </audio>
 
 「戦場ヶ原さん？」
@@ -677,7 +677,7 @@ description: "第一话"
 ### 003
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_003.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Hitagicrab_003.mp3"> 
 </audio>
 
 教室から出、後ろ手で扉を閉じ、一歩進んだところで、背中から、
@@ -1713,7 +1713,7 @@ description: "第一话"
 ### 004
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_004.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Hitagicrab_004.mp3"> 
 </audio>
 
 春休みのことである。
@@ -2952,7 +2952,7 @@ description: "第一话"
 ### 005
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_005.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Hitagicrab_005.mp3"> 
 </audio>
 
 二時間後。
@@ -4900,7 +4900,7 @@ description: "第一话"
 ### 006
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_006.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Hitagicrab_006.mp3"> 
 </audio>
 
 ここは地方の、更に外れの町である。
@@ -6574,7 +6574,7 @@ description: "第一话"
 ### 007
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_007.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Hitagicrab_007.mp3"> 
 </audio>
 
 時系列。
@@ -7008,7 +7008,7 @@ description: "第一话"
 ### 008
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/ranobe/Monogatari/Bake/Hitagicrab_008.mp3"> 
+    <source src="https://taffybook.cn/ranobe/Monogatari/Bake/Hitagicrab_008.mp3"> 
 </audio>
 
 後日談というか、今回のオチ。

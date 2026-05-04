@@ -16,7 +16,7 @@ description: "六"
 :::
 
 <audio controls> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/TanizakiJyunichirou/Sasameyuki/Sasameyuki_6.mp3"> 
+    <source src="https://taffybook.cn/TanizakiJyunichiro/Sasameyuki/Sasameyuki_6.mp3"> 
 </audio>
 
 立っている幸子には、坐って下を向いている雪子の表情を、どうにも読み取りようがなかった。雪子は<font color="#ff0080">出しな</font>[^35]に洋間を覗いて、<ruby>小女<rt>こおんな</ruby>のお花を相手にままごとの道具を並べている悦子に云った。「ええか、あんじょう留守番頼みまっせ」

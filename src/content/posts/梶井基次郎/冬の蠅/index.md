@@ -14,7 +14,7 @@ description: "冬蝇"
 :::
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohae/Fuyunohae_0.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohae/Fuyunohae_0.mp3"> 
 </audio>
 
 冬の<ruby>蠅<rt>はえ</ruby>とは何か？
@@ -32,7 +32,7 @@ description: "冬蝇"
 ### 1
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohae/Fuyunohae_1.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohae/Fuyunohae_1.mp3"> 
 </audio>
 
 冬が来て私は日光浴をやりはじめた。<ruby>溪間<rt>たにま</ruby>の温泉宿なので日が<ruby>翳<rt>かげ</ruby>り易い。溪の風景は朝遅くまでは日影のなかに澄んでいる。やっと十時頃溪向こうの山に<ruby>堰<rt>せ</ruby>きとめられていた日光が<ruby>閃々<rt>せんせん</ruby>と私の窓を<ruby>射<rt>い</ruby>はじめる。窓を開けて仰ぐと、溪の空は<ruby>虻<rt>あぶ</ruby>や<ruby>蜂<rt>はち</ruby>の光点が忙しく飛び交っている。白く輝いた蜘蛛の糸が弓形に膨らんで幾条も幾条も流れてゆく。（その糸の上には、なんという小さな天女！　蜘蛛が乗っているのである。彼らはそうして自分らの身体を溪のこちら岸からあちら岸へ運ぶものらしい。）昆虫。昆虫。初冬といっても彼らの活動は空に織るようである。日光が<ruby>樫<rt>かし</ruby>の梢に染まりはじめる。するとその梢からは白い水蒸気のようなものが立ち<ruby>騰<rt>のぼ</ruby>る。霜が溶けるのだろうか。溶けた霜が蒸発するのだろうか。いや、それも昆虫である。微粒子のような羽虫がそんなふうに群がっている。そこへ日が当ったのである。
@@ -110,7 +110,7 @@ description: "冬蝇"
 ### 2
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohae/Fuyunohae_2.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohae/Fuyunohae_2.mp3"> 
 </audio>
 
 その日はよく晴れた温かい日であった。午後私は村の郵便局へ手紙を出しに行った。私は疲れていた。それから<ruby>溪<rt>たに</ruby>へ下りてまだ三四丁も歩かなければならない私の宿へ帰るのがいかにも<ruby>億劫<rt>おっくう</ruby>であった。そこへ一台の乗合自動車が通りかかった。それを見ると私は不意に手を挙げた。そしてそれに乗り込んでしまったのである。
@@ -200,7 +200,7 @@ description: "冬蝇"
 ### 3
 
 <audio controls onplay="document.querySelectorAll('audio').forEach(el => el !== this && el.pause())"> 
-    <source src="https://taffybook-1424344310.cos.ap-shanghai.myqcloud.com/audio/KajiiMotojiro/Fuyunohae/Fuyunohae_3.mp3"> 
+    <source src="https://taffybook.cn/KajiiMotojiro/Fuyunohae/Fuyunohae_3.mp3"> 
 </audio>
 
 私は何日も悪くなった身体を寝床につけていなければならなかった。私には別にさした後悔もなかったが、知った人びとの誰彼がそうしたことを聞けばさぞ陰気になり気を悪くするだろうとそのことばかり思っていた。
