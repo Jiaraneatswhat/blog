@@ -604,7 +604,7 @@ export const pioConfig: import("./types/config").PioConfig = {
 
 // 相关文章配置
 export const relatedPostsConfig: RelatedPostsConfig = {
-	enable: true,
+	enable: false,
 	maxCount: 5,
 };
 
