@@ -95,11 +95,14 @@
 
 	const displayedPosts = $derived(
 		(() => {
-			if (selectedDateKey && postDateMap[selectedDateKey]) {
-				return postDateMap[selectedDateKey];
+			// 没选日期：显示整月
+			if (selectedDateKey === null) {
+				const monthKey = formatMonthKey(currentYear, currentMonth);
+				return postsByMonth[monthKey] || [];
 			}
-			const monthKey = formatMonthKey(currentYear, currentMonth);
-			return postsByMonth[monthKey] || [];
+
+			// 选了日期：显示当天（没有就是空数组）
+			return postDateMap[selectedDateKey] || [];
 		})(),
 	);
 
@@ -141,6 +144,7 @@
 			currentMonth = 11;
 			currentYear--;
 		}
+		selectedDateKey = null;
 	}
 
 	function handleNextMonth() {
@@ -149,6 +153,7 @@
 			currentMonth = 0;
 			currentYear++;
 		}
+		selectedDateKey = null;
 	}
 
 	function handleBackToToday() {
@@ -180,11 +185,13 @@
 
 	function handleMonthSelect(month: number) {
 		currentMonth = month;
+		selectedDateKey = null;
 		closeSelectionPanel();
 	}
 
 	function handleYearSelect(year: number) {
 		currentYear = year;
+		selectedDateKey = null;
 		showMonthPicker();
 	}
 
@@ -267,29 +274,25 @@
 		/>
 
 		<div class="mt-4">
-			<div
-				class="h-[1px] w-full bg-neutral-200 dark:bg-neutral-700 mb-2"
-				class:hidden={displayedPosts.length === 0}
-			></div>
-			<div
-				class="flex flex-col gap-1 max-h-[9.375rem] overflow-y-auto custom-scrollbar"
-			>
+			<div class="h-[1px] w-full bg-neutral-200 dark:bg-neutral-700 mb-2"></div>
+
+			<div class="flex flex-col gap-1 max-h-[9.375rem] overflow-y-auto custom-scrollbar">
 				{#if displayedPosts.length > 0}
 					{#each displayedPosts as post (post.id)}
 						{@const isCurrentPost = post.id === currentPostId}
 						{@const [, m, d] = post.date.split("-")}
 						{@const dateStr = `${parseInt(m)}-${parseInt(d)}`}
+
 						<a
 							href="/posts/{post.id}/"
 							class="flex items-center justify-between text-sm transition-colors px-2 py-2 rounded-lg group border border-transparent
 								{isCurrentPost
-								? 'bg-[var(--primary)]/10 text-[var(--primary)] border-[var(--primary)]/10'
-								: 'text-neutral-700 dark:text-neutral-300 hover:text-[var(--primary)] dark:hover:text-[var(--primary)] hover:bg-[var(--btn-plain-bg-hover)]'}"
+									? 'bg-[var(--primary)]/10 text-[var(--primary)] border-[var(--primary)]/10'
+									: 'text-neutral-700 dark:text-neutral-300 hover:text-[var(--primary)] dark:hover:text-[var(--primary)] hover:bg-[var(--btn-plain-bg-hover)]'}"
 						>
-							<span
-								class="truncate flex-1 font-bold transition-colors"
-								>{post.title}</span
-							>
+							<span class="truncate flex-1 font-bold transition-colors">
+								{post.title}
+							</span>
 							<span
 								class="text-xs ml-2 whitespace-nowrap transition-colors
 								{isCurrentPost
@@ -300,6 +303,10 @@
 							</span>
 						</a>
 					{/each}
+				{:else}
+					<div class="px-2 py-6 text-sm text-center text-neutral-400 dark:text-neutral-500">
+						当天没有文章
+					</div>
 				{/if}
 			</div>
 		</div>
