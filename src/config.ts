@@ -366,8 +366,8 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 };
 
 export const commentConfig: CommentConfig = {
-	enable: false, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
-	system: "twikoo", // 评论系统选择: "twikoo" | "giscus"
+	enable: true, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
+	system: "giscus", // 评论系统选择: "twikoo" | "giscus"
 	twikoo: {
 		envId: "https://ubiquitous-blancmange-cd85ff.netlify.app/.netlify/functions/twikoo",
 		lang: SITE_LANG,
@@ -513,18 +513,12 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 动画延迟时间
 			animationDelay: 250,
 		},
-		{
-  			type: "giscus-board",    // 必须和 componentMap 里的名字一致
-  			position: "sticky",      // 放在侧边栏固定区域（和统计、播放器一起）
-  			class: "onload-animation",
-  			animationDelay: 250,     // 延迟出现，和其他组件错开，更美观
-		},
 	],
 
 	// 侧栏组件布局配置
 	components: {
-		left: ["profile", "announcement", "tags", "categories"],
-		right: ["site-stats", "calendar", "giscus-board"],
+		left: ["profile", "announcement", "tags"],
+		right: ["site-stats", "calendar", "categories"],
 		drawer: [
 			"profile",
 			"announcement",
