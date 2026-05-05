@@ -18,9 +18,9 @@ pinned: true
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="43" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
-			<td rowspan="7" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
-			<td rowspan="5" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
+			<td rowspan="44" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
+			<td rowspan="8" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
+			<td rowspan="6" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
 			<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1915</td>
 			<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/羅生門/">羅生門</a></td>
 			<td style="border: 1px solid #000; text-align:center;">☑</td>
@@ -40,6 +40,11 @@ pinned: true
 		</tr>
 		<tr>
 			<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/煙草と悪魔/">煙草と悪魔</a></td>
+			<td style="border: 1px solid #000; text-align:center;">☑</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1917</td>
+			<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/或日の大石内蔵助/">或日の大石内蔵助</a></td>
 			<td style="border: 1px solid #000; text-align:center;">☑</td>
 		</tr>
 		<tr>
