@@ -39,7 +39,7 @@ Swift is feeling the burn of that extra atmosphere. The mission launched to an a
 
 <font color="#548dd4">雨燕号正承受着大气密度升高带来的轨道损耗。该望远镜最初发射至约 600 公里的轨道高度，这一区域的卫星无法避开大气干扰。就在 2024 年初，它原本还有望挺过太阳活动极大期，继续服役至 2030 年代。但太阳活动强度超出预期，到 2025 年初，已经可以确定：雨燕号注定将在今年晚些时候坠入大气层焚毁。</font>
 
-The observatory’s team lobbied NASA for a rescue attempt based on the scientific value of Swift’s fast-response capability— and the fact that its <mark style="#fdbfff">days are already numbered</mark>[^9]. “If you’re successful, the scientific benefit is tremendous,” Cenko says. “If you’re not successful, obviously that’s not the outcome that we want, but it’s going to reenter sometime this year anyway.”
+The observatory’s team lobbied NASA for a rescue attempt based on the scientific value of Swift’s fast-response capability— and the fact that its <mark style="background:#fdbfff">days are already numbered</mark>[^9]. “If you’re successful, the scientific benefit is tremendous,” Cenko says. “If you’re not successful, obviously that’s not the outcome that we want, but it’s going to reenter sometime this year anyway.”
 
 <font color="#548dd4">天文台团队凭借雨燕号快速响应能力的科研价值，以及它时日无多的现状，向美国国家航空航天局游说，争取开展救援任务。森科表示：“如果任务成功，科研收益将十分巨大；即便失败，固然不是我们想要的结果，但它反正今年迟早都会再入大气层坠毁。”</font>
 
