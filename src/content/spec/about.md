@@ -5,6 +5,7 @@
 	- <span style='background:#16ad6b;color:#16ad6b;padding:0 4px;user-select:none'>占位五个字</span>: 近代文学
 	- <span style='background:#2e8b57;color:#2e8b57;padding:0 4px;user-select:none'>占位五个字</span>: 现代文学
 	- <span style='background:#dfd7d4;color:#dfd7d4;padding:0 4px;user-select:none'>占位五个字</span>: 轻小说
+	- <span style='background:#02aedb;color:#02aedb;padding:0 4px;user-select:none'>占位五个字</span>: 期刊
 	- <span style='background:#f8e411;color:#f8e411;padding:0 4px;user-select:none'>占位五个字</span>: 生物
 	- `2 b update...`
 - **配音** - 配音一般都是从 `ytb` 找的，根据文章小标题章节将音频剪辑分段
