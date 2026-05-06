@@ -31,6 +31,8 @@ Each seismometer contains a small pendulum suspended within a magnetic field; wh
 
 <font color="#548dd4">全球地震台网负责人戴维・威尔逊表示：“地震波不只是晃动地表，而是会向四面八方传播，也包括向地下深处传导。”这批深层地震仪尤其擅长记录大型地震（约 7 级及以上）产生的长周期地震波。威尔逊说：“强震发生后，这类波动可以持续数月之久，因为能量无处耗散。好比敲击一口钟，它会一直嗡鸣，直到能量完全衰减殆尽。”</font>
 
+<p align="right">—<i>Vanessa Bates Ramirez</i></p>
+
 [^1]: **ripple** /ˈrɪpl/: v. to spread out in small waves or gentle vibrations across a surface or through a substance
 
 [^2]: **seismometer** /saɪzˈmɒmɪtə(r)/: n. an instrument that detects and measures vibrations and seismic waves caused by earthquakes or underground movements
