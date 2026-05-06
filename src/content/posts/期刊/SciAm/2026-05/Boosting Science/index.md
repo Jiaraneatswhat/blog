@@ -65,7 +65,7 @@ It’s a risky mission with no guarantee of success. “What keeps me up at nigh
 
 <font color="#548dd4">森科说：“这几乎相当于开启了一项全新任务，但花费仅为从头研制并发射一颗新卫星的零头。”</font>
 
-<p align="right">—Meghan Bartels</p>
+<p align="right">—<i>Meghan Bartels</i></p>
 
 [^1]: **NEIL GEHRELS Swift Observatory**：尼尔・格雷尔斯雨燕天文台，美国宇航局、英国、意大利联合研制的多波段空间天文台
 
