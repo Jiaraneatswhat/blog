@@ -1,11 +1,13 @@
 ---
-title: "[Sci. Am., 2026-05] Boosting Science Inside NASA’s audacious plan to save a doomed space telescope"
+title: "[Sci. Am., 2026-05] Boosting Science: Inside NASA' s audacious plan to save a doomed space telescope"
 published: 2026-05-05 17:00:00
 tags: [期刊]
 category: Journal
 image: "./images/cover.png"
 description: "助力科研：NASA 拯救濒危空间望远镜的大胆计划内幕"
 ---
+
+<p style="margin:0!important;text-indent:0!important;"><span style="background:#000000;color:#ffffff;font-weight:bold;padding:0 4px;user-select:none;">SPACE</span></p>
 
 <mark style="background:#d8c9eb;"><strong>NASA’S NEIL GEHRELS</strong> Swift Observatory</mark>[^1] is in a race against time. For more than 21 years the Earth-orbiting telescope has surveyed the sky for <mark style="background:#d8c9eb">gamma-ray bursts</mark>[^2]—the most powerful and luminous explosions in the universe—and whipped around to take a closer look. But on every orbit, it collides with countless particles from the planet’s atmosphere. Each impact steals a tiny bit of the spacecraft’s speed, pushing it a <mark style="background:#fdbfff">smidgen</mark>[^3] closer to Earth.
 

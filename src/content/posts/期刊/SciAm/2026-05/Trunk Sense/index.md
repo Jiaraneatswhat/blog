@@ -1,11 +1,13 @@
 ---
-title: "[Sci. Am., 2026-05] Trunk Sense Elephants’ peculiar whiskers help them feel the world around them"
+title: "[Sci. Am., 2026-05] Trunk Sense: Elephants' peculiar whiskers help them feel the world around them"
 published: 2026-05-06 10:45:00
 tags: [期刊]
 category: Journal
 image: "./images/cover.png"
 description: "象鼻感知：大象独特的触须，助力感知周遭世界"
 ---
+
+<p style="margin:0!important;text-indent:0!important;"><span style="background:#000000;color:#ffffff;font-weight:bold;padding:0 4px;user-select:none;">BIOMECHANICS</span></p>
 
 <strong>WATCHING AN ELEPHANT <mark style="background:#fdbfff">FORAGE</mark></strong>[^1] for roots reveals both the strength and the sensitivity of its trunk. With more than 40,000 muscles, an elephant’s trunk can upend a tree and then gently collect the fragments that fell. It takes baby elephants nearly a year to master using their trunk in this way, and it’s taken humans even longer to understand how they’re able to do it. The secret may come down to elephants’ <mark style="background:#fdbfff">whiskers</mark>[^2].
 
