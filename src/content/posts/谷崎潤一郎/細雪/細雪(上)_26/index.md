@@ -4,6 +4,7 @@ published: 2026-01-20 20:50:50
 tags: [谷崎潤一郎, 现代文学]
 category: Literature
 image: "./cover.png"
+description: "二十六"
 ---
 
 :::note[META]

@@ -182,7 +182,13 @@ pinned: true
 			<td style="border: 1px solid #000; text-align:center;">☑</td>
 		</tr>
 		<tr>
-			<td rowspan="1" style="border: 1px solid #000; text-align:center; vertical-align:middle;">た行</td>
+			<td rowspan="2" style="border: 1px solid #000; text-align:center; vertical-align:middle;">た行</td>
+			<td rowspan="1" style="border: 1px solid #000; text-align:center; vertical-align:middle;">橘公司</td>
+			<td style="border: 1px solid #000; text-align:center; background:#dfd7d4;">2013</td>
+			<td style="border: 1px solid #000;"><a href="/posts/ranobe/datealive/encore1/encore1_ep.1/">デートアライブ アンコール 1</a></td>
+			<td style="border: 1px solid #000; text-align:center;">☑</td>
+		</tr>
+		<tr>
 			<td rowspan="1" style="border: 1px solid #000; text-align:center; vertical-align:middle;">谷崎潤一郎</td>
 			<td style="border: 1px solid #000; text-align:center; background:#2e8b57;">1943</td>
 			<td style="border: 1px solid #000;"><a href="/posts/谷崎潤一郎/細雪/細雪上_1/">細雪(上)</a></td>

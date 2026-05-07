@@ -4,6 +4,7 @@ published: 2026-03-17
 tags: [魔禁系列, 轻小说]
 category: Literature
 image: "./cover.png"
+description: "魔法禁书目录 1：序章"
 ---
 
 :::note[META]
