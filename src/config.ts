@@ -524,7 +524,6 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			"announcement",
 			"music-sidebar",
 			"categories",
-			"giscus-board"
 		],
 	},
 
