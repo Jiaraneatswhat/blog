@@ -1,7 +1,6 @@
 ---
 import ConfigCarrier from "@components/misc/ConfigCarrier.astro";
 import MusicPlayer from "@components/widgets/music-player/MusicPlayer.svelte";
-import Pio from "@components/features/pio/Pio.svelte"; // 使用 Svelte 版本的 Pio 组件
 import { PageProgressBar } from "@components/control/PageProgressBar";
 import { pioConfig, profileConfig, siteConfig } from "@/config";
 
@@ -165,6 +164,28 @@ if (siteConfig.font) {
 		<!-- Umami 统计脚本 -->
   		<script defer src="https://analytics.umami.is/script.js" data-website-id="4efc2e6f-3823-4e5d-bb94-e33d89d38bdc"></script>
 
+		<!-- KaTeX 样式（如果还没添加） -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.18/dist/katex.min.css" />
+
+		<!-- KaTeX 自动渲染脚本 -->
+		    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.18/dist/contrib/auto-render.min.js"></script>
+
+		<!-- 初始化 auto-render -->
+		    <script>
+  			document.addEventListener('DOMContentLoaded', function() {
+    			renderMathInElement(document.body, {
+      			delimiters: [
+      			  {left: '$$', right: '$$', display: true},   // 块级公式
+      			  {left: '$', right: '$', display: false},     // 行内公式
+      			  {left: '\\(', right: '\\)', display: false},
+      			  {left: '\\[', right: '\\]', display: true}
+     			 ],
+     			 throwOnError: false,   // 出错时不抛出异常，只显示原始代码
+     			 errorColor: '#cc0000'
+  			  });
+  			});
+		</script>
+
 		<!-- 第三方分析脚本 -->
 		<AnalyticsScripts
 			thirdPartyAnalytics={siteConfig.thirdPartyAnalytics}
@@ -236,7 +257,6 @@ if (siteConfig.font) {
 		<MusicPlayer client:idle />
 
 		<!-- Pio 看板娘组件 - 仅在进入视口时加载 -->
-		{pioConfig.enable && <Pio client:visible />}
 
 		<!-- increase the page height during page transition to prevent the scrolling animation from jumping -->
 		<div id="page-height-extend" class="hidden h-[300vh]"></div>
@@ -251,69 +271,68 @@ if (siteConfig.font) {
 		"banner-height": `${BANNER_HEIGHT}vh`,
 	}}
 >
-	@reference "../styles/main.css";
+/* 🔥 最终完美修复：块级公式居中，不影响行内公式 */
+p:has(> .katex:only-child) {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+p:has(> .katex:only-child) > .katex {
+  display: inline-block;
+}
 
-	@layer components {
-		@media (min-width: 1280px) {
-			.enable-banner.lg\:is-home #banner-wrapper {
-				height: var(--banner-height-home);
-				transform: translateY(var(--banner-height-extend));
-			}
-			.enable-banner #banner-wrapper {
-				height: var(--banner-height-home);
-			}
-
-			.enable-banner.lg\:is-home #banner {
-				height: var(--banner-height-home);
-				transform: translateY(0);
-			}
-			.enable-banner #banner {
-				height: var(--banner-height-home);
-				transform: translateY(var(--bannerOffset));
-			}
-			.enable-banner.lg\:is-home #main-grid {
-				transform: translateY(var(--banner-height-extend));
-			}
-			.enable-banner #top-row {
-				height: calc(var(--banner-height-home) - 4.5rem);
-				@apply transition-all duration-300;
-			}
+@layer components {
+	@media (min-width: 1280px) {
+		.enable-banner.lg\:is-home #banner-wrapper {
+			height: var(--banner-height-home);
+			transform: translateY(var(--banner-height-extend));
+		}
+		.enable-banner #banner-wrapper {
+			height: var(--banner-height-home);
 		}
 
-		/* Water waves animation - GPU 加速优化 */
-		.waves > .parallax use {
-			animation: wave 25s cubic-bezier(0.5, 0.5, 0.45, 0.5) infinite;
-			transform: translateZ(0);
-			will-change: transform;
-			backface-visibility: hidden;
+		.enable-banner.lg\:is-home #banner {
+			height: var(--banner-height-home);
+			transform: translateY(0);
 		}
-		@keyframes wave {
-			0% {
-				transform: translate3d(-90px, 0, 0);
-			}
-			100% {
-				transform: translate3d(85px, 0, 0);
-			}
+		.enable-banner #banner {
+			height: var(--banner-height-home);
+			transform: translateY(var(--bannerOffset));
+		}
+		.enable-banner.lg\:is-home #main-grid {
+			transform: translateY(var(--banner-height-extend));
+		}
+		.enable-banner #top-row {
+			height: calc(var(--banner-height-home) - 4.5rem);
+			transition: all 0.3s;
 		}
 	}
-	@layer utilities {
-		@media (min-width: 1280px) {
-			.enable-banner.lg\:is-home #sidebar-sticky {
-				top: calc(1rem - var(--banner-height-extend)) !important;
-			}
-			.enable-banner.lg\:is-home #left-sidebar-sticky {
-				top: calc(1rem - var(--banner-height-extend)) !important;
-			}
-			.enable-banner.lg\:is-home #right-sidebar-sticky {
-				top: calc(1rem - var(--banner-height-extend)) !important;
-			}
-		}
-		.navbar-hidden {
-			@apply opacity-0 -translate-y-16;
+
+	.waves > .parallax use {
+		animation: wave 25s cubic-bezier(0.5, 0.5, 0.45, 0.5) infinite;
+		transform: translateZ(0);
+		will-change: transform;
+		backface-visibility: hidden;
+	}
+	@keyframes wave {
+		0% { transform: translate3d(-90px, 0, 0); }
+		100% { transform: translate3d(85px, 0, 0); }
+	}
+}
+
+@layer utilities {
+	@media (min-width: 1280px) {
+		.enable-banner.lg\:is-home #sidebar-sticky,
+		.enable-banner.lg\:is-home #left-sidebar-sticky,
+		.enable-banner.lg\:is-home #right-sidebar-sticky {
+			top: calc(1rem - var(--banner-height-extend)) !important;
 		}
 	}
+	.navbar-hidden {
+		opacity: 0;
+		transform: translateY(-4rem);
+	}
+}
 </style>
-
 <script>
 	// Swup 页面过渡管理器 - 统一入口
 	// 所有功能已重构为模块化架构，详见 src/scripts/ 目录
