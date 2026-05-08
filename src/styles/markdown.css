@@ -9,12 +9,10 @@
     text-indent: 1em !important;
   }
 
-  /* 🔥 修复：KaTeX 所在的 p 标签取消首行缩进，避免渲染冲突 */
-  p:has(.katex),
-  .katex + p,
-  p + .katex {
-    text-indent: 0 !important;
-  }
+/* 🔥 只修复内联 style="text-indent:0" 的公式段落，不影响正常排版 */
+p[style*="text-indent:0"] {
+  text-indent: 0 !important;
+}
 
   h1, h2, h3, h4, h5, h6 {
     text-indent: 0 !important;
