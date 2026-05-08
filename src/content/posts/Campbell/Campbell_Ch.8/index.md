@@ -49,7 +49,7 @@ description: "chapter 8"
 
 化学反应中自由能的变化，$\Delta G$，可以用下式来计算：
 
-$\Delta G = \Delta H - T\Delta S$
+$$\Delta G = \Delta H - T\Delta S$
 
 <p style="text-indent:0 !important;">该公式仅使用系统的自身性质：$\Delta H$ 代表焓变，$\Delta S$ 为系统的熵变，$T$ 是热力学绝对温度。</p>
 
@@ -69,13 +69,9 @@ $\Delta G$ 代表终态自由能与初态自由能的差值：$\Delta G=G_{\text
 
 以细胞呼吸的总反应方程为例：
 
-<div class="katex-display">
-$\text{C}_6\text{H}_{12}\text{O}_6+6\text{O}_2\rightarrow6\text{ C}\text{O}_2+6\text{ H}_2\text{O}$
-</div>
+$$\text{C}_6\text{H}_{12}\text{O}_6+6\text{O}_2\rightarrow6\text{ C}\text{O}_2+6\text{ H}_2\text{O}$$
 
-<div class="katex-display">
-$\Delta G = -686\text{ kacl/mol (-2,870kJ/mol)}$
-</div>
+$$\Delta G = -686\text{ kacl/mol (-2,870kJ/mol)}$$
 
 <p style="text-indent:0 !important;">在标准条件下（各反应物与产物浓度 1 $M$、25℃、pH 值为 7），每分解 1 mol 葡萄糖，呼吸作用可释放 686 千卡可用于生命活动的能量。由于能量守恒，呼吸作用的生成物每摩尔所含的自由能，比反应物少 686 千卡。</p>
 
@@ -105,9 +101,7 @@ ATP (三磷酸腺苷) 由核糖，腺苷和三个磷酸基组成<font color="#03
 
 ATP 的磷酸基团间的键可以通过水解断开，当末端的磷酸基团水解下来，形成一分子无机磷酸后，剩下的部分成为 ADP<font color="#034ea9"><b> (图 8.9b)</b></font>。这个反应是放能的，每 mol ATP 水解可释放 7.3 kcal 的能量。
 
-<div class="katex-display">
-$\text{ATP} + \text{H}_2\text{O} \rightarrow \text{ADP} + \text{P}_i$
-</div>
+$$\text{ATP} + \text{H}_2\text{O} \rightarrow \text{ADP} + \text{P}_i$$
 
 <div class="katex-display">
 $Delta G = -7.3\text{ kacl/mol (-30.5kJ/mol)}$
