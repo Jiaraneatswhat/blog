@@ -19,9 +19,7 @@ description: "chapter 9"
 
 食物中的糖类、脂肪和蛋白质均可被分解代谢，作为能量底物。动物饮食中碳水化合物的主要来源是淀粉，这种储存性多糖可被分解为葡萄糖（$\text{C}_6\text{H}_{12}\text{O}_6$​）单体。接下来，我们将以葡萄糖的分解过程为主线，学习细胞呼吸的各个阶段:
 
-<div class="katex-display">
-$\text{C}_6\text{H}_{12}\text{O}_6+6\text{O}_2\rightarrow6\text{ C}\text{O}_2+6\text{ H}_2\text{O}+\text{Energy(ATP + heat)}$
-</div>
+$$\text{C}_6\text{H}_{12}\text{O}_6+6\text{O}_2\rightarrow6\text{ C}\text{O}_2+6\text{ H}_2\text{O}+\text{Energy(ATP + heat)}$$
 
 <p style="text-indent:0 !important;">葡萄糖的分解属于放能反应，每摩尔葡萄糖分解的自由能变化为 $-686 \text{ kcal}$ ($\Delta G=-686\text{ kcal/mol}$)。$\Delta G$ 为负说明生成物储存的能量低于反应物，且反应可自发进行，无需外界输入能量。</p>
 分解代谢通过 $\text{ATP}$，与生命活动相偶联，细胞要维持正常生理活动，就必须由 $\text{ADP}$ 和磷酸基团重新合成 $\text{ATP}$。

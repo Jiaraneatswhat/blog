@@ -164,32 +164,34 @@ if (siteConfig.font) {
 		<!-- Umami 统计脚本 -->
   		<script defer src="https://analytics.umami.is/script.js" data-website-id="4efc2e6f-3823-4e5d-bb94-e33d89d38bdc"></script>
 
-		<!-- KaTeX 样式（如果还没添加） -->
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.18/dist/katex.min.css" />
-
-		<!-- KaTeX 自动渲染脚本 -->
-		    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.18/dist/contrib/auto-render.min.js"></script>
-
-		<!-- 初始化 auto-render -->
-		    <script>
-  			document.addEventListener('DOMContentLoaded', function() {
-    			renderMathInElement(document.body, {
-      			delimiters: [
-      			  {left: '$$', right: '$$', display: true},   // 块级公式
-      			  {left: '$', right: '$', display: false},     // 行内公式
-      			  {left: '\\(', right: '\\)', display: false},
-      			  {left: '\\[', right: '\\]', display: true}
-     			 ],
-     			 throwOnError: false,   // 出错时不抛出异常，只显示原始代码
-     			 errorColor: '#cc0000'
-  			  });
-  			});
-		</script>
-
 		<!-- 第三方分析脚本 -->
 		<AnalyticsScripts
 			thirdPartyAnalytics={siteConfig.thirdPartyAnalytics}
 		/>
+
+		<script>
+			window.MathJax = {
+  			tex: {
+    			inlineMath: [['$', '$'], ['\<inline_LaTeX_Formula>', '\<\inline_LaTeX_Formula>']],
+    			displayMath: [['$$', '$$'], ['\\[', '\\]']],
+   			 processEscapes: true
+ 			 },
+  		svg: {
+ 		   fontCache: 'global'
+ 		 },
+  		startup: {
+  		  pageReady: () => {
+     		 return MathJax.typesetPromise();
+    		}
+  		}
+	};
+	</script>
+
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.18/dist/katex.min.css">
 
 		<!-- SEO Meta Tags, Open Graph, Twitter Card, Favicons, Theme Init -->
 		<HeadTags
@@ -271,14 +273,6 @@ if (siteConfig.font) {
 		"banner-height": `${BANNER_HEIGHT}vh`,
 	}}
 >
-/* 🔥 最终完美修复：块级公式居中，不影响行内公式 */
-p:has(> .katex:only-child) {
-  text-align: center;
-  margin: 1.5rem 0;
-}
-p:has(> .katex:only-child) > .katex {
-  display: inline-block;
-}
 
 @layer components {
 	@media (min-width: 1280px) {
