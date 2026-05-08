@@ -47,7 +47,7 @@ description: "chapter 8"
 #### Free-Energy Change, $\Delta G$
 宇宙实际上等价于系统与环境之和。1878 年 J. Willard Gibbs 定义了一个极具实用价值的物理量——系统的吉布斯自由能（无需考虑外界环境），用字母 $G$ 表示，后文简称为自由能。<font color="#ff0080"><b>自由能</b></font>是系统总能量中，在恒温恒压条件下（活细胞即为此状态）能够用于做功的那部分能量。
 
-化学反应中自由能的变化，$\Delta G$，可以用下式来计算：
+化学反应中自由能的变化 $\Delta G$，可以用下式来计算：
 
 $$\Delta G = \Delta H - T\Delta $$
 

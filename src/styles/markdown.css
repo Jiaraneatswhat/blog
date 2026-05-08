@@ -14,9 +14,17 @@ p[style*="text-indent:0"] {
   text-indent: 0 !important;
 }
 
-p:has(.katex-display) {
+/* 根治：防止 KaTeX 自动给父 p 加居中、错乱缩进 */
+.custom-md p:has(.katex-display),
+.custom-md p[style*="text-align"] {
   text-align: left !important;
-  text-indent: 0 !important;
+  text-indent: 1em !important;
+}
+
+/* 单独让块公式自身居中，不污染父段落 */
+.custom-md .katex-display {
+  text-align: center !important;
+  margin-inline: auto;
 }
 
   h1, h2, h3, h4, h5, h6 {
