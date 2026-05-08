@@ -191,12 +191,6 @@ p {
     }
   }
 
-  .katex-display > .katex {
-    display: block;
-    width: fit-content;
-    min-width: calc(100% - 2px);
-  }
-
   .katex-display > .katex:has(.tag) > .katex-html {
     display: block;
     padding-right: 3rem;
