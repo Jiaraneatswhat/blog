@@ -49,7 +49,7 @@ description: "chapter 8"
 
 化学反应中自由能的变化，$\Delta G$，可以用下式来计算：
 
-$$\Delta G = \Delta H - T\Delta S$
+$$\Delta G = \Delta H - T\Delta $$
 
 <p style="text-indent:0 !important;">该公式仅使用系统的自身性质：$\Delta H$ 代表焓变，$\Delta S$ 为系统的熵变，$T$ 是热力学绝对温度。</p>
 
@@ -103,9 +103,7 @@ ATP 的磷酸基团间的键可以通过水解断开，当末端的磷酸基团�
 
 $$\text{ATP} + \text{H}_2\text{O} \rightarrow \text{ADP} + \text{P}_i$$
 
-<div class="katex-display">
-$Delta G = -7.3\text{ kacl/mol (-30.5kJ/mol)}$
-</div>
+$$\Delta G = -7.3\text{ kacl/mol (-30.5kJ/mol)}$$
 
 <p style="text-indent:0 !important;">这是标准条件下测得的自由能变化。细胞内的环境并不符合标准条件，主要原因是反应物和生成物的浓度并非 1 $M$。</p>
 
@@ -136,14 +134,9 @@ ATP 对细胞至关重要，原因在于它脱去一个磷酸基团时释放的�
 
 可逆反应无法在两个方向上同时自发放能，因此由 ADP 和无机磷酸合成 ATP 的过程必然是吸能反应：
 
-<div class="katex-display">
-$ \text{ADP} + \text{P}_i \rightarrow \text{ATP} + \text{H}_2\text{O}$
-</div>
+$$ \text{ADP} + \text{P}_i \rightarrow \text{ATP} + \text{H}_2\text{O}$$
 
-<div class="katex-display">
-$\Delta G = +7.3\text{ kacl/mol (+30.5kJ/mol)}$
-</div>
-
+$$\Delta G = +7.3\text{ kacl/mol (+30.5kJ/mol)}$$
 
 由于 ADP 与无机磷酸合成 ATP 无法自发进行，必须消耗自由能才能驱动反应发生。分解代谢（放能）途径，尤其是细胞呼吸，可为 ATP 合成这一吸能过程提供能量。植物还可利用光能生成 ATP。因此，ATP 循环是生物能量代谢的核心环节，如同一个旋转通道：能量从分解代谢途径转出，经由该循环流入合成代谢途径。
 
@@ -181,9 +174,7 @@ $\Delta G = +7.3\text{ kacl/mol (+30.5kJ/mol)}$
 #### Substrate Specificity of Enzymes
 酶所作用的反应物，称为该酶的<font color="#ff0080"><b>底物 (<i>substrate</i>) </b></font>。酶与其底物结合，形成酶-底物复合物。在酶与底物结合期间，通过酶的催化作用，底物被转化为反应产物。整个过程可概括如下：
 
-<div class="katex-display">
-$\text{Enzyme}+\text{Substrate(s)}\rightleftharpoons\text{Enzyme-substrate complex}\rightleftharpoons\text{Enzyme}+\text{Product(s)}$
-</div>
+$$\text{Enzyme}+\text{Substrate(s)}\rightleftharpoons\text{Enzyme-substrate complex}\rightleftharpoons\text{Enzyme}+\text{Product(s)}$$
 
 酶分子上只有特定局部区域能与底物结合。这一区域称为<font color="#ff0080"><b>活性部位</b></font>，通常是酶分子表面的口袋或凹陷结构，也是催化作用发生的位置<font color="#034ea9"><b> (图 8.15a)</b></font>。活性中心一般仅由酶分子中少数几个氨基酸构成，蛋白质其余部分则充当骨架，决定活性中心的空间构象。酶的专一性，正是源于活性中心与底物分子在空间结构上的互补契合。
 
