@@ -34,18 +34,18 @@ description: "chapter 1"
 ##### *The Cell: An Organism’s Basic Unit of Structure and Function*
 生物体的所有行为都基于细胞活动，并且所有的细胞都共享着特定的特征。例如每个细胞都由膜包裹，这层膜负责调节细胞与周围环境之间的物质进出。
 
-细胞主要分为两类，<font color="#ff0080"><b>原核细胞 (<i>prokaryotic</i>)</b></font> 和<font color="#ff0080"><b>真核细胞 (<i>eukaryotic</i>)</b></font>。真核细胞内包含着由膜封闭的细胞器，而原核细胞内缺少细胞核或膜封闭的细胞器，原核细胞通常比真核细胞小<font color="#034ea9"><b>(图 1.4)</b></font>
+细胞主要分为两类，<font color="#ff0080"><b>原核细胞 (<i>prokaryotic</i>)</b></font> 和<font color="#ff0080"><b>真核细胞 (<i>eukaryotic</i>)</b></font>。真核细胞内包含着由膜封闭的细胞器，而原核细胞内缺少细胞核或膜封闭的细胞器，原核细胞通常比真核细胞小<font color="#034ea9"><b>(图 1.4)</b></font>:
 
 ![图 1.4 w-70%](./images/fig_1.4.png "图 1.4 对比真核细胞与原核细胞在大小和复杂程度上的差异")
 
 #### Theme: Life’s Processes Involve the Expression and Transmission of Genetic Information
 细胞中的<font color="#e086e0">染色体</font>里面含有以 <font color="#ff0080"><b>DNA (<i>deoxyribonucleic acid</i>)</b></font> 形式存储的遗传物质。
 ##### *DNA, the Genetic Material*
-每个染色体都包含一个特别长的 DNA 分子以及成百上千的<font color="#ff0080"><b>基因</b></font>，每个都是染色体 DNA 的一部分。基因作为遗传的单元，从父辈传给后代。他们将合成细胞内分子所需的信息进行编码，从而实现细胞的功能和特性。
+每个染色体都包含一个特别长的 $\text{DNA}$ 分子以及成百上千的<font color="#ff0080"><b>基因</b></font>，每个都是染色体 $\text{DNA}$ 的一部分。基因作为遗传的单元，从父辈传给后代。他们将合成细胞内分子所需的信息进行编码，从而实现细胞的功能和特性。
 
-DNA 的分子结构使得其可以存储信息：一个 DNA 分子由两条双螺旋链 (*strand*) 组成。每条链都由四种<font color="#e086e0">核苷酸 (<i>nucleotide</i>)</font> 组成，缩写为 A, T, C, G, 这四种核苷酸的排列明确了基因中的信息。
+DNA 的分子结构使得其可以存储信息：一个 $\text{DNA}$ 分子由两条双螺旋<font color="#e36c09">链 (<i>strand</i>)</font> 组成。每条链都由四种<font color="#e086e0">核苷酸 (<i>nucleotide</i>)</font> 组成，缩写为 $\text{A}$, $\text{T}$, $\text{C}$, $\text{G}$, 这四种核苷酸的排列明确了基因中的信息。
 
-对许多基因来说，核苷酸序列提供了产生蛋白质的蓝图，蛋白质编码基因通过 RNA 来间接控制蛋白质的合成。基因中的核苷酸序列被转译为 mRNA，之后会被翻译成一系列关联的构筑蛋白质的叫做<font color="#e086e0">氨基酸</font>的单元。一旦完成，氨基酸链就可以组成一个特定的蛋白质，这整个产生细胞产物的过程称为<font color="#ff0080"><b>基因表达</b></font>。
+对许多基因来说，核苷酸序列提供了产生蛋白质的蓝图，蛋白质编码基因通过 $\text{RNA}$ 来间接控制蛋白质的合成。基因中的核苷酸序列被转译为 $\text{mRNA}$，之后会被翻译成一系列关联的构筑蛋白质的叫做<font color="#e086e0">氨基酸</font>的单元。一旦完成，氨基酸链就可以组成一个特定的蛋白质，这整个产生细胞产物的过程称为<font color="#ff0080"><b>基因表达</b></font>。
 ##### *Genomics: Large-Scale Analysis of DNA Sequences*
 生物体继承的全部遗传指令“库”称为它的<font color="#ff0080"><b>基因组 (<i>genome</i>)</b></font>。科学家们并不只研究单个基因，而是一个或多个物种的整个基因的集合，这种研究方式称为<font color="#ff0080"><b>基因组学 (<i>genomics</i>)</b></font>。与之类似，<font color="#ff0080"><b>蛋白质组学 (<i>proteome</i>)</b></font> 就是研究整个蛋白质以及它们的属性。
 #### Theme: Life Requires the Transfer and Transformation of Energy and Matter
@@ -58,7 +58,7 @@ DNA 的分子结构使得其可以存储信息：一个 DNA 分子由两条双�
 ##### *Molecules: Interactions Within Organisms*
 在生命结构层次的较低层级，构成生物体的各组分 (器官、组织、细胞和分子) 之间的相互作用，对其正常运转至关重要。许多生命过程能够通过一种名为反馈调节的机制实现自我调控。
 
-在<font color="#ff0080"><b>反馈调节</b></font>中，一个过程的输出或者产物回调节过程本身。生命系统中最常见的调节形式是*负反馈*，一种反应会减少初始刺激的循环。
+在<font color="#ff0080"><b>反馈调节</b></font>中，一个过程的输出或者产物回调节过程本身。生命系统中最常见的调节形式是**负反馈**，一种反应会减少初始刺激的循环。
 
 以<font color="#e086e0">胰岛素 (<i>insulin</i>)</font> 信号<font color="#034ea9"><b>(图 1.10)</b></font>为例，饭后人体血液中的葡萄糖含量会上升，刺激<font color="#e36c09">胰腺 (<i>pancreas</i>)</font> 细胞分泌胰岛素，胰岛素在血液中进行运输，与体内的细胞相结合，使他们开始吸收葡萄糖，并使肝细胞存储葡萄糖，从而降低血糖浓度。降低的血糖浓度会负反馈给胰腺，使其不再分泌胰岛素。
 
@@ -69,11 +69,11 @@ DNA 的分子结构使得其可以存储信息：一个 DNA 分子由两条双�
 ### CONCEPT 1.2 The Core Theme: Evolution accounts for the unity and diversity of life
 对进化的理解，有助于我们弄清楚关于地球生命的一切已知知识。对生物体多样性和统一性的科学解释是<font color="#ff0080"><b>进化</b></font>：这是一种生物演变过程，随着时间推移，物种在适应不同环境的过程中，会逐渐积累与其祖先不同的特征。因此，我们可以用这样的观点来解释两个物种间的差异 (多样性）：在这两个物种从共同祖先分化之后，出现了某些可遗传的变异。而它们之所以拥有共同特征 (统一性），也仅仅是因为二者源自同一个祖先。
 #### Classifying the Diversity of Life
-多样性是生命的一大特征。生物学家迄今已鉴定并命名了约 180 万个物种。每个物种都有一个双名：第一部分是该物种所属的<font color="#e36c09">属 (<i>genus</i>)</font>，第二部分是该属内此物种独有的名称。
+多样性是生命的一大特征。生物学家迄今已鉴定并命名了约 $180$ 万个物种。每个物种都有一个双名：第一部分是该物种所属的<font color="#e36c09">属 (<i>genus</i>)</font>，第二部分是该属内此物种独有的名称。
 ##### *The Three Domains of Life*
 生物学家们将所有的生物体分为三组称为域，<font color="#e36c09">细菌域 (<i>Domain Bacteria</i>)</font>，<font color="#e36c09">古菌域 (<i>Domain Archaea</i>)</font> 和<font color="#e36c09">真核生物域 (<i>Domain Eukarya</i>)</font>。其中细菌域和古菌域只包含原核生物体，所有的真核生物属于真核生物域。它又可以分成四个界，<font color="#e36c09">植物界 (<i>kindom Plantae</i>)</font>，<font color="#e36c09">真菌界 (<i>kindom Fungi</i>)</font>，<font color="#e36c09">哺乳动物界 (<i>kindom Animalia</i>)</font> 以及<font color="#e36c09">原生生物 (<i>protist</i>)</font>。三个界由他们的营养方式来区分，植物通过光合作用自己生产糖和食物分子，真菌吸收溶解在环境里的养分，动物通过食用消化其他的有机体来获取食物。最大且多样的真核生物是原生生物，现在也被分为了多个界。
 ##### *Unity in the Diversity of Life*
-尽管生命多种多样，但不同生命形态之间也存在着显著的统一性。比如不同动物相似的骨骼结构，以及 DNA 通用的遗传语言。事实上，生物体间的相似性在生物层级的各个层面都清晰可见。例如，<font color="#e36c09">纤毛 (<i>cilium</i>)</font> 存在于从草履虫到人类等多种多样的真核生物中。即便差异如此巨大
+尽管生命多种多样，但不同生命形态之间也存在着显著的统一性。比如不同动物相似的骨骼结构，以及 $\text{DNA}$ 通用的遗传语言。事实上，生物体间的相似性在生物层级的各个层面都清晰可见。例如，<font color="#e36c09">纤毛 (<i>cilium</i>)</font> 存在于从草履虫到人类等多种多样的真核生物中。即便差异如此巨大
 ，其细胞结构的许多特征也体现出明显的统一性<font color="#034ea9"><b>(图 1.14)</b></font>。
 
 ![图 1.14 w-60%](./images/fig_1.14.png "图 1.14 生命多样性背后统一性的例证：真核生物纤毛的结构")
