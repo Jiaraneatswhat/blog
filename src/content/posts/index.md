@@ -18,7 +18,7 @@ pinned: true
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="45" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
+			<td rowspan="46" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
 			<td rowspan="8" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
 			<td rowspan="6" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
 			<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1915</td>
