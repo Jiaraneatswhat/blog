@@ -9,6 +9,7 @@ description: "chapter 9"
 
 ### CONCEPT 9.1 Catabolic pathways yield energy by oxidizing organic fuels
 
+
 细胞捕获储存在有机分子中的化学能，并利用其生成 $\text{ATP}$ —— 绝大多数细胞生命活动供能的分子。通过分解复杂有机物释放储能的代谢途径，称为分解代谢途径。电子从葡萄糖等食物分子转移至其他分子，在这类代谢途径中起着关键作用。
 
 #### Catabolic Pathways and Production of ATP
@@ -19,9 +20,9 @@ description: "chapter 9"
 
 食物中的糖类、脂肪和蛋白质均可被分解代谢，作为能量底物。动物饮食中碳水化合物的主要来源是淀粉，这种储存性多糖可被分解为葡萄糖（$\text{C}_6\text{H}_{12}\text{O}_6$​）单体。接下来，我们将以葡萄糖的分解过程为主线，学习细胞呼吸的各个阶段:
 
-$$\text{C}_6\text{H}_{12}\text{O}_6+6\text{O}_2\rightarrow6\text{ C}\text{O}_2+6\text{ H}_2\text{O}+\text{Energy(ATP + heat)}$$
+![图 w-65%](./images/formula/for1.svg)
 
-<p style="text-indent:0 !important;">葡萄糖的分解属于放能反应，每摩尔葡萄糖分解的自由能变化为 $-686 \text{ kcal}$ ($\Delta G=-686\text{ kcal/mol}$)。$\Delta G$ 为负说明生成物储存的能量低于反应物，且反应可自发进行，无需外界输入能量。</p>
+葡萄糖的分解属于放能反应，每摩尔葡萄糖分解的自由能变化为 $-686 \text{ kcal}$ ($\Delta G=-686\text{ kcal/mol}$)。$\Delta G$ 为负说明生成物储存的能量低于反应物，且反应可自发进行，无需外界输入能量。
 
 分解代谢通过 $\text{ATP}$，与生命活动相偶联，细胞要维持正常生理活动，就必须由 $\text{ADP}$ 和磷酸基团重新合成 $\text{ATP}$。
 
@@ -37,7 +38,7 @@ $$\text{C}_6\text{H}_{12}\text{O}_6+6\text{O}_2\rightarrow6\text{ C}\text{O}_2+6
 
 ![图 w-35%](./images/fig1.png)
 
-<p style="text-indent:0 !important;">在该通用反应中，电子供体 $\text{X}e^-$ 称为<font color="#ff0080"><b>还原剂 (<i>reducing agent</i>)</b></font>，它将电子给出，还原了接受电子的物质 $\text{Y}$。电子受体 $\text{Y}$ 则为<font color="#ff0080"><b>氧化剂 (<i>oxidizing agent</i>)</b></font>，它夺走 $\text{X}e^-$ 的电子，使其发生氧化。由于电子转移必须同时存在电子供体与电子受体，氧化与还原过程总是相伴发生。</p>
+在该通用反应中，电子供体 $\text{X}e^-$ 称为<font color="#ff0080"><b>还原剂 (<i>reducing agent</i>)</b></font>，它将电子给出，还原了接受电子的物质 $\text{Y}$。电子受体 $\text{Y}$ 则为<font color="#ff0080"><b>氧化剂 (<i>oxidizing agent</i>)</b></font>，它夺走 $\text{X}e^-$ 的电子，使其发生氧化。由于电子转移必须同时存在电子供体与电子受体，氧化与还原过程总是相伴发生。
 
 并非所有氧化还原反应都涉及电子的完全转移，有些只是改变了共价键中电子的共用程度。如<font color="#034ea9"><b>图 9.2</b></font> 的甲烷燃烧就是典型例子。甲烷中的共价键电子在成键原子间近乎均等共用，原因是碳和氢对价电子的吸引力相近，电负性大致相等，但甲烷与 $\text{O}_2$ 应生成 $\text{CO}_2$ 时，碳原子和新的成键伙伴 —— 电负性极强的氧原子之间，电子不再均等共用。实际上，碳原子相当于部分失去了共用电子，因此甲烷发生了氧化。
 
@@ -63,7 +64,7 @@ $\text{O}_2$ 中的两个氧原子均等共用电子。但在与甲烷反应后�
 
 $\text{NAD}^+$ 如何捕获葡萄糖及食物中其他有机分子的电子？<font color="#7030a0">脱氢酶</font>可从底物 (如葡萄糖) 上脱去一对氢原子（$2$ 个电子和 $2$ 个质子），使底物发生氧化。酶将 $2$ 个电子连同 $1$ 个质子传递给辅酶 $\text{NAD}^+$，生成 $\text{NADH}$，余下 $1$ 个质子以 $\text{H}^+$ 形式释放到周围溶液中：
 
-![图 w-50%](./images/fig3.png)
+![图 w-60%](./images/formula/for2.svg)
 
 当 $\text{NAD}^+$ 被还原为 $\text{NADH}$ 时，其烟酰胺部分得到 $2$ 个带负电的电子、仅接受 $1$ 个带正电的质子，电荷由此被中和。$\text{NADH}$ 这一名称，正体现了它在反应中所结合的氢原子。$\text{NAD}^+$ 是细胞呼吸中用途最广泛的电子受体，在葡萄糖分解的多个氧化还原步骤中都发挥作用。
 
@@ -117,7 +118,7 @@ $\text{NAD}^+$ 如何捕获葡萄糖及食物中其他有机分子的电子？<f
 ### CONCEPT 9.3 After pyruvate is oxidized, the citric acid cycle completes the energy-yielding oxidation of organic molecules
 #### Oxidation of Pyruvate to Acetyl CoA
 
-丙酮酸经主动运输进入线粒体后，会首先转化为乙酰 $\text{CoA}$<font color="#034ea9"><b>(图 9.9)</b></font>。该步骤衔接糖酵解与柠檬酸循环，由一种<font color="#7030a0">多酶复合体</font>催化三步反应：① 丙酮酸的羧基（$\text {-COO}^-$）本就已有一定氧化程度，化学能储量较低，在此步被彻底氧化，以一分子 $\text {CO}_2$ 的形式释放。这是细胞呼吸过程中首次释放 $\text {CO}_2$。② 随后，剩余的二碳片段发生氧化，电子转移至 $\text {NAD}^+$，以 $\text {NADH}$ 的形式储存能量。③ 最后辅酶 A（$\text {CoA}$）通过自身硫原子与二碳中间产物结合，生成乙酰 $\text {CoA}$。乙酰 $\text {CoA}$ 蕴含很高的势能，可将乙酰基转移至柠檬酸循环中的底物分子上，因此该反应属于高度放能反应。
+丙酮酸经主动运输进入线粒体后，会首先转化为乙酰 $\text{CoA}$<font color="#034ea9"><b>(图 9.9)</b></font>。该步骤衔接糖酵解与柠檬酸循环，由一种<font color="#7030a0">多酶复合体</font>催化三步反应：① 丙酮酸的羧基（$\text {-COO}^-$）本就已有一定氧化程度，化学能储量较低，在此步被彻底氧化，以一分子 $\text {CO}_2$ 的形式释放。这是细胞呼吸过程中首次释放 $\text {CO}_2$。② 随后，剩余的二碳片段发生氧化，电子转移至 $\text {NAD}^+$，以 $\text {NADH}$ 的形式储存能量。③ 最后辅酶 $\text{A}$ ($\text {CoA}$）通过自身硫原子与二碳中间产物结合，生成乙酰 $\text {CoA}$。乙酰 $\text {CoA}$ 蕴含很高的势能，可将乙酰基转移至柠檬酸循环中的底物分子上，因此该反应属于高度放能反应。
 
 ![图 9.9 w-50%](./images/fig_9.9.png "图 9.9 三羧酸循环的前置步骤：丙酮酸氧化生产乙酰辅酶 A")
 
