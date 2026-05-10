@@ -4,8 +4,8 @@ published: 1970-01-01 00:00:00
 category: Other
 pinned: true
 ---
-<div style="overflow-x:auto;">
-	<table> 
+<div style="overflow-x: auto; width: 100%; max-width: 900px;">
+	<table style="border-collapse: collapse; white-space: nowrap;">
 		<tr> 
 			<th style="text-align: center; border: 1px solid #000;">pub_name</th> 
 			<th style="text-align: center; border: 1px solid #000;">chap_name</th>
