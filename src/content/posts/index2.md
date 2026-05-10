@@ -5,7 +5,7 @@ category: Other
 pinned: true
 ---
 <div style="overflow-x:auto;">
-	<table style="table-layout: fixed;"> 
+	<table> 
 		<tr> 
 			<th style="text-align: center; border: 1px solid #000;">pub_name</th> 
 			<th style="text-align: center; border: 1px solid #000;">chap_name</th>
