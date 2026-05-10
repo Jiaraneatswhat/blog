@@ -5,7 +5,7 @@ category: Other
 pinned: true
 ---
 <div style="overflow-x:auto; overflow-y: hidden;">
-	<table style="border-collapse: collapse; width: 100%;">
+	<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
 		<thead>
 			<tr>
 				<th style="border: 1px solid #000; text-align: center;">nation</th>
