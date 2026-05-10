@@ -7,7 +7,7 @@ image: "./cover.png"
 description: "直立之心：心脏如何感知人体起身动作"
 ---
 
-<span style='background:#000000;color:#ffffff;font-weight:bold;padding:0 4px;user-select:none'>BIOLOGY</span>
+<p style="margin:0!important;text-indent:0!important;"><span style="background:#000000;color:#ffffff;font-weight:bold;padding:0 4px;user-select:none;">BIOLOGY</span></p>
 
 WHEN YOU GET UP out of a chair, your blood pressure instantly increases to compensate for the movement and keep you from fainting. For decades researchers thought neurons called <mark style="background:rgba(136, 49, 204, 0.2)">baroreceptors</mark>[^1] in arteries controlled this process by signaling the sudden drop in blood pressure to the brain, which then issues orders to constrict blood vessels. Some experts suspected that other neurons might help maintain blood pressure during such shifts in posture, but they didn’t know which ones.
 

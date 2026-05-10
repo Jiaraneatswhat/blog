@@ -1,6 +1,6 @@
 ---
-title: "目录"
-published: 1970-01-01
+title: "Literature Index"
+published: 1970-01-01 08:00:00 
 category: Other
 pinned: true
 ---
