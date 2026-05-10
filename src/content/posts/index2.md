@@ -4,7 +4,7 @@ published: 1970-01-01 00:00:00
 category: Other
 pinned: true
 ---
-<div style="overflow-x:auto;">
+<div style="overflow-x:auto; overflow-y: hidden;">
 	<table> 
 		<tr> 
 			<th style="text-align: center; border: 1px solid #000;">pub_name</th> 

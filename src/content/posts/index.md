@@ -4,7 +4,7 @@ published: 1970-01-01 08:00:00
 category: Other
 pinned: true
 ---
-<div style="overflow-x:auto;">
+<div style="overflow-x:auto; overflow-y: hidden;">
 	<table style="border-collapse: collapse; width: 100%;">
 		<thead>
 			<tr>
