@@ -8,8 +8,8 @@ description: "爱抚"
 ---
 
 :::note[META]
-`first published`:『詩・現実』1930年6月16日発行創刊号・第一冊
-`audio`：`https://www.youtube.com/watch?v=jof59zZSZqI`
+`first published`:『詩・現実』1930年6月16日発行創刊号・第一冊<br>
+`audio`：`https://www.youtube.com/watch?v=jof59zZSZqI`<br>
 `desc`: 从“试着像剪车票那样啪嚓一下剪掉猫耳朵会怎样” 这般空想开始，本以为接下来会提出 “要是把猫的爪子全都剪掉，猫到底会变成什么样？”这样的问题，结果画风一转，变成了一个略显残酷、偏暗黑的故事：梦里出现的女子，把猫的手切下来改造成化妆道具，还用那肉垫轻抚脸颊……以幽默的口吻，跨越时代地传递出爱猫之人想必也曾有过的某种心境，尽显散文的妙趣
 :::
 

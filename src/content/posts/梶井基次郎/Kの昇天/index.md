@@ -8,8 +8,8 @@ description: "K 的升天"
 ---
 
 :::note[META]
-`first published`:『青空』1926年10月・通巻20号
-`audio`: `https://www.youtube.com/watch?v=IUeO95xHBkU`
+`first published`:『青空』1926年10月・通巻20号<br>
+`audio`: `https://www.youtube.com/watch?v=IUeO95xHBkU`<br>
 `desc`: 一部书信体作品，讲述了青年 K 在夜晚的海岸，被从满月光辉映照出的自身影子中现身的二重身所指引，逐步升天的故事。在自我分裂与灵魂升天这一神秘主题之中，深藏着隐约感知到自己将因病早逝命运的基次郎的悲切心绪，是一篇兼具幻想与悬疑风格的短篇小说
 :::
 

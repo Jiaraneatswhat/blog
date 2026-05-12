@@ -8,8 +8,8 @@ description: "白昼梦"
 ---
 
 :::note[META]
-`first published`:『新青年』1925年7月号
-`audio`: `https://www.youtube.com/watch?v=DrF4x7Z5ouA&list=PLNGCNpKwAdxdFrtzl8O9Lhbosqvr3LXgG&index=15`
+`first published`:『新青年』1925年7月号<br>
+`audio`: `https://www.youtube.com/watch?v=DrF4x7Z5ouA&list=PLNGCNpKwAdxdFrtzl8O9Lhbosqvr3LXgG&index=15`<br>
 `desc`: 有着偷窥他人生活的病态癖好的主人公，因偷窥到住在楼下一对夫妇的秘密，而逐渐陷入梦境与现实边界模糊的状态
 :::
 

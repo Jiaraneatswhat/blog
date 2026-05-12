@@ -8,8 +8,8 @@ description: "过往"
 ---
 
 :::note[META]
-`first published`:『青空』 1926年1月・通巻11号
-`audio`: `https://www.youtube.com/watch?v=XNsS2vwt-ow&t=1311s`
+`first published`:『青空』 1926年1月・通巻11号<br>
+`audio`: `https://www.youtube.com/watch?v=XNsS2vwt-ow&t=1311s`<br>
 `desc`: 以第一人称记录了作者在伊豆汤之岛疗养期间，于深夜山林溪谷间行走的感官体验与哲思
 :::
 

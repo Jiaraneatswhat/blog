@@ -13,7 +13,7 @@ description: "象鼻感知：大象独特的触须，助力感知周遭世界"
 
 <font color="#548dd4">观察大象觅食寻找植物块茎，便能看出象鼻兼具力量与灵敏。大象的象鼻拥有四万多块肌肉，既能连根拔起整棵大树，又能轻柔收拢掉落的枝叶碎块。幼象要花将近一年时间，才能熟练掌握这样使用象鼻；而人类花了更久，才弄明白它们是如何做到的。其中的奥秘，或许就藏在大象的触须之中。</font>
 
-![图 w-50%](./images/fig.png)
+![](./images/fig.png "w-40")
 
 Researchers who analyzed the whiskers lining these animals’ trunks have discovered a unique structural property that helps elephants sense the world around them and determine whether a task calls for strength or sensitivity. In a study published in *Science*, the authors show that elephants’ whiskers—unlike the whiskers of other mammals—are more flexible at the tip and stiffer closer to the skin.
 

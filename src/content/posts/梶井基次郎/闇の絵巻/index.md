@@ -8,8 +8,8 @@ description: "黑暗画轴"
 ---
 
 :::note[META]
-`first published`:『詩・現実』1930年9月22日発行・第二冊
-`audio`：`https://www.youtube.com/watch?v=qhmDy-6g6Qk`
+`first published`:『詩・現実』1930年9月22日発行・第二冊<br>
+`audio`：`https://www.youtube.com/watch?v=qhmDy-6g6Qk`<br>
 `desc`: 以第一人称记录了作者在伊豆汤之岛疗养期间，于深夜山林溪谷间行走的感官体验与哲思
 :::
 

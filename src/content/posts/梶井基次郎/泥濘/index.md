@@ -8,8 +8,8 @@ description: "泥泞"
 ---
 
 :::note[META]
-`first published`:『青空』 1925年7月・通巻5号
-`audio`: `https://www.youtube.com/watch?v=ETGvrglNq9s`
+`first published`:『青空』 1925年7月・通巻5号<br>
+`audio`: `https://www.youtube.com/watch?v=ETGvrglNq9s`<br>
 `desc`: 拼尽全力写下的东西，却以一种病态的方式宣告失败，于是无论做什么都精神恍惚。令人不快的妄想会突然涌上心头，到最后甚至变得疑神疑鬼。这是一个将目之所及的一切都强行纳入自我意识之中的男人的悲剧
 :::
 

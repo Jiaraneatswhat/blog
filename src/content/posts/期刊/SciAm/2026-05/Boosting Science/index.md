@@ -49,7 +49,7 @@ In September 2025 NASA signed a $30-million deal with Katalyst Space Technologie
 
 <font color="#548dd4">2025 年 9 月，美国国家航空航天局与卡塔利斯特太空技术公司签署一份价值 3000 万美元的协议，计划实施救援任务，定于次年 6 月初发射。对任何航天任务而言，这个时间表都极其紧凑，更不用说这还是一次机器人在轨服务任务。这项技术长期困扰着航天技术专家，且从未在科研航天器上尝试过。NASA 航天飞机服役时期，宇航员曾执行过数次在轨维护任务，其中最著名的便是五次飞往哈勃空间望远镜，对其进行维修、升级和轨道抬升。机器人任务虽然成本低得多，但遇到突发状况时，无法依靠人类的智慧与临场应变，这也让这种作业方式难度大增。</font>
 
-![图 w-70%](./images/fig.png "Shifting Swift")
+![Shifting Swift](./images/fig.png "w-70")
 
 But the moment may finally be ripe. For example, industry <mark style="background:#fdbfff">behemoth</mark>[^10] Northrop Grumman has successfully operated two Mission Extension Vehicles to revitalize commercial communications satellites. Now Katalyst is ready to take a shot and is building a three-armed robotic spacecraft to grab hold of the decades-old observatory. “Swift was never designed for capture,” says engineer Kieran Wilson, principal investigator on the Swift reboost mission at Katalyst. “The spacecraft was built more than 20 years ago, so there’s not even great documentation around what some of these interfaces look like that we’re looking to be able to grab on to.”
 

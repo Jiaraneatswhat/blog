@@ -8,8 +8,8 @@ description: "梦十夜"
 ---
 
 :::note[META]
-`first published`: 1908年连载于『東京朝日新聞』
-`audio`: `https://www.youtube.com/watch?v=bVJnRRiaBSA`
+`first published`: 1908年连载于『東京朝日新聞』<br>
+`audio`: `https://www.youtube.com/watch?v=bVJnRRiaBSA`<br>
 `desc`: 夏目漱石的短篇幻想小说集，描绘了十个不可思议的梦境。以经典开篇 “我做了这样一个梦” 起笔，围绕爱、嫉妒、死亡、恐惧等主题，将漱石自身的深层心理与人类社会的矛盾浓缩其中，是一组充满奇幻色彩与诗意的作品
 :::
 

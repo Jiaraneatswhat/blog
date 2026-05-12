@@ -8,7 +8,8 @@ description: "导水竹管的故事"
 ---
 
 :::note[META]
-`first published`:『近代風景』1928年4月号
+`first published`:『近代風景』1928年4月号<br>
+`audio`: `https://www.youtube.com/watch?v=6tMZjKYiyPA`<br>
 `desc`: 在 “我“ 的散步小径上，当 “我” 侧耳倾听那根古老竹筒引水器的声响时，从中听见了一丝细微的流水声。那优美的声音，让 ”我“ 不由得思考起自己的宿命
 :::
 

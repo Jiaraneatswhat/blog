@@ -8,8 +8,8 @@ description: "奎吉"
 ---
 
 :::note[META]
-`first published`:『眞素木』1923年5月号
-`audio`：`https://www.youtube.com/watch?v=rVbfglcn2Pw`
+`first published`:『眞素木』1923年5月号<br>
+`audio`：`https://www.youtube.com/watch?v=rVbfglcn2Pw`<br>
 `desc`: 主人公奎吉沉溺于堕落的生活，被金钱的欲望驱使，想要向弟弟借钱。可与此同时，后悔与罪恶感却始终萦绕在他心头
 :::
 

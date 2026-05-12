@@ -8,8 +8,8 @@ description: "烟草和恶魔"
 ---
 
 :::note[META]
-`first published`:『新思潮』1916年11月号
-`audio`: `https://www.youtube.com/watch?v=0vI0sK5mK4g`
+`first published`:『新思潮』1916年11月号<br>
+`audio`: `https://www.youtube.com/watch?v=0vI0sK5mK4g`<br>
 `desc`: 为诱惑日本人而来到日本的恶魔，闲来无事便开始种植烟草。这时来了一位牛贩子。这位信奉基督教的牛贩子，很想知道这种陌生植物的名字。恶魔对他说：若你能在三天之内猜出这植物的名字，这片田地便送你；若是猜不出，我就要夺走你的肉身与灵魂。最终，在这场智慧较量中获胜的，正是那位牛贩子
 :::
 

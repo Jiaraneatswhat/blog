@@ -3,7 +3,6 @@ title: "Campbell's Biology Ch.1 Evolution, the Themes of  Biology, and Scientifi
 published: 2024-11-17
 tags: [生物学, 普通生物学]
 category: Science
-author: ran
 image: "./images/cover.png"
 description: "chapter 1"
 ---
@@ -36,7 +35,7 @@ description: "chapter 1"
 
 细胞主要分为两类，<font color="#ff0080"><b>原核细胞 (<i>prokaryotic</i>)</b></font> 和<font color="#ff0080"><b>真核细胞 (<i>eukaryotic</i>)</b></font>。真核细胞内包含着由膜封闭的细胞器，而原核细胞内缺少细胞核或膜封闭的细胞器，原核细胞通常比真核细胞小<font color="#034ea9"><b>(图 1.4)</b></font>:
 
-![图 1.4 w-70%](./images/f_1.4.svg "图 1.4 对比真核细胞与原核细胞在大小和复杂程度上的差异")
+![图 1.4 对比真核细胞与原核细胞在大小和复杂程度上的差异](./images/f_1.4.svg "w-50")
 
 #### Theme: Life’s Processes Involve the Expression and Transmission of Genetic Information
 细胞中的<font color="#e086e0">染色体</font>里面含有以 <font color="#ff0080"><b>DNA (<i>deoxyribonucleic acid</i>)</b></font> 形式存储的遗传物质。
@@ -51,7 +50,7 @@ DNA 的分子结构使得其可以存储信息：一个 $\text{DNA}$ 分子由�
 #### Theme: Life Requires the Transfer and Transformation of Energy and Matter
 生命需要能量和物质的传输和转换<font color="#034ea9"><b>(图 1.9)</b></font>。当植物的叶子在光合作用过程中吸收阳光时，叶子内的分子将阳光的能量转化为食物的化学能。然后，食物分子中的化学能从植物和其他光合生物<font color="#ff0080"><b>生产者</b></font>）传递给消费者。<font color="#ff0080"><b>消费者</b></font>是以其他生物体或其遗体为食的生物体。
 
-![图 1.9 w-70%](./images/f_1.9.svg "图 1.9 能量流动和化学循环")
+![图 1.9 能量流动和化学循环](./images/f_1.9.svg "w-50")
 
 当生物体使用化学能来做功时，例如肌肉的收缩或细胞分裂，有一些能量会以热能的形式散失。因此能量在生态系统中以一个方向进行*流动*，通常以光能形式进入，以热能形式散失。与之相比，化学物质在生态系统中*循环*流动，被利用后会再次回收利用。
 #### Theme: From Molecules to Ecosystems, Interactions Are Important in Biological Systems
@@ -62,7 +61,7 @@ DNA 的分子结构使得其可以存储信息：一个 $\text{DNA}$ 分子由�
 
 以<font color="#e086e0">胰岛素 (<i>insulin</i>)</font> 信号<font color="#034ea9"><b>(图 1.10)</b></font>为例，饭后人体血液中的葡萄糖含量会上升，刺激<font color="#e36c09">胰腺 (<i>pancreas</i>)</font> 细胞分泌胰岛素，胰岛素在血液中进行运输，与体内的细胞相结合，使他们开始吸收葡萄糖，并使肝细胞存储葡萄糖，从而降低血糖浓度。降低的血糖浓度会负反馈给胰腺，使其不再分泌胰岛素。
 
-![图 1.10 w-70%](./images/f_1.10.svg "图 1.10 反馈调节")
+![图 1.10 反馈调节](./images/f_1.10.svg "w-40")
 
 ##### *Ecosystems: An Organism’s Interactions with Other Organisms and the Physical Environment*
 在生态系统层面，每种生物都会与其他生物相互作用。例如，<font color="#00b050">金合欢树 (<i>acacia tree</i>)</font> 会与根部相关的土壤微生物、栖息其上的昆虫，以及以其叶片和果实为食的动物产生相互作用。生物之间的相互作用包括互利共生，以及一方受益、另一方受害的关系。有时双方都会受到损害。
@@ -76,13 +75,12 @@ DNA 的分子结构使得其可以存储信息：一个 $\text{DNA}$ 分子由�
 尽管生命多种多样，但不同生命形态之间也存在着显著的统一性。比如不同动物相似的骨骼结构，以及 $\text{DNA}$ 通用的遗传语言。事实上，生物体间的相似性在生物层级的各个层面都清晰可见。例如，<font color="#e36c09">纤毛 (<i>cilium</i>)</font> 存在于从草履虫到人类等多种多样的真核生物中。即便差异如此巨大
 ，其细胞结构的许多特征也体现出明显的统一性<font color="#034ea9"><b>(图 1.14)</b></font>。
 
-![图 1.14 w-60%](./images/f_1.14.svg "图 1.14 生命多样性背后统一性的例证：真核生物纤毛的结构")
+![图 1.14 生命多样性背后统一性的例证：真核生物纤毛的结构](./images/f_1.14.svg "w-90")
 
 #### Charles Darwin and the Theory of Natural Selection
 1859年11月，查尔斯・达尔文发表了史上最重要、最具影响力的著作之一 ——《物种起源》(*On the Origin of Species by Means of Natural Selection*)，生命的进化观点由此清晰确立。《物种起源》阐述了两个核心观点。第一，随着物种长期适应不同环境，会逐渐积累与其祖先不同的特征，达尔文将这一过程称为<font color="#00b050">后代渐变 (<i>descent with modification</i>)</font>。这一富有洞见的表述概括了生命的统一性与多样性双重属性：统一性源于拥有共同祖先的物种之间的亲缘关系，多样性则来自物种从共同祖先分化后演化出的不同性状。达尔文的第二个核心观点是，自然选择是后代渐变的主要驱动力。
 
 达尔文将这种进化适应的机制称为<font color="#ff0080"><b>自然选择</b></font>，因为自然环境会在种群中天然存在的各种变异性状里，持续“选择”某些性状并使其得以繁衍。<font color="#034ea9"><b>图 1.18</b></font> 中的例子展示了自然选择如何 “筛选” 昆虫种群中可遗传的体色变异。
 
-![图 1.18 w-80%](./images/f_1.18.svg "图 1.18 自然选择")
-
+![图 1.18 生命多样性背后统一性的例证：真核生物纤毛的结构](./images/f_1.18.svg "w-90")
 

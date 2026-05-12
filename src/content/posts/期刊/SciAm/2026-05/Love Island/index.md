@@ -9,7 +9,7 @@ description: "爱之岛：罕见浆果大丰收，引爆鸮鹦鹉生育潮"
 
 <p style="margin:0!important;text-indent:0!important;"><span style="background:#000000;color:#ffffff;font-weight:bold;padding:0 4px;user-select:none;">ECOLOGY</span></p>
 
-![图 w-90%](./images/fig.png)
+![](./images/fig.png)
 
 **THE BIGGEST BERRY BLOOM** in New Zealand’s forests in decades has set off a mating frenzy among the critically endangered <mark style="background:rgba(136, 49, 204, 0.2)">Kākāpō</mark>[^1], the world’s beefiest parrots.
 

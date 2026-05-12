@@ -163,7 +163,7 @@
   }
 
   tr:nth-child(even) {
-    background-color: var(--codeblock-bg);
+    background-color: rgba(127, 127, 127, 0.06);
   }
   tr:hover td {
     background-color: var(--btn-plain-bg-hover);
@@ -279,4 +279,131 @@
 /* 全局缩小 LaTeX 公式字体 */
 .custom-md .katex {
   font-size: 0.95em !important;
+}
+
+/* ========== Firefly 补充样式 ========== */
+
+/* 表格滚动容器 */
+.custom-md .horizontal-scroll-container {
+  @apply my-4;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  border-radius: calc(var(--radius-large) - 0.5rem);
+}
+
+.custom-md .horizontal-scroll-container > table {
+  @apply my-0;
+}
+
+/* 壁纸透明模式下的表格 */
+body.wallpaper-transparent .custom-md {
+  .horizontal-scroll-container {
+    background-color: var(--card-bg-transparent);
+  }
+
+  th {
+    background-color: color-mix(in oklch, var(--btn-regular-bg) 72%, transparent);
+  }
+
+  td {
+    background-color: color-mix(in oklch, var(--card-bg-transparent) 92%, transparent);
+  }
+
+  tr:nth-child(even) td {
+    background-color: color-mix(in oklch, var(--btn-plain-bg-active) 68%, transparent);
+  }
+}
+
+/* 表情表达式代码块间距 */
+.custom-md .expressive-code {
+  @apply my-4;
+}
+
+/* 导航栏吸顶偏移 */
+body.sticky-navbar .custom-md [id] {
+  scroll-margin-top: 5.5rem;
+}
+
+/* 自动换行 */
+.custom-md {
+  overflow-wrap: break-word;
+}
+
+/* 图片网格 */
+.custom-md .image-grid {
+  @apply items-stretch;
+  
+  center {
+    @apply h-full w-full;
+    
+    figure {
+      @apply flex flex-col h-full w-full m-0 p-0;
+      
+      img {
+        @apply object-cover w-full grow rounded-xl m-0;
+        height: 100%;
+      }
+      
+      figcaption {
+        @apply mt-2 mb-0;
+      }
+    }
+  }
+}
+
+.custom-md mark {
+  color: inherit;
+   font-weight: inherit;
+}
+
+/* KaTeX 滚动容器 */
+.custom-md .katex-display-container {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 1em 0;
+}
+
+.custom-md img[title="w-2"]   { max-width: 2%;   display: block; margin: 0 auto; }
+.custom-md img[title="w-5"]   { max-width: 5%;   display: block; margin: 0 auto; }
+.custom-md img[title="w-10"]  { max-width: 10%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-15"]  { max-width: 15%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-20"]  { max-width: 20%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-25"]  { max-width: 25%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-30"]  { max-width: 30%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-35"]  { max-width: 35%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-40"]  { max-width: 40%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-45"]  { max-width: 45%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-50"]  { max-width: 50%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-55"]  { max-width: 55%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-60"]  { max-width: 60%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-65"]  { max-width: 65%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-70"]  { max-width: 70%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-75"]  { max-width: 75%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-80"]  { max-width: 80%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-85"]  { max-width: 85%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-90"]  { max-width: 90%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-95"]  { max-width: 95%;  display: block; margin: 0 auto; }
+.custom-md img[title="w-100"] { max-width: 100%; display: block; margin: 0 auto; }
+
+.custom-md .callout-content p {
+  text-indent: 0 !important;
+}
+
+.custom-md .callout-content {
+  text-indent: 0 !important;
+}
+
+/* Callout 主题色跟随 */
+.custom-md .callout {
+  border-left-color: var(--primary) !important;
+}
+
+.custom-md .callout-title {
+  color: var(--primary) !important;
+}
+
+.custom-md .callout-title-icon {
+  color: var(--primary) !important;
 }

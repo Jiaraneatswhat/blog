@@ -8,8 +8,8 @@ description: "坐落在古城的市街"
 ---
 
 :::note[META]
-`first published`:『青空』1925年2月20日発行2月号（第1巻第2号・通巻2号）
-`audio`: `https://www.youtube.com/watch?v=BHYjYBjbZPY&t=1s`
+`first published`:『青空』1925年2月20日発行2月号（第1巻第2号・通巻2号）<br>
+`audio`: `https://www.youtube.com/watch?v=BHYjYBjbZPY&t=1s`<br>
 `desc`: 一部私小说风格的作品，以作者亲身经历为题材：在目睹年幼的异母妹妹离世后，为平复动荡不安的情绪与内心的悲伤，前往居住在三重县松阪町的姐姐夫妇家中，记叙了这段期间的种种经历
 :::
 

@@ -8,8 +8,8 @@ description: "冬蝇"
 ---
 
 :::note[META]
-`first published`:『創作月刊』1928年5月1日発行5月号
-`audio`：`https://www.youtube.com/watch?v=cqd4KrjoLzk&list=RDcqd4KrjoLzk&start_radio=1`
+`first published`:『創作月刊』1928年5月1日発行5月号<br>
+`audio`：`https://www.youtube.com/watch?v=cqd4KrjoLzk&list=RDcqd4KrjoLzk&start_radio=1`<br>
 `desc`: 以溪谷间温泉疗养地的冬季为背景，描写 “我” 在房间里观察栖息于此的苍蝇。作品以在伊豆汤之岛度过的第二个冬天为题材 —— 彼时 “我” 因病情不见好转、对未来充满不安，每日都在焦躁与倦怠中度过。文中细致刻画了 “我” 矛盾交织的心境：一方面是沐浴在阳光中、带有自欺性质的安逸；另一方面则是在极度寒冷的绝望与紧绷中所感受到的战栗。通过在数日徘徊后死去的冬日苍蝇的命运，作品描绘出 “我” 最终获得的全新认知：世界上的一切生命，其命运都被托付于超越人类意志、变幻无常的偶然条件之中
 :::
 

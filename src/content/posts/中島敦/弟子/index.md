@@ -8,8 +8,8 @@ description: "弟子"
 ---
 
 :::note[META]
-`first published`:『中央公論』1943年2月号
-`audio`：`https://www.youtube.com/watch?v=zKbx8x2HiEY&t=299s`
+`first published`:『中央公論』1943年2月号<br>
+`audio`：`https://www.youtube.com/watch?v=zKbx8x2HiEY&t=299s`<br>
 `desc`: 以《论语》为原典创作的短篇小说，讲述子路拜入孔子门下，直至在卫国政变中身亡的故事。作品饱含情感地刻画了子路拜师后，在自己率直鲁莽的性格与儒家学说之间的巨大反差中，一边苦恼一边求学的模样，以及孔子虽时常严厉斥责他，却始终真心喜爱他的样子
 :::
 

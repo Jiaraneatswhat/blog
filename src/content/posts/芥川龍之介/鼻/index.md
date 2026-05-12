@@ -8,8 +8,8 @@ description: "鼻"
 ---
 
 :::note[META]
-`first published`:『新思潮』1916年2月・第4次創刊号
-`audio`: `https://www.youtube.com/watch?v=rLDhMgcqMUY`
+`first published`:『新思潮』1916年2月・第4次創刊号<br>
+`audio`: `https://www.youtube.com/watch?v=rLDhMgcqMUY`<br>
 `desc`: 禅智内供这位高僧，因鼻子修长，屡屡遭旁人取笑。他设法医治、让鼻子变短，世人的嘲弄却变本加厉。某日清晨，他一觉醒来，发现鼻子恢复了原状。此刻，内供的内心反倒归于平静。这篇名作，刻画了无论任何时代都永世不绝、堪称庸众生存原动力的利己本性，以及虚荣心与自尊执念的愚昧虚妄
 :::
 

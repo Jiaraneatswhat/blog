@@ -9,7 +9,7 @@ description: "古老符号体系：石器时代艺术或揭示距今 4 万年的
 
 <p style="margin:0!important;text-indent:0!important;"><span style="background:#000000;color:#ffffff;font-weight:bold;padding:0 4px;user-select:none;">SCIENCE IN IMAGES</span></p>
 
-![图 w-50%](./images/fig1.png)
+![](./images/fig1.png "w-50")
 
 **ONE OF THE OLDEST KNOWN PIECES OF ART** on the planet is a <mark style="background:#fdbfff">figurine</mark>[^1] of a mammoth that was carved in ivory by a Stone Age artisan some 40,000 years ago. The figurine was found in what is now Germany and is marked with mysterious crosses and dots. A new analysis of the object and hundreds of others found in caves in the same region now suggests the markings might have held particular meaning to their ancient creators.
 
@@ -23,7 +23,7 @@ This type of work can be “challenging,” in part because such ancient marking
 
 <font color="#548dd4">古人类学家、《国家地理》新锐探险家吉纳维芙・冯・佩青格专门研究文字起源，她并未参与这项研究。她解释说，这类研究颇具挑战性，部分原因是这些远古刻痕几乎无法解读。但探寻符号中刻意排布、重复出现这类规律，是两种极佳的研究思路，至少可以尝试证实：这些符号绝非单纯装饰性涂鸦，而是另有深意。</font>
 
-![图 w-50%](./images/fig2.png "A protocuneiform tablet (left) shows marks similar in complexity to those on the newly analyzed objects, including a 38,000-year-old figurine and a 40,000-year-old ivory mammoth carving")
+![A protocuneiform tablet (left) shows marks similar in complexity to those on the newly analyzed objects, including a 38,000-year-old figurine and a 40,000-year-old ivory mammoth carving](./images/fig2.png "w-50")
 
 To find out whether the markings were decorations, <mark style="background:#fdbfff">tallies</mark>[^5] of hunting kills, or something else, Dutkiewicz worked with linguist Christian Bentz, who studies the history of language at Saarland University in Germany. The pair digitized the markings and compared features—such as sign diversity and repetition—with those of other, more recent sign systems. The pattern doesn’t resemble modern-day writing. But when Bentz compared the marks with early protocuneiform, he says, the similarity was unmistakable.
 

@@ -8,8 +8,8 @@ description: "手绢"
 ---
 
 :::note[META]
-`first published`:『中央公論』1916年10月号
-`audio`: `https://www.youtube.com/watch?v=3tn9nJBAfCU`
+`first published`:『中央公論』1916年10月号<br>
+`audio`: `https://www.youtube.com/watch?v=3tn9nJBAfCU`<br>
 `desc`: 身为文明人而故作沉稳自持的大学教授，直面亡子之母流露的悲伤演技（紧握手帕的举动），以讽刺的笔触刻画人性心理与世俗「形式」之间矛盾的心理小说佳作
 :::
 

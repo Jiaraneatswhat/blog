@@ -8,8 +8,8 @@ description: "柠檬"
 ---
 
 :::note[META]
-`first published`:『青空』1925年 1月1日発行1月・創刊号
-`audio`: `https://www.youtube.com/watch?v=XNsS2vwt-ow&t=32s`
+`first published`:『青空』1925年 1月1日発行1月・創刊号<br>
+`audio`: `https://www.youtube.com/watch?v=XNsS2vwt-ow&t=32s`<br>
 `desc`: 本文以诗意的笔触，将难以名状的忧郁心境与突如其来的恶作剧心绪，同色彩鲜明的事物与内心意象一同描绘。以在三高求学时期、梶井借住京都期间的郁结心理为背景，描写了他与一颗柠檬相遇时的感动，以及幻想将柠檬放在西文书店的书架前，当作一枚鲜亮的 “柠檬炸弹” 布置好后逃走的场景
 :::
 

@@ -8,8 +8,8 @@ description: "苍穹"
 ---
 
 :::note[META]
-`first published`:『文藝都市』 1928年3月・通巻2号
-`audio`: `https://www.youtube.com/watch?v=SK5rIn0GY4o`
+`first published`:『文藝都市』 1928年3月・通巻2号<br>
+`audio`: `https://www.youtube.com/watch?v=SK5rIn0GY4o`<br>
 `desc`: 这部作品描绘了主人公在白昼辽阔的自然景致中，久久凝望不断变幻生成的云朵，却在澄澈蓝天里窥见虚无之黑暗的不幸感官体验。写实的自然描写化作内心图景，在赋予 “象征色彩” 的同时，诗意地勾勒出“精神的深渊”与“澄澈的虚无主义”
 :::
 

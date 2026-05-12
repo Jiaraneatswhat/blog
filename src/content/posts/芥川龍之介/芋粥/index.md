@@ -8,8 +8,8 @@ description: "芋粥"
 ---
 
 :::note[META]
-`first published`:『新小説』1916年9月
-`audio`: `https://www.youtube.com/watch?v=ootmPt4WYmk`
+`first published`:『新小説』1916年9月<br>
+`audio`: `https://www.youtube.com/watch?v=ootmPt4WYmk`<br>
 `desc`: 五位是侍奉藤原基经的一名武士，年过四十，模样邋遢散漫。他平日里也受尽周遭众人的刻薄对待。五位的梦想，是尽情喝个够芋头粥。听闻他这份心愿的藤原利仁，决意帮他实现这个梦想，然而……
 :::
 

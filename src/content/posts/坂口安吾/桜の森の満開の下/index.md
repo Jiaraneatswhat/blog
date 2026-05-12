@@ -8,8 +8,8 @@ description: "盛开的樱花树下"
 ---
 
 :::note[META]
-`first published`:『肉体』 1947年6月・創刊号
-`audio`: `https://www.youtube.com/watch?v=dEsv4rctOdk`
+`first published`:『肉体』 1947年6月・創刊号<br>
+`audio`: `https://www.youtube.com/watch?v=dEsv4rctOdk`<br>
 `desc`: 一段关于某山岭的山贼与妖异美艳、生性残酷的女子之间的奇幻怪谈。采用传说故事的文体，讲述 “樱花森林盛放之下令人毛骨悚然” 的故事，描绘了化作花瓣消散无踪的女子，以及男子在只剩冰冷虚空笼罩的漫天飞樱中的孤独
 :::
 

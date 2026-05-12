@@ -8,8 +8,8 @@ description: "器乐的幻觉"
 ---
 
 :::note[META]
-`first published`:『近代風景』（アルス詩誌）1928年5月1日発行5月号
-`audio`：`https://www.youtube.com/watch?v=b2zeFaaEYFA`
+`first published`:『近代風景』（アルス詩誌）1928年5月1日発行5月号<br>
+`audio`：`https://www.youtube.com/watch?v=b2zeFaaEYFA`<br>
 `desc`: 在聆听著名钢琴家演奏时，乐曲的声音与弹奏键盘的演奏者动作之间产生了脱节、分离。作品以极具魅力的笔触，细致刻画了这样一个过程：由听觉与视觉分离的错觉，被引向孤高的幻想状态，并最终悟到人类存在的非理性与不连贯性
 :::
 

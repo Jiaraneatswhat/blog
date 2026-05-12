@@ -8,8 +8,8 @@ description: "山月记"
 ---
 
 :::note[META]
-`first published`:『文學界』1942年2月号
-`audio: https://www.youtube.com/watch?v=yLgVEDplkOg&t=903s`
+`first published`:『文學界』1942年2月号<br>
+`audio: https://www.youtube.com/watch?v=yLgVEDplkOg&t=903s`<br>
 `desc`: 唐代，因未能实现成为诗人的志向而化为猛虎的男子李徵，向友人袁傪诉说自己坎坷多舛的命运。故事取材于清代小说集《唐人说荟》中收录的〈人虎传〉
 :::
 

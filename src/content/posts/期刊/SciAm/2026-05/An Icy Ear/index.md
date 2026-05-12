@@ -13,7 +13,7 @@ description: "冰原侦听之耳：全球最深探测仪，可监测地球上任
 
 <font color="#548dd4">从表面上看，南极洲广袤的冰盖仿佛静止不变。但在冰层深处，震动如涟漪般在冰封大地上传导，传递着地球构造板块的活动信号 —— 如今科学家拥有了一套强大的全新设备来监听这些震动。美国地质调查局（USGS）与南极冰立方中微子天文台合作，布设了有史以来放置深度最深的地震仪。两台仪器深埋冰层8000 英尺，能够以前所未有的精度记录全球 5 级及以上地震，同时助力人类进一步探明地球深部内部构造的全新细节。</font>
 
-![图 w-50%](./images/fig.png)
+![](./images/fig.png "w-50")
 
 The South Pole is one of Earth’s quietest places because there is very little humanmade infrastructure and no background “noise” from the planet’s rotation, which can distort seismometer data. At their depth, the new seismometers may also be shielded from disruptive changes in atmospheric pressure, says USGS research geophysicist Robert Anthony, the Deep Ice Seismometer project manager.
 

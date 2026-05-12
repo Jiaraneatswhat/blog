@@ -8,8 +8,8 @@ description: "大石内蔵助的一天"
 ---
 
 :::note[META]
-`first published`:『中央公論』1917年9月
-`audio`: `https://aozoraroudoku.jp/voice/rdp/rd977.html`
+`first published`:『中央公論』1917年9月<br>
+`audio`: `https://aozoraroudoku.jp/voice/rdp/rd977.html`<br>
 `desc`: 已然完成攻伐复仇这桩大业的大石内藏助，隐居于京都山科。某个风和日丽的春日，他赏览梅花、沉浸在满心的释然之中，却又借由周遭世人的种种评价，生出万般纠葛的心绪，文段细腻刻画了他复杂的内心状态
 :::
 

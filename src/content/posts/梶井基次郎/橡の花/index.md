@@ -8,8 +8,8 @@ description: "七叶树之花"
 ---
 
 :::note[META]
-`first published`:『創作月刊』1928年5月1日発行5月号
-`audio`：`https://www.youtube.com/watch?v=c0sPDqMIpCo&t=92s`
+`first published`:『創作月刊』1928年5月1日発行5月号<br>
+`audio`：`https://www.youtube.com/watch?v=c0sPDqMIpCo&t=92s`<br>
 `desc`: ”我“ 因阴郁的天气而精神萎靡。坐在电车里，总觉得前排的人在盯着自己的脸。忍不住要去挑剔同乘者的毛病。就连和熟悉的朋友聊天，内心也焦躁不安。神经质倾向的主人公，向友人倾诉烦恼的书信体
 :::
 

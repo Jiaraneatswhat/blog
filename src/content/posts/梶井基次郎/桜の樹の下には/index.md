@@ -8,8 +8,8 @@ description: "在樱树下"
 ---
 
 :::note[META]
-`first published`:『詩と詩論』1928年12月5日発行・第二冊
-`audio`：`https://www.youtube.com/watch?v=bzS52XUSeds`
+`first published`:『詩と詩論』1928年12月5日発行・第二冊<br>
+`audio`：`https://www.youtube.com/watch?v=bzS52XUSeds`<br>
 `desc`: “樱花树下，埋着尸体啊！／这你尽管相信就好。” 在因肺结核前往汤河原疗养时，梶井望着满开的樱花。直面步步逼近的 “死亡”，他却将生与死的对峙，升华为极致之美 —— 这般修辞的妙处，藏着对自身死亡的预感，散发着妖异的光芒
 :::
 

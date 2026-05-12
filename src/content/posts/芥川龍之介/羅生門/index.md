@@ -8,8 +8,8 @@ description: "罗生门"
 ---
 
 :::note[META]
-`first published`:『帝国文学』1915年11月号
-`audio`: `https://www.youtube.com/watch?v=O9e0R_WXX3g`
+`first published`:『帝国文学』1915年11月号<br>
+`audio`: `https://www.youtube.com/watch?v=O9e0R_WXX3g`<br>
 `desc`: 以《今昔物语集》为蓝本，刻画一名底层仆人为求生存、被迫染指恶行的模样。作品标题取自平安京朱雀大街的正门 ——罗生门
 :::
 
