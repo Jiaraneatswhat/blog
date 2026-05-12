@@ -17,7 +17,7 @@ description: "烟草和恶魔"
     <source src="https://audio.taffybook.cn/AkutagawaRyunosuke/Tabacco.mp3"> 
 </audio>
 
-<ruby>煙草<rt>たばこ</ruby>は、本来、日本になかつた植物である。では、何時いつ頃、<ruby>舶載<rt>はくさい</ruby>されたかと云ふと、記録によつて、年代が一致しない。或は、<font color="#e36c09"><ruby>慶長<rt>けいちょう</ruby></font>[^1]年間と書いてあつたり、或は<font color="#e36c09"><ruby>天文<rt>てんぶん</ruby></font>[^2]年間と書いてあつたりする。が、慶長十年頃には、既に栽培が、諸方に行はれてゐたらしい。それが<font color="#e36c09"><ruby>文禄<rt>ぶんろく</ruby></font>[^3]年間になると、「きかぬものたばこの<font color="#ff0080"><ruby>法度<rt>はつと</ruby></font>[^4]<ruby>銭法度<rt>ぜにはつと</ruby>、玉のみこゑにげんたくの医者」と云ふ<ruby>落首<rt>らくしゆ</ruby>が出来た程、一般に喫煙が流行するやうになつた。――
+<ruby>煙草<rt>たばこ</ruby>は、本来、日本になかつた植物である。では、<ruby>何時<rt>いつ</ruby>頃、<ruby>舶載<rt>はくさい</ruby>されたかと云ふと、記録によつて、年代が一致しない。或は、<font color="#e36c09"><ruby>慶長<rt>けいちょう</ruby></font>[^1]年間と書いてあつたり、或は<font color="#e36c09"><ruby>天文<rt>てんぶん</ruby></font>[^2]年間と書いてあつたりする。が、慶長十年頃には、既に栽培が、諸方に行はれてゐたらしい。それが<font color="#e36c09"><ruby>文禄<rt>ぶんろく</ruby></font>[^3]年間になると、「きかぬものたばこの<font color="#ff0080"><ruby>法度<rt>はつと</ruby></font>[^4]<ruby>銭法度<rt>ぜにはつと</ruby>、玉のみこゑにげんたくの医者」と云ふ<ruby>落首<rt>らくしゆ</ruby>が出来た程、一般に喫煙が流行するやうになつた。――
 
 <font color="#548dd4">烟草这种植物，本是日本所没有的。那么，它是何时舶来的呢？记载中的年代却并不一致。有的说是庆长年间，有的说是天文年间，不过，到了庆长十年左右，已经到处都在栽培烟草。等到了文禄年间，吸烟大为流行，甚至出现了如下这首打油诗：</font>
 
