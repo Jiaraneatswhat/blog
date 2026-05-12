@@ -407,3 +407,8 @@ body.sticky-navbar .custom-md [id] {
 .custom-md .callout-title-icon {
   color: var(--primary) !important;
 }
+
+.custom-md img[src*="loading.GIF"] {
+  display: block;
+  margin: 0 auto;
+}
