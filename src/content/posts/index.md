@@ -4,6 +4,7 @@ published: 1970-01-01 08:00:00
 category: Other
 pinned: true
 ---
+
 <div style="overflow-x:auto; overflow-y: hidden;">
 	<table style="border-collapse: collapse; width: 100%;">
 		<thead>
@@ -18,15 +19,15 @@ pinned: true
 		</thead>
 		<tbody>
 			<tr>
-				<td rowspan="46" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
-				<td rowspan="8" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
-				<td rowspan="6" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
+				<td rowspan="47" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
+				<td rowspan="9" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
+				<td rowspan="7" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
 				<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1915</td>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/羅生門/">羅生門</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
-				<td rowspan="4" style="border: 1px solid #000; text-align:center; background:#16ad6b; vertical-align:middle;">1916</td>
+				<td rowspan="5" style="border: 1px solid #000; text-align:center; background:#16ad6b; vertical-align:middle;">1916</td>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/鼻/">鼻</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
@@ -40,6 +41,10 @@ pinned: true
 			</tr>
 			<tr>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/煙草と悪魔/">煙草と悪魔</a></td>
+				<td style="border: 1px solid #000; text-align:center;">☑</td>
+			</tr>
+			<tr>
+				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/孤独地獄/">孤独地獄</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
