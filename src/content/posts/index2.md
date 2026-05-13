@@ -39,7 +39,7 @@ pinned: true
 			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch9/">Chapter 9</a></td>
 		</tr> 
 		<tr> 
-			<td rowspan="7" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American</td>
+			<td rowspan="10" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American (2025-06)</td>
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/an-icy-ear/">An Icy Ear</a></td>
 		</tr> 
 		<tr> 
@@ -49,10 +49,19 @@ pinned: true
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/boosting-science/">Boosting Science</a></td>
 		</tr>
 		<tr> 
+			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/discerning-chicks/">Discerning Chicks</a></td>
+		</tr>
+		<tr> 
+			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/flower-forger/">Flower Forger</a></td>
+		</tr>
+		<tr> 
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/love-island/">Love Island</a></td>
 		</tr>
 		<tr> 
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/melting-marvel/">Melting Marvel</a></td>
+		</tr>
+		<tr> 
+			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/thermal-breakthrough/">Thermal Breakthrough</a></td>
 		</tr>
 		<tr> 
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/trunk-sense/">Trunk Sense</a></td>
@@ -62,9 +71,3 @@ pinned: true
 		</tr>
 	</table>
 </div>
-
-
-
-
-
-
