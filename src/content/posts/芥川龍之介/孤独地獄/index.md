@@ -1,6 +1,6 @@
 ---
 title: "芥川龍之介: 孤独地獄"
-published: 2026-05-13 19:40:00
+published: 2026-05-13
 tags: [芥川龍之介, 近代文学]
 category: Literature
 image: "./cover.png"

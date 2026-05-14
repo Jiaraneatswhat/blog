@@ -1,6 +1,6 @@
 ---
 title: "[Sci. Am., May, 2026] Thermal Breakthrough: A new super heat conductor challenges fundamental physics"
-published: 2026-05-13 17:47:00
+published: 2026-05-13
 tags: [期刊]
 category: Journal
 image: "./cover.png"
