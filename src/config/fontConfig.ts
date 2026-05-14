@@ -5,7 +5,7 @@ export const fontConfig = {
 	// 是否预加载字体文件
 	preload: true,
 	// 当前选择的字体，支持多个字体组合
-	selected: ["lxgw-wenkai"],
+	selected: ["lxgw-wenkai", "gulliver-regular"],
 
 	// 字体列表
 	fonts: {
@@ -18,55 +18,7 @@ export const fontConfig = {
 				"system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
 		},
 
-		// Google Fonts - Zen Maru Gothic
-		"zen-maru-gothic": {
-			id: "zen-maru-gothic",
-			name: "Zen Maru Gothic",
-			src: "https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap",
-			family: "Zen Maru Gothic",
-			display: "swap" as const,
-		},
-
-		// Google Fonts - Inter
-		inter: {
-			id: "inter",
-			name: "Inter",
-			src: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",
-			family: "Inter",
-			display: "swap" as const,
-		},
-
-		// 小米字体 - MiSans Normal
-		"misans-normal": {
-			id: "misans-normal",
-			name: "MiSans Normal",
-			src: "https://unpkg.com/misans@4.1.0/lib/Normal/MiSans-Normal.min.css",
-			family: "MiSans",
-			weight: 400,
-			display: "swap" as const,
-		},
-
-		// 小米字体 - MiSans Regular
-		"misans-regular": {
-			id: "misans-regular",
-			name: "MiSans Regular",
-			src: "https://unpkg.com/misans@4.1.0/lib/Normal/MiSans-Regular.min.css",
-			family: "MiSans",
-			weight: 500,
-			display: "swap" as const,
-		},
-
-		// 小米字体 - MiSans Semibold
-		"misans-semibold": {
-			id: "misans-semibold",
-			name: "MiSans Semibold",
-			src: "https://unpkg.com/misans@4.1.0/lib/Normal/MiSans-Semibold.min.css",
-			family: "MiSans",
-			weight: 600,
-			display: "swap" as const,
-		},
-
-		// 霞鹜文楷 —— 我给你放对位置了！
+		// 霞鹜文楷 
 		"lxgw-wenkai": {
 			id: "lxgw-wenkai",
 			name: "霞鹜文楷",
@@ -74,10 +26,21 @@ export const fontConfig = {
 			family: "LXGW WenKai",
 			display: "swap" as const,
 		},
+
+	// Gulliver Regular 英文专用（.otf 版本）
+	"gulliver-regular": {
+		id: "gulliver-regular",
+		name: "Gulliver Regular",
+		src: "/src/assets/fonts/Gulliver Regular.otf",		
+		family: "Gulliver",
+		display: "swap" as const,
+	},
 	},
 
 	// 全局字体回退
 	fallback: [
+	"Gulliver",        // 英文、数字优先
+	"LXGW WenKai",     // 中文、日文优先
 		"system-ui",
 		"-apple-system",
 		"BlinkMacSystemFont",
