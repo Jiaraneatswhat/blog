@@ -39,7 +39,7 @@ pinned: true
 			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch9/">Chapter 9</a></td>
 		</tr> 
 		<tr> 
-			<td rowspan="10" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American (2025-06)</td>
+			<td rowspan="10" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American (May, 2026)</td>
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/an-icy-ear/">An Icy Ear</a></td>
 		</tr> 
 		<tr> 
@@ -69,5 +69,9 @@ pinned: true
 		<tr> 
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/upright-heart/">Upright Heart</a></td>
 		</tr>
+		<tr> 
+			<td rowspan="1" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">The Economist (May 9th–15th, 2026)</td>
+			<td style="border: 1px solid #000;"><a href="/posts/期刊/economist/2026-05-09-15/biohazard/">Bio Hazards</a></td>
+		</tr> 
 	</table>
 </div>

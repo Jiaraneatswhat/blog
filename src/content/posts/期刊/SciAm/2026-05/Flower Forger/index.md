@@ -1,5 +1,5 @@
 ---
-title: "[Sci. Am., 2026-05] Flower Forger: Baby beetles work together to look—and smell—like flowers"
+title: "[Sci. Am., May, 2026] Flower Forger: Baby beetles work together to look—and smell—like flowers"
 published: 2026-05-13 17:15:00
 tags: [期刊]
 category: Journal

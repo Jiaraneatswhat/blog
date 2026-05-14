@@ -1,5 +1,5 @@
 ---
-title: "[Sci. Am., 2026-05] Boosting Science: Inside NASA' s audacious plan to save a doomed space telescope"
+title: "[Sci. Am., May, 2026] Boosting Science: Inside NASA' s audacious plan to save a doomed space telescope"
 published: 2026-05-05 17:00:00
 tags: [期刊]
 category: Journal

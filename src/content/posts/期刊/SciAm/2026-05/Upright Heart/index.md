@@ -1,5 +1,5 @@
 ---
-title: "[Sci. Am., 2026-05] Upright Heart: Here’s how your heart knows you’ve stood up"
+title: "[Sci. Am., May, 2026] Upright Heart: Here’s how your heart knows you’ve stood up"
 published: 2026-05-10 19:30:00
 tags: [期刊]
 category: Journal

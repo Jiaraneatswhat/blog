@@ -1,5 +1,5 @@
 ---
-title: "[Sci. Am., 2026-05] An Icy Ear: The world’s deepest sensors will hear earthquakes anywhere on the planet"
+title: "[Sci. Am., May, 2026] An Icy Ear: The world’s deepest sensors will hear earthquakes anywhere on the planet"
 published: 2026-05-06 11:36:00
 tags: [期刊]
 category: Journal

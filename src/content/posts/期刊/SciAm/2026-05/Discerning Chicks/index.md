@@ -1,5 +1,5 @@
 ---
-title: "[Sci. Am., 2026-05] Discerning Chicks: A bird-brained “bouba” and “kiki” study challenges ideas of human language evolution"
+title: "[Sci. Am., May, 2026] Discerning Chicks: A bird-brained “bouba” and “kiki” study challenges ideas of human language evolution"
 published: 2026-05-11 09:20:00
 tags: [期刊]
 category: Journal

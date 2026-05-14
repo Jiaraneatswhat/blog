@@ -1,5 +1,5 @@
 ---
-title: "[Sci. Am., 2026-05] Trunk Sense: Elephants' peculiar whiskers help them feel the world around them"
+title: "[Sci. Am., May, 2026] Trunk Sense: Elephants' peculiar whiskers help them feel the world around them"
 published: 2026-05-06 10:45:00
 tags: [期刊]
 category: Journal

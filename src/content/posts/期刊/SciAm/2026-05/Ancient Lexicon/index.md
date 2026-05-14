@@ -1,5 +1,5 @@
 ---
-title: "[Sci. Am., 2026-05] Ancient Lexicon: Stone Age art may reveal a 40,000-year-old precursor to writing"
+title: "[Sci. Am., May, 2026] Ancient Lexicon: Stone Age art may reveal a 40,000-year-old precursor to writing"
 published: 2026-05-07 09:53:00
 tags: [期刊]
 category: Journal

@@ -1,5 +1,5 @@
 ---
-title: "[Sci. Am., 2026-05] Love Island: Rare berry bonanza spurs a Kākāpō baby boom"
+title: "[Sci. Am., May, 2026] Love Island: Rare berry bonanza spurs a Kākāpō baby boom"
 published: 2026-05-10 09:50:00
 tags: [期刊]
 category: Journal

@@ -1,5 +1,5 @@
 ---
-title: "[Sci. Am., 2026-05] Melting Marvel: A strange substance bends the rules of glass and plastic"
+title: "[Sci. Am., May, 2026] Melting Marvel: A strange substance bends the rules of glass and plastic"
 published: 2026-05-07 09:12:00
 tags: [期刊]
 category: Journal
