@@ -22,7 +22,7 @@ export const fontConfig = {
 		"lxgw-wenkai": {
 			id: "lxgw-wenkai",
 			name: "霞鹜文楷",
-			src: "/src/assets/fonts/LXGWWenKai-Regular.ttf",
+			src: "/fonts/LXGWWenKai-Regular.ttf",
 			family: "LXGW WenKai",
 			display: "swap" as const,
 		},
@@ -31,7 +31,7 @@ export const fontConfig = {
 	"gulliver-regular": {
 		id: "gulliver-regular",
 		name: "Gulliver Regular",
-		src: "/src/assets/fonts/Gulliver-Regular.otf",		
+		src: "/fonts/Gulliver-Regular.otf",		
 		family: "Gulliver",
 		display: "swap" as const,
 	},
