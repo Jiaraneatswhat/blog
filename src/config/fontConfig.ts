@@ -31,7 +31,7 @@ export const fontConfig = {
 	"gulliver-regular": {
 		id: "gulliver-regular",
 		name: "Gulliver Regular",
-		src: "/src/assets/fonts/Gulliver Regular.otf",		
+		src: "/src/assets/fonts/Gulliver-Regular.otf",		
 		family: "Gulliver",
 		display: "swap" as const,
 	},
