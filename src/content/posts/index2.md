@@ -12,31 +12,35 @@ pinned: true
 		</tr> 
 		<tr> 
 			<td rowspan="9" style="text-align:center; vertical-align:middle; background:#f8e411; border: 1px solid #000;">Campbell's Biology</td>
-			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch1/">Chapter 1</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch1/">Chapter 1</a></td>
 		</tr> 
 		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch2/">Chapter 2</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch2/">Chapter 2</a></td>
 		</tr> 
 		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch3/">Chapter 3</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch3/">Chapter 3</a></td>
 		</tr> 
 		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch4/">Chapter 4</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch4/">Chapter 4</a></td>
 		</tr> 
 		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch5/">Chapter 5</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch5/">Chapter 5</a></td>
 		</tr> 
 		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch6/">Chapter 6</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch6/">Chapter 6</a></td>
 		</tr> 
 		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch7/">Chapter 7</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch7/">Chapter 7</a></td>
 		</tr> 
 		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch8/">Chapter 8</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch8/">Chapter 8</a></td>
 		</tr> 
 		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/campbell/campbell_ch9/">Chapter 9</a></td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch9/">Chapter 9</a></td>
+		</tr> 
+		<tr> 
+			<td rowspan="1" style="text-align:center; vertical-align:middle; background:#f8e411; border: 1px solid #000;">Stern's Introductory Plant Biology</td>
+			<td style="border: 1px solid #000;"><a href="/posts/biology/stern-botany/ch1/">Chapter 1</a></td>
 		</tr> 
 		<tr> 
 			<td rowspan="10" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American (May, 2026)</td>
