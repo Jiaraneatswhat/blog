@@ -19,15 +19,15 @@ pinned: true
 		</thead>
 		<tbody>
 			<tr>
-				<td rowspan="47" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
-				<td rowspan="9" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
-				<td rowspan="7" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
+				<td rowspan="48" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
+				<td rowspan="10" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
+				<td rowspan="8" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
 				<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1915</td>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/羅生門/">羅生門</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
-				<td rowspan="5" style="border: 1px solid #000; text-align:center; background:#16ad6b; vertical-align:middle;">1916</td>
+				<td rowspan="6" style="border: 1px solid #000; text-align:center; background:#16ad6b; vertical-align:middle;">1916</td>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/鼻/">鼻</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
@@ -45,6 +45,10 @@ pinned: true
 			</tr>
 			<tr>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/孤独地獄/">孤独地獄</a></td>
+				<td style="border: 1px solid #000; text-align:center;">☑</td>
+			</tr>
+			<tr>
+				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/猿/">猿</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
