@@ -2,9 +2,9 @@
 title: "Stern's Introductory Plant Biology Ch.1"
 published: 2026-05-15 08:00:00
 tags: [生物学, 植物学]
-category: Science
+category: Study
 image: "./cover.png"
-description: "ch1"
+description: "chapter 1"
 ---
 
 ### The Relationship of Humans to Their Environment
