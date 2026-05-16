@@ -83,5 +83,8 @@ pinned: true
 		<tr> 
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/biohazard/">Bio hazards</a></td>
 		</tr> 
+		<tr> 
+			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/red-lights/">Red lights</a></td>
+		</tr> 
 	</table>
 </div>
