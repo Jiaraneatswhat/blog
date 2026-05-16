@@ -1,10 +1,10 @@
 ---
-title: "[The Economist, May 9th–15th, 2026] Bio Hazards "
+title: "[The Economist, May 9th–15th, 2026] How AI could enable bioterrorism: Bio hazards "
 published: 2026-05-14
 tags: [期刊]
 category: Journal
 image: "./images/cover.png"
-description: "生化危机"
+description: "AI如何助长生物恐怖主义：生物危害"
 ---
 
 <p style="margin:0!important;text-indent:0!important;font-family: 'Gulliver' !important;"><span style="color:#e3000f;font-weight:bold;padding:0 4px;user-select:none;">Artificial intelligence</span></p>

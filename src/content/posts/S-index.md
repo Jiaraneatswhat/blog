@@ -4,11 +4,11 @@ published: 1970-01-01 00:00:00
 category: Other
 pinned: true
 ---
-<div style="overflow-x: auto; width: 100%;">
-	<table style="border-collapse: collapse;">
+<div style="max-width: 800px; margin: 0 auto;">
+	<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
 		<tr> 
-			<th style="text-align: center; border: 1px solid #000;">pub_name</th> 
-			<th style="text-align: center; border: 1px solid #000;">chap_name</th>
+			<th style="width: 35%; text-align: center; border: 1px solid #000;">pub_name</th> 
+			<th style="width: 65%; text-align: center; border: 1px solid #000;">chap_name</th>
 		</tr> 
 		<tr> 
 			<td rowspan="9" style="text-align:center; vertical-align:middle; background:#f8e411; border: 1px solid #000;">Campbell's Biology</td>
@@ -39,11 +39,11 @@ pinned: true
 			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch9/">Chapter 9</a></td>
 		</tr> 
 		<tr> 
-			<td rowspan="1" style="text-align:center; vertical-align:middle; background:#f8e411; border: 1px solid #000;">Stern's Introductory Plant Biology</td>
-			<td style="border: 1px solid #000;"><a href="/posts/biology/stern-botany/ch1/">Chapter 1</a></td>
+			<td rowspan="1" style="text-align:center; vertical-align:middle; background:#f8e411; border: 1px solid #000;">Stern's Introductory <br> Plant Biology</td>
+			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/biology/stern-botany/ch1/">Chapter 1</a></td>
 		</tr> 
 		<tr> 
-			<td rowspan="10" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American (May, 2026)</td>
+			<td rowspan="10" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American <br> (May, 2026)</td>
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/an-icy-ear/">An Icy Ear</a></td>
 		</tr> 
 		<tr> 
@@ -74,8 +74,11 @@ pinned: true
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/upright-heart/">Upright Heart</a></td>
 		</tr>
 		<tr> 
-			<td rowspan="1" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">The Economist (May 9th–15th, 2026)</td>
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/economist/2026-05-09-15/biohazard/">Bio Hazards</a></td>
+			<td rowspan="2" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">The Economist <br> (May 9th–15th, 2026)</td>
+			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/almost-protein/">Almost proteins</a></td>
+		</tr> 
+		<tr> 
+			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/biohazard/">Bio hazards</a></td>
 		</tr> 
 	</table>
 </div>
