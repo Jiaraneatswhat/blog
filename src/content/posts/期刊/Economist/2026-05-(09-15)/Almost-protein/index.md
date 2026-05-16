@@ -9,6 +9,8 @@ description: "蛋白近亲：类蛋白物质"
 
 <p style="margin:0!important;text-indent:0!important;font-family: 'Gulliver' !important;"><span style="color:#e3000f;font-weight:bold;padding:0 4px;user-select:none;">Peptideins</span></p>
 
+<div style="height:30px;"></div>
+
 <audio controls> 
     <source src="https://audio.taffybook.cn/Economist/2026-05/078%20Science%20and%20technology%20-%20Peptideins.mp3"> 
 </audio>
