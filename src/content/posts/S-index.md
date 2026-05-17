@@ -4,7 +4,7 @@ published: 1970-01-01 00:00:00
 category: Other
 pinned: true
 ---
-<div style="max-width: 800px; margin: 0 auto;">
+<div style="max-width: 700px; margin: 0 auto;">
 	<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
 		<tr> 
 			<th style="width: 35%; text-align: center; border: 1px solid #000;">pub_name</th> 
@@ -77,7 +77,7 @@ pinned: true
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/upright-heart/">Upright Heart</a></td>
 		</tr>
 		<tr> 
-			<td rowspan="3" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">The Economist <br> (May 9th–15th, 2026)</td>
+			<td rowspan="4" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">The Economist <br> (May 9th–15th, 2026)</td>
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/almost-protein/">Almost proteins</a></td>
 		</tr> 
 		<tr> 
@@ -86,5 +86,8 @@ pinned: true
 		<tr> 
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/red-lights/">Red lights</a></td>
 		</tr> 
+		<tr> 
+			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/commuting/">The pros and cons of commuting</a></td>
+		</tr>
 	</table>
 </div>
