@@ -1,7 +1,7 @@
 ---
 title: "芥川龍之介: 鼻"
 published: 2026-04-29
-tags: [作家別：あ行]
+tags: [あ行]
 category: Literature
 image: "./cover.png"
 description: "鼻"

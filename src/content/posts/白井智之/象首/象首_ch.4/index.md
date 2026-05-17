@@ -1,7 +1,7 @@
 ---
 title: "白井智之: エレファントヘッド 四/増殖"
 published: 2026-03-17
-tags: [作家別：さ行]
+tags: [さ行]
 category: Literature
 image: "./cover.png"
 description: "象首 四/增殖"

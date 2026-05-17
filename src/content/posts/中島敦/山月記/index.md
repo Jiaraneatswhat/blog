@@ -1,7 +1,7 @@
 ---
 title: "中島敦: 山月記"
 published: 2025-01-13
-tags: [作家別：な行]
+tags: [な行]
 category: Literature
 image: "./cover.png"
 description: "山月记"

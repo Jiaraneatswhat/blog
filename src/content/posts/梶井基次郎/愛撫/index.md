@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 愛撫"
 published: 2026-03-06
-tags: [作家別：か行]
+tags: [か行]
 category: Literature
 image: "./cover.png"
 description: "爱抚"

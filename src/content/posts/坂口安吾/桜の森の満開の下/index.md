@@ -1,7 +1,7 @@
 ---
 title: "坂口安吾: 桜の森の満開の下"
 published: 2025-05-23
-tags: [作家別：さ行]
+tags: [さ行]
 category: Literature
 image: "./cover.png"
 description: "盛开的樱花树下"

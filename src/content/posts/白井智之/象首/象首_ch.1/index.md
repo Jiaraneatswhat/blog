@@ -1,7 +1,7 @@
 ---
 title: "白井智之: エレファントヘッド 一/前兆"
 published: 2026-03-10
-tags: [作家別：さ行]
+tags: [さ行]
 category: Literature
 image: "./cover.png"
 description: "象首  一/前兆"

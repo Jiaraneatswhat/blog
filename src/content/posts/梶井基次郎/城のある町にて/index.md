@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 城のある町にて"
 published: 2025-02-16
-tags: [作家別：か行]
+tags: [か行]
 category: Literature
 image: "./cover.png"
 description: "坐落在古城的市街"

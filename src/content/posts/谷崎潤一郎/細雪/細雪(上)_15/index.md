@@ -1,7 +1,7 @@
 ---
 title: "谷崎潤一郎: 细雪(上) 十五"
 published: 2025-05-01 00:26:44
-tags: [作家別：た行]
+tags: [た行]
 category: Literature
 image: "./cover.png"
 description: "十五"

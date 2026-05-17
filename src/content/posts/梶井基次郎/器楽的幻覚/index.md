@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 器楽的幻覚"
 published: 2026-03-09
-tags: [作家別：か行]
+tags: [か行]
 category: Literature
 image: "./cover.png"
 description: "器乐的幻觉"

@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 泥濘"
 published: 2025-02-17
-tags: [作家別：か行]
+tags: [か行]
 category: Literature
 image: "./cover.png"
 description: "泥泞"

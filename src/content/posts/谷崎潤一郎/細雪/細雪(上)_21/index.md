@@ -1,7 +1,7 @@
 ---
 title: "谷崎潤一郎: 细雪(上) 二十一"
 published: 2025-06-10 17:39:54
-tags: [作家別：た行]
+tags: [た行]
 category: Literature
 image: "./cover.png"
 description: "二十一"

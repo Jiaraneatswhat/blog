@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 橡の花"
 published: 2026-03-09
-tags: [作家別：か行]
+tags: [か行]
 category: Literature
 image: "./cover.png"
 description: "七叶树之花"

@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 太郎と街"
 published: 2026-03-09
-tags: [作家別：か行]
+tags: [か行]
 category: Literature
 image: "./cover.png"
 description: "太郎和街"

@@ -1,7 +1,7 @@
 ---
 title: "谷崎潤一郎: 细雪(上) 十"
 published: 2025-04-06 23:30:54
-tags: [作家別：た行]
+tags: [た行]
 category: Literature
 image: "./cover.png"
 description: "十"

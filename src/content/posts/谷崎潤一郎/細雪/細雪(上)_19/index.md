@@ -1,7 +1,7 @@
 ---
 title: "谷崎潤一郎: 细雪(上) 十九"
 published: 2025-05-18 10:59:11
-tags: [作家別：た行]
+tags: [た行]
 category: Literature
 image: "./cover.png"
 description: "十九"

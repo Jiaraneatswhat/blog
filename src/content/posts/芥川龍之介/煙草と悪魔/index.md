@@ -1,7 +1,7 @@
 ---
 title: "芥川龍之介: 煙草と悪魔"
 published: 2026-05-03 21:14:50
-tags: [作家別：あ行]
+tags: [あ行]
 category: Literature
 image: "./cover.png"
 description: "烟草和恶魔"

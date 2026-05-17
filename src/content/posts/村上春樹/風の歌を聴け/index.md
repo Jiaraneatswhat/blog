@@ -1,7 +1,7 @@
 ---
 title: "村上春樹: 風の歌を聴け"
 published: 2025-09-06
-tags: [作家別：ま行]
+tags: [ま行]
 category: Literature
 encrypted: true
 password: 'ranran0307'

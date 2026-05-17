@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 筧の話"
 published: 2026-03-09
-tags: [作家別：か行]
+tags: [か行]
 category: Literature
 image: "./cover.png"
 description: "导水竹管的故事"

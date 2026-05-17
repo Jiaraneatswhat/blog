@@ -1,7 +1,7 @@
 ---
 title: "中島敦: 李陵"
 published: 2026-03-08
-tags: [作家別：な行]
+tags: [な行]
 category: Literature
 image: "./cover.png"
 description: "李陵"

@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 過古"
 published: 2025-02-19
-tags: [作家別：か行]
+tags: [か行]
 category: Literature
 image: "./cover.png"
 description: "过往"

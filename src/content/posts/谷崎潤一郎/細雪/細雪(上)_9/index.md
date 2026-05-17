@@ -1,7 +1,7 @@
 ---
 title: "谷崎潤一郎: 细雪(上) 九"
 published: 2025-04-03 19:56:50
-tags: [作家別：た行]
+tags: [た行]
 category: Literature
 image: "./cover.png"
 description: "九"

@@ -1,7 +1,7 @@
 ---
 title: "江戸川乱歩: 白昼夢"
 published: 2024-10-24
-tags: [作家別：あ行]
+tags: [あ行]
 category: Literature
 image: "./cover.png"
 description: "白昼梦"

@@ -1,7 +1,7 @@
 ---
 title: "白井智之: エレファントヘッド 二/変異"
 published: 2026-03-13
-tags: [作家別：さ行]
+tags: [さ行]
 category: Literature
 image: "./cover.png"
 description: "象首 二/变异" 

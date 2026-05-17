@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 闇の絵巻"
 published: 2026-03-08
-tags: [作家別：か行]
+tags: [か行]
 category: Literature
 image: "./cover.png"
 description: "黑暗画轴"

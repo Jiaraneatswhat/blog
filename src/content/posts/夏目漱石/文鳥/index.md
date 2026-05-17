@@ -1,7 +1,7 @@
 ---
 title: "夏目漱石: 文鳥"
 published: 2026-04-05
-tags: [作家別：な行]
+tags: [な行]
 category: Literature
 image: "./cover.png"
 description: "文鸟"

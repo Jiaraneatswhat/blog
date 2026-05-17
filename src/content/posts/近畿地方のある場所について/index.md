@@ -1,7 +1,7 @@
 ---
 title: "背筋: 近畿地方のある場所について"
 published: 2026-02-12
-tags: [作家別：さ行]
+tags: [さ行]
 category: Literature
 image: "./cover.png"
 description: 近畿怪谈
