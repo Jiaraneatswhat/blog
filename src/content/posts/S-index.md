@@ -39,11 +39,14 @@ pinned: true
 			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch9/">Chapter 9</a></td>
 		</tr> 
 		<tr> 
-			<td rowspan="2" style="text-align:center; vertical-align:middle; background:#f8e411; border: 1px solid #000;">Stern's Introductory <br> Plant Biology</td>
+			<td rowspan="3" style="text-align:center; vertical-align:middle; background:#f8e411; border: 1px solid #000;">Stern's Introductory <br> Plant Biology</td>
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/biology/stern-botany/ch1/">Chapter 1</a></td>
 		</tr>
 		<tr> 
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/biology/stern-botany/ch2/">Chapter 2</a></td>
+		</tr>
+		<tr> 
+			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/biology/stern-botany/ch3/">Chapter 3</a></td>
 		</tr>
 		<tr> 
 			<td rowspan="10" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American <br> (May, 2026)</td>
