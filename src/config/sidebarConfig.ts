@@ -58,7 +58,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件类型：分类组件
 			type: "categories",
 			// 是否启用该组件
-			enable: true,
+			enable: false,
 			// 组件位置
 			position: "sticky",
 			// 是否在文章详情页显示
@@ -69,11 +69,17 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 				collapseThreshold: 5,
 			},
 		},
+	{
+   		 type: "colorLegend",
+   		 enable: true,
+   		 position: "sticky",
+  		 showOnPostPage: true,
+	},
 		{
 			// 组件类型：标签组件
 			type: "tags",
 			// 是否启用该组件
-			enable: true,
+			enable: false,
 			// 组件位置
 			position: "sticky",
 			// 是否在文章详情页显示
@@ -144,17 +150,17 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 配置ID：使用第二个广告配置
 			configId: "ad2",
 		},
-			    {
-					// 组件类型：音乐播放器
-					type: "music",
-					// 是否启用该组件
-					enable: false,
-					// 组件位置
-					position: "sticky",
-					// 是否在文章详情页显示
-					showOnPostPage: false,
-		           showOnNonPostPage: false,
-		            },
+		{
+			// 组件类型：音乐播放器
+			type: "music",
+			// 是否启用该组件
+			enable: false,
+			// 组件位置
+			position: "sticky",
+			// 是否在文章详情页显示
+			showOnPostPage: false,
+		        showOnNonPostPage: false,
+		},
 	],
 
 	// 移动端底部组件配置列表

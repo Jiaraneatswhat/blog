@@ -1,7 +1,7 @@
 ---
 title: "デートアライブ アンコール 1: 十香ゲームセンター"
 published: 2026-05-07 16:28:00
-tags: [约战系列, 轻小说]
+tags: [轻小说]
 category: Literature
 image: "./cover.png"
 description: "约会大作战安可短篇集 1：游乐场十香"

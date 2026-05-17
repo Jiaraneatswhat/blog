@@ -1,0 +1,74 @@
+---
+// src/components/widget/ColorLegend.astro
+---
+
+<widget-layout data-id="colorLegend" data-is-collapsed="false" data-use-expanded-button-spacing="false" class="pb-4 card-base">
+  <div class="widget-title font-bold transition text-lg text-neutral-900 dark:text-neutral-100 relative ml-8 mt-4 mb-3
+              before:w-1 before:h-4 before:rounded-md before:bg-(--primary)
+              before:absolute before:left-[-16px] before:top-[5.5px] flex items-center justify-between">
+    <span class="widget-name">图例</span>
+  </div>
+
+  <div class="px-4 flex flex-col gap-2">
+    <div class="legend-item">
+      <span class="legend-color" style="background-color: #16ad6b;"></span>
+      <span>近代文学</span>
+    </div>
+
+    <div class="legend-item">
+      <span class="legend-color" style="background-color: #2e8b57;"></span>
+      <span>现代文学</span>
+    </div>
+
+    <div class="legend-item">
+      <span class="legend-color" style="background-color: #dfd7d4;"></span>
+      <span>轻小说</span>
+    </div>
+
+    <div class="legend-item">
+      <span class="legend-color" style="background-color: #f8e411;"></span>
+      <span>生物学</span>
+    </div>
+
+    <div class="legend-item">
+      <span class="legend-color" style="background-color: #02aedb;"></span>
+      <span>期刊</span>
+    </div>
+  </div>
+</widget-layout>
+
+<style>
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 6px 8px;
+    border-radius: 8px;
+    transition: background-color 0.15s ease;
+  }
+
+  .legend-item:hover {
+    background-color: var(--btn-plain-bg-hover, rgba(0, 0, 0, 0.04));
+  }
+
+  :global([data-theme="dark"]) .legend-item:hover {
+    background-color: var(--btn-plain-bg-hover, rgba(255, 255, 255, 0.06));
+  }
+
+  .legend-color {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.08);
+  }
+
+  .legend-item span:last-child {
+    font-size: 14px;
+    color: var(--text, #1a1a1a);
+  }
+
+  :global([data-theme="dark"]) .legend-item span:last-child {
+    color: #e5e5e5;
+  }
+</style>

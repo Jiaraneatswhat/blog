@@ -69,6 +69,64 @@ function formatFilterSummary(filters: ActiveFilter[]) {
 		.join("  ·  ");
 }
 
+// 🆕 根据标题和标签获取色块颜色
+function getCategoryColor(post: Post): string {
+	const title = post.data.title || '';
+	const tags = post.data.tags?.map(t => t.toLowerCase()) || [];
+
+	// 芥川龍之介，江戸川乱歩，梶井基次郎，中島敦，夏目漱石 → #16ad6b
+	if (
+		title.includes('芥川龍之介') ||
+		title.includes('江戸川乱歩') ||
+		title.includes('梶井基次郎') ||
+		title.includes('中島敦') ||
+		title.includes('夏目漱石')
+	) {
+		return 'bg-[#16ad6b]';
+	}
+
+	// 鎌池和馬，橘公司，西尾維新 → #dfd7d4
+	if (
+		title.includes('鎌池和馬') ||
+		title.includes('橘公司') ||
+		title.includes('西尾維新')
+	) {
+		return 'bg-[#dfd7d4]';
+	}
+
+	// 村上春樹，谷崎潤一郎，坂口安吾，白井智之，背筋 → #2e8b57
+	if (
+		title.includes('村上春樹') ||
+		title.includes('谷崎潤一郎') ||
+		title.includes('坂口安吾') ||
+		title.includes('白井智之') ||
+		title.includes('背筋')
+	) {
+		return 'bg-[#2e8b57]';
+	}
+
+	// 生物学 → #f8e411（标签判断）
+	if (tags.includes('生物学')) {
+		return 'bg-[#f8e411]';
+	}
+
+	// 期刊 → #02aedb（标签判断）
+	if (
+		tags.includes('期刊') ||
+		tags.includes('journal')
+	) {
+		return 'bg-[#02aedb]';
+	}
+
+	// 轻小说 → #dfd7d4（标签判断）
+	if (tags.includes('轻小说')) {
+		return 'bg-[#dfd7d4]';
+	}
+
+	// 其他 → 灰色
+	return 'bg-gray-400';
+}
+
 onMount(async () => {
 	let filteredPosts: Post[] = sortedPosts;
 	const currentFilters: ActiveFilter[] = [];
@@ -112,7 +170,6 @@ onMount(async () => {
 		filteredPosts = filteredPosts.filter((post) => !post.data.category);
 	}
 
-	// 按发布时间倒序排序，确保不受置顶影响
 	filteredPosts = filteredPosts
 		.slice()
 		.sort((a, b) => b.data.published.getTime() - a.data.published.getTime());
@@ -171,7 +228,7 @@ onMount(async () => {
 				</div>
 				<div class="w-[15%] md:w-[10%]">
 					<div
-							class="h-3 w-3 bg-none rounded-full outline outline-(--primary) mx-auto
+						class="h-3 w-3 bg-none rounded-full outline outline-(--primary) mx-auto
                   -outline-offset-2 z-50 outline-3"
 					></div>
 				</div>
@@ -182,9 +239,9 @@ onMount(async () => {
 
 			{#each group.posts as post}
 				<a
-						href={getPostUrlBySlug(post.id)}
-						aria-label={post.data.title}
-						class="group btn-plain block! h-10 w-full rounded-lg hover:text-[initial]"
+					href={getPostUrlBySlug(post.id)}
+					aria-label={post.data.title}
+					class="group btn-plain block! h-10 w-full rounded-lg hover:text-[initial]"
 				>
 					<div class="flex flex-row justify-start items-center h-full">
 						<!-- date -->
@@ -195,7 +252,7 @@ onMount(async () => {
 						<!-- dot and line -->
 						<div class="w-[15%] md:w-[10%] relative dash-line h-full flex items-center">
 							<div
-									class="transition-all mx-auto w-1 h-1 rounded group-hover:h-5
+								class="transition-all mx-auto w-1 h-1 rounded group-hover:h-5
                        bg-[oklch(0.5_0.05_var(--hue))] group-hover:bg-(--primary)
                        outline outline-4 z-50
                        outline-(--card-bg)
@@ -204,18 +261,24 @@ onMount(async () => {
 							></div>
 						</div>
 
-						<!-- post title -->
-						<div
-								class="w-[70%] md:max-w-[65%] md:w-[65%] text-left font-bold
-                     group-hover:translate-x-1 transition-all group-hover:text-(--primary)
-                     text-75 pr-8 whitespace-nowrap text-ellipsis overflow-hidden"
-						>
-							{post.data.title}
-						</div>
+						<!-- post title with color block -->
+<div
+    class="w-[70%] md:max-w-[65%] md:w-[65%] text-left font-bold
+         group-hover:translate-x-1 transition-all group-hover:text-(--primary)
+         text-75 pr-8 flex items-center gap-2.5"
+>
+    <span 
+        class="flex-shrink-0 w-4 h-4 rounded-md {getCategoryColor(post)}"
+        title={post.data.tags[0] || post.data.category || '未分类'}
+    ></span>
+    <span class="whitespace-nowrap text-ellipsis overflow-hidden">
+        {post.data.title}
+    </span>
+</div>
 
 						<!-- tag list -->
 						<div
-								class="hidden md:block md:w-[15%] text-left text-sm transition
+							class="hidden md:block md:w-[15%] text-left text-sm transition
                      whitespace-nowrap text-ellipsis overflow-hidden text-30"
 						>
 							{formatTag(post.data.tags)}

@@ -1,7 +1,7 @@
 ---
 title: "芥川龍之介: 或日の大石内蔵助"
 published: 2026-05-05 21:50:00
-tags: [芥川龍之介, 近代文学]
+tags: [作家別：あ行]
 category: Literature
 image: "./cover.png"
 description: "大石内蔵助的一天"

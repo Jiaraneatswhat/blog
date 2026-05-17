@@ -1,7 +1,7 @@
 ---
 title: "村上春樹: 1973 年のピンボール"
 published: 2026-02-16
-tags: [村上春樹, 现代文学]
+tags: [作家別：ま行]
 category: Literature
 image: "./images/cover.png"
 encrypted: true

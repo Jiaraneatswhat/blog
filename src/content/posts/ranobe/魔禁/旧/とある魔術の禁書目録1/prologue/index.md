@@ -1,7 +1,7 @@
 ---
 title: "とある魔術の禁書目録 1: 序章 幻想殺しの少年のお話 The_Imagine-Breaker."
 published: 2026-03-17
-tags: [魔禁系列, 轻小说]
+tags: [轻小说]
 category: Literature
 image: "./cover.png"
 description: "魔法禁书目录 1：序章"

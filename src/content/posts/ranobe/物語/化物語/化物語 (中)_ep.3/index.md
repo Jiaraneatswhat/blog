@@ -1,7 +1,7 @@
 ---
 title: "化物語(中): 第三話 するがモンキー"
 published: 2025-01-15
-tags: [物语系列, 西尾維新, 轻小说]
+tags: [轻小说]
 category: Literature
 image: "./cover.png"
 description: "第三话"

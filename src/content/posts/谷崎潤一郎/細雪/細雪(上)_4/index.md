@@ -1,7 +1,7 @@
 ---
 title: "谷崎潤一郎: 细雪(上) 四"
 published: 2025-03-26 20:58:23
-tags: [谷崎潤一郎, 现代文学]
+tags: [作家別：た行]
 category: Literature
 image: "./cover.png"
 description: "四"

@@ -1,7 +1,7 @@
 ---
 title: "芥川龍之介: 手巾"
 published: 2026-05-03 18:14:50
-tags: [芥川龍之介, 近代文学]
+tags: [作家別：あ行]
 category: Literature
 image: "./cover.png"
 description: "手绢"

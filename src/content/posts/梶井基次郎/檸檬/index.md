@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 檸檬"
 published: 2025-02-11
-tags: [梶井基次郎, 近代文学]
+tags: [作家別：か行]
 category: Literature
 image: "./cover.png"
 description: "柠檬"

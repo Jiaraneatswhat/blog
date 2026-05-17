@@ -1,7 +1,7 @@
 ---
 title: "白井智之: エレファントヘッド 三/分裂"
 published: 2026-03-15
-tags: [白井智之, 现代文学]
+tags: [作家別：さ行]
 category: Literature
 image: "./cover.png"
 description: "象首 三/分裂"

@@ -1,7 +1,7 @@
 ---
 title: "梶井基次郎: 桜の樹の下には"
 published: 2026-03-08
-tags: [梶井基次郎, 近代文学]
+tags: [作家別：か行]
 category: Literature
 image: "./cover.png"
 description: "在樱树下"

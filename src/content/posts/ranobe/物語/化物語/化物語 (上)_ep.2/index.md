@@ -1,7 +1,7 @@
 ---
 title: "化物語(上): 第二話 まよいマイマイ"
 published: 2024-12-04
-tags: [物语系列, 西尾維新, 轻小说]
+tags: [轻小说]
 category: Literature
 image: "./cover.png"
 description: "第二话"

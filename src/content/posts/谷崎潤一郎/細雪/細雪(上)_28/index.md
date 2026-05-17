@@ -1,7 +1,7 @@
 ---
 title: "谷崎潤一郎: 细雪(上) 二十八"
 published: 2026-01-26 12:19:23
-tags: [谷崎潤一郎, 现代文学]
+tags: [作家別：た行]
 category: Literature
 image: "./cover.png"
 description: "二十八"
