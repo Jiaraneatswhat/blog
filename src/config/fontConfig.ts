@@ -5,7 +5,7 @@ export const fontConfig = {
 	// 是否预加载字体文件
 	preload: true,
 	// 当前选择的字体，支持多个字体组合
-	selected: ["fusion-pixel"],
+	selected: ["fusion-pixel", "gulliver-regular", "lxgw-wenkai"],
 
 	// 字体列表
 	fonts: {
@@ -27,27 +27,28 @@ export const fontConfig = {
 			display: "swap" as const,
 		},
 
-	// Gulliver Regular 英文专用（.otf 版本）
+		// Gulliver Regular 英文专用（.otf 版本）
 	"gulliver-regular": {
-		id: "gulliver-regular",
-		name: "Gulliver Regular",
-		src: "/assets/fonts/Gulliver-Regular.otf",		
-		family: "Gulliver",
-		display: "swap" as const,
-	},
+			id: "gulliver-regular",
+			name: "Gulliver Regular",
+			src: "/assets/fonts/Gulliver-Regular.otf",		
+			family: "Gulliver",
+			display: "swap" as const,
+		},
 
 	"fusion-pixel": {
-		id: "fusion-pixel",
-		name: "FusionPixel",
-		src: "/assets/fonts/fusion-pixel-ja.ttf",		
-		family: "FusionPixel",
-		display: "swap" as const,
-	},
+			id: "fusion-pixel",
+			name: "FusionPixel",
+			src: "/assets/fonts/fusion-pixel-ja.ttf",		
+			family: "FusionPixel",
+			display: "swap" as const,
+		},
+
 	},
 
 	// 全局字体回退
 	fallback: [
-	"fusion-pixel",        
+	"fusion-pixel",      
 	"LXGW WenKai",     
 		"system-ui",
 		"-apple-system",
