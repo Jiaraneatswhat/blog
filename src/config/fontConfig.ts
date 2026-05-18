@@ -5,7 +5,7 @@ export const fontConfig = {
 	// 是否预加载字体文件
 	preload: true,
 	// 当前选择的字体，支持多个字体组合
-	selected: ["lxgw-wenkai", "gulliver-regular"],
+	selected: ["fusion-pixel"],
 
 	// 字体列表
 	fonts: {
@@ -35,12 +35,20 @@ export const fontConfig = {
 		family: "Gulliver",
 		display: "swap" as const,
 	},
+
+	"fusion-pixel": {
+		id: "fusion-pixel",
+		name: "FusionPixel",
+		src: "/assets/fonts/fusion-pixel-ja.ttf",		
+		family: "FusionPixel",
+		display: "swap" as const,
+	},
 	},
 
 	// 全局字体回退
 	fallback: [
-	"Gulliver",        // 英文、数字优先
-	"LXGW WenKai",     // 中文、日文优先
+	"fusion-pixel",        
+	"LXGW WenKai",     
 		"system-ui",
 		"-apple-system",
 		"BlinkMacSystemFont",
