@@ -71,10 +71,10 @@ description: "蛋白近亲：类蛋白物质"
 
 <font color="#548dd4">对肽素的研究深入程度，将决定这一名称能否广为流传。倘若最终证实其大多无实际价值，这个名词很快便会被人淡忘；可一旦相关研究取得重大成果，日后我们便会频繁听到这个叫法。</font>
 
-[^1]: <span style="font-family: Gulliver;">**boil down to**</span>：归结于
+[^1]: **boil down to**：归结于
 
-[^2]: <span style="font-family: Gulliver;">**shrivel** /ˈʃrɪvl/: to become smaller and weaker, or less in amount</span>
+[^2]: **shrivel** /ˈʃrɪvl/: to become smaller and weaker, or less in amount
 
-[^3]: <span style="font-family: Gulliver;">**befuddle** /bɪˈfʌdl/: v. to confuse someone greatly</span>
+[^3]: **befuddle** /bɪˈfʌdl/: v. to confuse someone greatly
 
-[^4]: <span style="font-family: Gulliver;">**damp squib**</span>：受潮的爆竹，喻预期中精彩但实际平淡或失败的事件
+[^4]: **damp squib**：受潮的爆竹，喻预期中精彩但实际平淡或失败的事件

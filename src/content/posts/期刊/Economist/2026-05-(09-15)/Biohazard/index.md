@@ -83,28 +83,28 @@ description: "AI如何助长生物恐怖主义：生物危害"
 
 <font color="#548dd4">这种审慎做法已有先例。上个月，Anthropic 宣布限制其顶尖网络安全模型 Mythos 的访问权限，直至该模型带来的风险得到妥善解决。倘若研发方发现某款模型在危险生物能力上出现大幅跃升，同样明智的做法是严加管控、限制使用，直至其能力增益的潜在风险被彻底摸清。事关如此重大的安危风险，多一分审慎克制，便能规避诸多后患。</font>
 
-[^1]: <span style="font-family: Gulliver;">**an axe to grind**</span>: 别有用心
+[^1]: **an axe to grind**: 别有用心
 
-[^2]: <span style="font-family: Gulliver;">**pathogen**</span>：病原体
+[^2]: **pathogen**：病原体
 
-[^3]: <span style="font-family: Gulliver;">**innocuous** /ɪˈnɒkjuəs/: adj. not harmful or dangerous in any way</span>
+[^3]: **innocuous** /ɪˈnɒkjuəs/: adj. not harmful or dangerous in any way
 
-[^4]: <span style="font-family: Gulliver;">**scant** /skænt/: adj. very little; not enough in amount or degree</span>
+[^4]: **scant** /skænt/: adj. very little; not enough in amount or degree
 
-[^5]: <span style="font-family: Gulliver;">**on the cusp of**</span>: 正处在…… 的临界点
+[^5]: **on the cusp of**: 正处在…… 的临界点
 
-[^6]: <span style="font-family: Gulliver;">**poliovirus**</span>: 脊髓灰质炎病毒，损害脊髓前角运动神经细胞，导致肢体松弛性麻痹，多见于儿童，故又名小儿麻痹症
+[^6]: **poliovirus**: 脊髓灰质炎病毒，损害脊髓前角运动神经细胞，导致肢体松弛性麻痹，多见于儿童，故又名小儿麻痹症
 
-[^7]: <span style="font-family: Gulliver;">**emeritus** /ɪˈmerɪtəs/: adj. retired but still keeping an honorary title</span>
+[^7]: **emeritus** /ɪˈmerɪtəs/: adj. retired but still keeping an honorary title
 
-[^8]: <span style="font-family: Gulliver;">**glean** /ɡliːn/: v. to obtain information, knowledge etc. slowly and with difficulty</span>
+[^8]: **glean** /ɡliːn/: v. to obtain information, knowledge etc. slowly and with difficulty
 
-[^9]: <span style="font-family: Gulliver;">**chops**: chops</span> 可表示专业技艺
+[^9]: **chops**: chops 可表示专业技艺
 
-[^10]: <span style="font-family: Gulliver;">**on a par with:**</span> 与…… 水准相当
+[^10]: **on a par with:** 与…… 水准相当
 
-[^11]: <span style="font-family: Gulliver;">**sycophantic** /ˌsɪkəˈfæntɪk/: adj. behaving in a way that praises powerful/other people too much, just to gain favour</span>
+[^11]: **sycophantic** /ˌsɪkəˈfæntɪk/: adj. behaving in a way that praises powerful/other people too much, just to gain favour
 
-[^12]: <span style="font-family: Gulliver;">**for the time being**</span>: 表示某事在当前阶段有效或适用，但未来可能会改变
+[^12]: **for the time being**: 表示某事在当前阶段有效或适用，但未来可能会改变
 
-[^13]: <span style="font-family: Gulliver;">**resilience**</span>：城市韧性，指城市在灾害中抵御冲击、快速恢复并提升适应能力的综合能力
+[^13]: **resilience**：城市韧性，指城市在灾害中抵御冲击、快速恢复并提升适应能力的综合能力

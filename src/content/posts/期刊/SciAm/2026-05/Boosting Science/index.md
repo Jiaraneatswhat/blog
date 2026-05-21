@@ -69,22 +69,22 @@ description: "助力科研：NASA 拯救濒危空间望远镜的大胆计划内�
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>Meghan Bartels</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**NEIL GEHRELS Swift Observatory**</span>：尼尔・格雷尔斯雨燕天文台，美国宇航局、英国、意大利联合研制的多波段空间天文台
+[^1]: **NEIL GEHRELS Swift Observatory**：尼尔・格雷尔斯雨燕天文台，美国宇航局、英国、意大利联合研制的多波段空间天文台
 
-[^2]: <span style="font-family: Gulliver;">**gamma-ray burst**</span>：γ 射线暴，来自天空中某一方向的伽玛射线强度在短时间内突然增强，随后又迅速减弱的现象，是已知宇宙中最强的能量爆发现象之一
+[^2]: **gamma-ray burst**：γ 射线暴，来自天空中某一方向的伽玛射线强度在短时间内突然增强，随后又迅速减弱的现象，是已知宇宙中最强的能量爆发现象之一
 
-[^3]: <span style="font-family: Gulliver;">**smidgen** /ˈsmɪdʒɪn/: n. a small amount</span>
+[^3]: **smidgen** /ˈsmɪdʒɪn/: n. a small amount
 
-[^4]: <span style="font-family: Gulliver;">**tenure** /ˈtenjər/: n. the act, right, manner, or term of holding something</span>
+[^4]: **tenure** /ˈtenjər/: n. the act, right, manner, or term of holding something
 
-[^5]: <span style="font-family: Gulliver;">**glom on to**: to grab hold of</span>
+[^5]: **glom on to**: to grab hold of
 
-[^6]: <span style="font-family: Gulliver;">**agile** /ˈædʒəl/: adj. marked by ready ability to move with quick easy grace</span>
+[^6]: **agile** /ˈædʒəl/: adj. marked by ready ability to move with quick easy grace
 
-[^7]: <span style="font-family: Gulliver;">**ramp up**: to increase in amount, speed, or activity gradually and steadily</span>
+[^7]: **ramp up**: to increase in amount, speed, or activity gradually and steadily
 
-[^8]: <span style="font-family: Gulliver;">**solar maximum**</span>: 太阳活动极大期，太阳活动周期中太阳黑子、耀斑、日冕物质抛射等现象达到最频繁和最强烈的阶段
+[^8]: **solar maximum**: 太阳活动极大期，太阳活动周期中太阳黑子、耀斑、日冕物质抛射等现象达到最频繁和最强烈的阶段
 
-[^9]: <span style="font-family: Gulliver;">**days are numbered**: to be likely to stop existing or fail very soon</span>
+[^9]: **days are numbered**: to be likely to stop existing or fail very soon
 
-[^10]: <span style="font-family: Gulliver;">**behemoth** /bɪˈhiːməθ/: n. something enormous or powerful</span>
+[^10]: **behemoth** /bɪˈhiːməθ/: n. something enormous or powerful

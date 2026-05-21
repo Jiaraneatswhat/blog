@@ -53,46 +53,46 @@ description: "爱之岛：罕见浆果大丰收，引爆鸮鹦鹉生育潮"
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>Elizabeth Anne Brown</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**Kākāpō**</span>：毛利语，kākā = 鹦鹉，pō = 夜晚
+[^1]: **Kākāpō**：毛利语，kākā = 鹦鹉，pō = 夜晚
 
-[^2]: <span style="font-family: Gulliver;">**Furby**</span>：菲比精灵，美国孩之宝公司于 1998 年推出的电子互动玩具
+[^2]: **Furby**：菲比精灵，美国孩之宝公司于 $1998$ 年推出的电子互动玩具
 
-[^3]: <span style="font-family: Gulliver;">**preposterous** /prɪˈpɒstərəs/: adj. contrary to reason or common sense; utterly absurd or ridiculous</span>
+[^3]: **preposterous** /prɪˈpɒstərəs/: adj. contrary to reason or common sense; utterly absurd or ridiculous
 
-[^4]: <span style="font-family: Gulliver;">**nocturnal** /nɒkˈtɜːnl/: adj. active at night; happening or relating to the night</span>
+[^4]: **nocturnal** /nɒkˈtɜːnl/: adj. active at night; happening or relating to the night
 
-[^5]: <span style="font-family: Gulliver;">**lime** /laɪm/: n. a pale green colour; a small round citrus fruit with sour juice</span>
+[^5]: **lime** /laɪm/: n. a pale green colour; a small round citrus fruit with sour juice
 
-[^6]: <span style="font-family: Gulliver;">**musk** /mʌsk/: n. a strong, sweet-smelling substance produced by certain animals; a similar scent used in perfume</span>
+[^6]: **musk** /mʌsk/: n. a strong, sweet-smelling substance produced by certain animals; a similar scent used in perfume
 
-[^7]: <span style="font-family: Gulliver;">**chagrin** /ˈʃæɡrɪn/: n. a feeling of annoyance, disappointment, or embarrassment because of something unpleasant that has happened</span>
+[^7]: **chagrin** /ˈʃæɡrɪn/: n. a feeling of annoyance, disappointment, or embarrassment because of something unpleasant that has happened
 
-[^8]: <span style="font-family: Gulliver;">**prolifically** /prəˈlɪfɪkli/: adv. in a way that produces many offspring, works, or results; abundantly and frequently</span>
+[^8]: **prolifically** /prəˈlɪfɪkli/: adv. in a way that produces many offspring, works, or results; abundantly and frequently
 
-[^9]: <span style="font-family: Gulliver;">**conifer** /ˈkɒnɪfə(r)/: n. a tree with needles or leaves that stay green all year, and produces cones; evergreen tree</span>
+[^9]: **conifer** /ˈkɒnɪfə(r)/: n. a tree with needles or leaves that stay green all year, and produces cones; evergreen tree
 
-[^10]: <span style="font-family: Gulliver;">**bumper crop**</span>: 大丰收
+[^10]: **bumper crop**: 大丰收
 
-[^11]: <span style="font-family: Gulliver;">**courtship** /ˈkɔːtʃɪp/: n. the behaviour of animals when looking for a mate; the time and process of trying to attract someone to marry</span>
+[^11]: **courtship** /ˈkɔːtʃɪp/: n. the behaviour of animals when looking for a mate; the time and process of trying to attract someone to marry
 
-[^12]: <span style="font-family: Gulliver;">**stumpy** /ˈstʌmpi/: adj. short and thick, often looking clumsy</span>
+[^12]: **stumpy** /ˈstʌmpi/: adj. short and thick, often looking clumsy
 
-[^13]: <span style="font-family: Gulliver;">**stomp out**: to create or mark an area by treading heavily with the feet</span>
+[^13]: **stomp out**: to create or mark an area by treading heavily with the feet
 
-[^14]: <span style="font-family: Gulliver;">**amphitheater** /ˈæmfɪθiːətə(r)/: n. a round or oval open-air place with rows of seats rising around a central open area; a bowl-shaped hollow place</span>
+[^14]: **amphitheater** /ˈæmfɪθiːətə(r)/: n. a round or oval open-air place with rows of seats rising around a central open area; a bowl-shaped hollow place
 
-[^15]: <span style="font-family: Gulliver;">**fledge** /fledʒ/: v. (of a young bird) to grow feathers and become able to fly and leave the nest</span>
+[^15]: **fledge** /fledʒ/: v. (of a young bird) to grow feathers and become able to fly and leave the nest
 
-[^16]: <span style="font-family: Gulliver;">**Don Juan**</span>: 唐·璜，源自西班牙民间传说的传奇风流人物，现在代指花花公子
+[^16]: **Don Juan**: 唐·璜，源自西班牙民间传说的传奇风流人物，现在代指花花公子
 
-[^17]: <span style="font-family: Gulliver;">**talon** /ˈtælən/: n. a sharp curved claw of a bird of prey or other animal</span>
+[^17]: **talon** /ˈtælən/: n. a sharp curved claw of a bird of prey or other animal
 
-[^18]: <span style="font-family: Gulliver;">**canopy** /ˈkænəpi/</span>：树冠层，由林木顶端枝叶形成的连续覆盖层，由树枝和树叶组成，具有生态学覆盖功能
+[^18]: **canopy** /ˈkænəpi/：树冠层，由林木顶端枝叶形成的连续覆盖层，由树枝和树叶组成，具有生态学覆盖功能
 
-[^19]: **matriarch** /ˈmeɪtriɑːrk/: n. a respected older female who is the leader of a family, group, or animal community</span>
+[^19]: **matriarch** /ˈmeɪtriɑːrk/: n. a respected older female who is the leader of a family, group, or animal community
 
-[^20]: <span style="font-family: Gulliver;">**dandelion** /ˈdændɪlaɪən/</span>: 蒲公英
+[^20]: **dandelion** /ˈdændɪlaɪən/: 蒲公英
 
-[^21]: <span style="font-family: Gulliver;">**teeter** /ˈtiːtə(r)/: v. to be in an unstable, precarious situation, close to failure or collapse</span>
+[^21]: **teeter** /ˈtiːtə(r)/: v. to be in an unstable, precarious situation, close to failure or collapse
 
-[^22]: <span style="font-family: Gulliver;">**pungent** /ˈpʌndʒənt/: adj. having a strong, sharp, intense smell or taste</span>
+[^22]: **pungent** /ˈpʌndʒənt/: adj. having a strong, sharp, intense smell or taste

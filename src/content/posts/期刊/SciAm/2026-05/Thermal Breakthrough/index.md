@@ -35,4 +35,4 @@ description: "导热领域重大突破：新型超级导热体挑战基础物理
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>Rachel Nuwer</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**phonon**</span>：声子，晶体晶格振动的量子化能量单元
+[^1]: **phonon**：声子，晶体晶格振动的量子化能量单元

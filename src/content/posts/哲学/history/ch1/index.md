@@ -105,22 +105,22 @@ description: "西方哲学史 第一章：导论"
 
 <font color="#548dd4">有人或许认为这种研究视角会削弱本书价值，理由是哲学与宗教本应泾渭分明。我同样认同二者必须加以区分，但我主张，若能充分兼顾哲学思想与宗教信仰之间的关联，所撰写的西方哲学史会更加完善、更加贴合史实。当代部分哲学家或许对宗教兴致寥寥，但几乎所有古代、中世纪乃至近代欧洲思想巨匠，都极度关注有关神明与精神实在的相关议题。倘若一部哲学史忽视这一事实，其内容必然有所欠缺，这就如同抛开哲学与科学发展之间的关联来撰写哲学史，同样会存在巨大缺憾。</font>
 
-[^1]: <span style="font-family: Gulliver;">**ostensive** /ɑːˈstensɪv/: adj. showing or pointing out directly</span>
+[^1]: **ostensive** /ɑːˈstensɪv/: adj. showing or pointing out directly
 
-[^2]: <span style="font-family: Gulliver;">**Hellenistic**</span> /ˌhelɪˈnɪstɪk/: 希腊化，指从公元前 $3$ 世纪开始，希腊文化向非希腊语地区传播并与当地文化交融的现象
+[^2]: **Hellenistic** /ˌhelɪˈnɪstɪk/: 希腊化，指从公元前 $3$ 世纪开始，希腊文化向非希腊语地区传播并与当地文化交融的现象
 
-[^3]: <span style="font-family: Gulliver;">**theology** /θiˈɑːlədʒi/: n. the study of religion and religious beliefs, especially about God</span>
+[^3]: **theology** /θiˈɑːlədʒi/: n. the study of religion and religious beliefs, especially about God
 
-[^4]: <span style="font-family: Gulliver;">**etymological** /ˌetɪməˈlɑːdʒɪkl/: adj. relating to the origin and history of words</span>
+[^4]: **etymological** /ˌetɪməˈlɑːdʒɪkl/: adj. relating to the origin and history of words
 
-[^5]: <span style="font-family: Gulliver;">**sheer** /ʃɪr/: adj. used to emphasize that something is complete or total</span>
+[^5]: **sheer** /ʃɪr/: adj. used to emphasize that something is complete or total
 
-[^6]: <span style="font-family: Gulliver;">**epistemology** /ɪˌpɪstəˈmɑːlədʒi/: n. the branch of philosophy that studies the nature, origin and limits of human knowledge</span>
+[^6]: **epistemology** /ɪˌpɪstəˈmɑːlədʒi/: n. the branch of philosophy that studies the nature, origin and limits of human knowledge
 
-[^7]: <span style="font-family: Gulliver;">**William James** (1842－1910)：美国心理学家和哲学家，美国机能主义心理学和实用主义哲学的先驱
+[^7]: **William James** (1842－1910)：美国心理学家和哲学家，美国机能主义心理学和实用主义哲学的先驱
 
-[^8]: <span style="font-family: Gulliver;">**obstinate** /ˈɑːbstənət/: adj. stubborn; determined not to change one's attitude</span>
+[^8]: **obstinate** /ˈɑːbstənət/: adj. stubborn; determined not to change one's attitude
 
-[^9]: <span style="font-family: Gulliver;">**Thomas Nagel** (1937－)：美国当代著名哲学家
+[^9]: **Thomas Nagel** (1937－)：美国当代著名哲学家
 
-[^10]: <span style="font-family: Gulliver;">**repugnant** /rɪˈpʌɡnənt/: adj. conflicting or incompatible with something</span>
+[^10]: **repugnant** /rɪˈpʌɡnənt/: adj. conflicting or incompatible with something

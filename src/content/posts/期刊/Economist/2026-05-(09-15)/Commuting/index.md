@@ -63,16 +63,16 @@ description: "通勤的利弊：人人都抱怨通勤耗时久，管理者是否
 
 <font color="#548dd4">这一点在特定情况中尤为明显。穆拉利奇参与撰写的一篇论文，分析了</font> $\textcolor{#548dd4}{2003}$ <font color="#548dd4">至</font> $\textcolor{#548dd4}{2013}$ <font color="#548dd4">年丹麦全体在职人群数据后发现：通勤路程远的女性，生育后跳槽换工作的概率会成倍增加，而男性则无此明显变化。人人都说希望缩短通勤时长，新晋妈妈们对此更是由衷迫切。</font>
 
-[^1]: <span style="font-family: Gulliver;">**lop** /lɑːp/: v. to cut or reduce something by a large amount</span>
+[^1]: **lop** /lɑːp/: v. to cut or reduce something by a large amount
 
-[^2]: <span style="font-family: Gulliver;">**hefty** /ˈhefti/: adj. large in size, amount or time</span>
+[^2]: **hefty** /ˈhefti/: adj. large in size, amount or time
 
-[^3]: <span style="font-family: Gulliver;">**protracted** /prəˈtræktɪd/: adj. lasting for a long time, often longer than wanted</span>
+[^3]: **protracted** /prəˈtræktɪd/: adj. lasting for a long time, often longer than wanted
 
-[^4]: <span style="font-family: Gulliver;">**amenity** /əˈmiːnəti/: n. something that makes life easier/comfortable</span>
+[^4]: **amenity** /əˈmiːnəti/: n. something that makes life easier/comfortable
 
-[^5]: <span style="font-family: Gulliver;">**burble** /ˈbɜːrbl/: v. talk quickly and continuously, often in a casual</span>
+[^5]: **burble** /ˈbɜːrbl/: v. talk quickly and continuously, often in a casual
 
-[^6]: <span style="font-family: Gulliver;">**pompous** /ˈpɑːmpəs/: adj. too formal, grand and self-important</span>
+[^6]: **pompous** /ˈpɑːmpəs/: adj. too formal, grand and self-important
 
-[^7]: <span style="font-family: Gulliver;">**defray** /dɪˈfreɪ/: v. to pay money for costs or expenses</span>
+[^7]: **defray** /dɪˈfreɪ/: v. to pay money for costs or expenses

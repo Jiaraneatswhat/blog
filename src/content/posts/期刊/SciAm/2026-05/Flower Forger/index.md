@@ -31,10 +31,10 @@ description: "仿花高手：斑蝥幼虫通力协作，从外形到气味完美
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>Chris Simms</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**shimmy** /ˈʃɪmi/: v. to move with small, quick, twisting or wiggling motions</span>
+[^1]: **shimmy** /ˈʃɪmi/: v. to move with small, quick, twisting or wiggling motions
 
-[^2]: <span style="font-family: Gulliver;">**linalool**</span>: 芳樟醇 ($\text{C}_{10}\text{H}_{18}\text{O}$)，广泛存在于花卉、香草中，是香水、植物香气里的核心香型物质
+[^2]: **linalool**: 芳樟醇 ($\text{C}_{10}\text{H}_{18}\text{O}$)，广泛存在于花卉、香草中，是香水、植物香气里的核心香型物质
 
-[^3]: <span style="font-family: Gulliver;">**pupate** /ˈpjuːpeɪt/: v. to pass into the pupa stage of life</span>
+[^3]: **pupate** /ˈpjuːpeɪt/: v. to pass into the pupa stage of life
 
-[^4]: <span style="font-family: Gulliver;">**entomologist** /ˌentəˈmɒlədʒɪst/: n. a scientist who studies insects, their structure, behavior, classification and ecology</span>
+[^4]: **entomologist** /ˌentəˈmɒlədʒɪst/: n. a scientist who studies insects, their structure, behavior, classification and ecology

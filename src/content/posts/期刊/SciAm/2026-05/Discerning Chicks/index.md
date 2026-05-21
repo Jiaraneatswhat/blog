@@ -49,7 +49,7 @@ description: "善于辨识的雏鸡：一项看似 “头脑简单” 的布巴-
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>Cody Cottier</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**blotch** /blɑːtʃ/: n. a large irregular spot or patch of colour, light, etc.</span>
+[^1]: **blotch** /blɑːtʃ/: n. a large irregular spot or patch of colour, light, etc.
 
 
-[^2]: <span style="font-family: Gulliver;">**reminiscent** /ˌremɪˈnɪsnt/: adj. making you remember or think of someone/something</span>
+[^2]: **reminiscent** /ˌremɪˈnɪsnt/: adj. making you remember or think of someone/something

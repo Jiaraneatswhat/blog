@@ -47,12 +47,12 @@ description: "古老符号体系：石器时代艺术或揭示距今 4 万年的
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>Jackie Flynn Mogensen</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**figurine** /ˌfɪɡəˈriːn/: n. a small decorative statue of a person or animal, made of stone, ivory, clay, etc.</span>
+[^1]: **figurine** /ˌfɪɡəˈriːn/: n. a small decorative statue of a person or animal, made of stone, ivory, clay, etc.
 
-[^2]: <span style="font-family: Gulliver;">**cuneiform** /ˈkjuːnɪfɔːm/: n. an ancient system of writing used in Mesopotamia, made of wedge-shaped marks pressed into clay tablets</span>
+[^2]: **cuneiform** /ˈkjuːnɪfɔːm/: n. an ancient system of writing used in Mesopotamia, made of wedge-shaped marks pressed into clay tablets
 
-[^3]: <span style="font-family: Gulliver;">**paleoanthropologist** /ˌpeɪliəʊˌænθrəˈpɒlədʒɪst/: n. a scientist who studies the origins and development of early humans using fossil remains and ancient artifacts</span>
+[^3]: **paleoanthropologist** /ˌpeɪliəʊˌænθrəˈpɒlədʒɪst/: n. a scientist who studies the origins and development of early humans using fossil remains and ancient artifacts
 
-[^4]: <span style="font-family: Gulliver;">**doodle** /ˈduːdl/: n. simple, unconscious drawings made idly, without serious purpose</span>
+[^4]: **doodle** /ˈduːdl/: n. simple, unconscious drawings made idly, without serious purpose
 
-[^5]: <span style="font-family: Gulliver;">**tally** /ˈtæli/: n. marks made to keep a count or record of something</span>
+[^5]: **tally** /ˈtæli/: n. marks made to keep a count or record of something

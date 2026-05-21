@@ -33,12 +33,12 @@ description: "冰原侦听之耳：全球最深探测仪，可监测地球上任
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>Vanessa Bates Ramirez</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**ripple** /ˈrɪpl/: v. to spread out in small waves or gentle vibrations across a surface or through a substance</span>
+[^1]: **ripple** /ˈrɪpl/: v. to spread out in small waves or gentle vibrations across a surface or through a substance
 
-[^2]: <span style="font-family: Gulliver;">**seismometer** /saɪzˈmɒmɪtə(r)/: n. an instrument that detects and measures vibrations and seismic waves caused by earthquakes or underground movements</span>
+[^2]: **seismometer** /saɪzˈmɒmɪtə(r)/: n. an instrument that detects and measures vibrations and seismic waves caused by earthquakes or underground movements
 
-[^3]: <span style="font-family: Gulliver;">**orifice** /ˈɒrɪfɪs/: n. a small opening or hole, especially one in a machine, pipe or body part</span>
+[^3]: **orifice** /ˈɒrɪfɪs/: n. a small opening or hole, especially one in a machine, pipe or body part
 
-[^4]: <span style="font-family: Gulliver;">**solid earth tide**</span>：固体潮振荡，在日、月引潮力的作用下，固体地球产生的周期形变的现象
+[^4]: **solid earth tide**：固体潮振荡，在日、月引潮力的作用下，固体地球产生的周期形变的现象
 
-[^5]: <span style="font-family: Gulliver;">**fault** /fɔːlt/: n. a crack or fracture in Earth’s crust where two blocks of rock move past each other</span>
+[^5]: **fault** /fɔːlt/: n. a crack or fracture in Earth’s crust where two blocks of rock move past each other

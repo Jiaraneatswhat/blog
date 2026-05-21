@@ -78,16 +78,16 @@ description: "中国汽车业：红灯警示"
 
 <font color="#548dd4">挑战正源于此。为避免在电动汽车领域被中国同行彻底甩开，传统车企几乎别无选择，只能寻求合作结盟。可这般行事，又极易在决定汽车行业未来走向的核心领域逐步让出自身技术专长，最终彻底受制于自己最忌惮的竞争对手。</font>
 
-[^1]: <span style="font-family: Gulliver;">**judicious** /dʒuˈdɪʃəs/: adj. having or showing good judgment; sensible and careful</span>
+[^1]: **judicious** /dʒuˈdɪʃəs/: adj. having or showing good judgment; sensible and careful
 
-[^2]: <span style="font-family: Gulliver;">**lurk** /lɜːrk/: v. to exist unobserved or unsuspected</span>
+[^2]: **lurk** /lɜːrk/: v. to exist unobserved or unsuspected
 
-[^3]: <span style="font-family: Gulliver;">**blistering** /ˈblɪstərɪŋ/: adj. extremely fast, quick or intense</span>
+[^3]: **blistering** /ˈblɪstərɪŋ/: adj. extremely fast, quick or intense
 
-[^4]: <span style="font-family: Gulliver;">**incumbent** /ɪnˈkʌmbənt/: n. someone who holds an official position; established existing company</span>
+[^4]: **incumbent** /ɪnˈkʌmbənt/: n. someone who holds an official position; established existing company
 
-[^5]: <span style="font-family: Gulliver;">**marque** /mɑːrk/: n. a famous brand of car</span>
+[^5]: **marque** /mɑːrk/: n. a famous brand of car
 
-[^6]: <span style="font-family: Gulliver;">**strike partnership**</span>：建立伙伴关系
+[^6]: **strike partnership**：建立伙伴关系
 
-[^7]: <span style="font-family: Gulliver;">**cede** /siːd/: v. to give up power, control, rights or skills to someone else</span>
+[^7]: **cede** /siːd/: v. to give up power, control, rights or skills to someone else

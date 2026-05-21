@@ -43,8 +43,8 @@ description: "熔融奇迹：一种奇特物质打破玻璃与塑料的固有法
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>Rohini Subrahmanyam</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**amorphous** /əˈmɔːfəs/: adj. without a clearly defined shape or ordered atomic structure; not crystalline</span>
+[^1]: **amorphous** /əˈmɔːfəs/: adj. without a clearly defined shape or ordered atomic structure; not crystalline
 
-[^2]: <span style="font-family: Gulliver;">**thermoset** /ˈθɜːməset/: n. a plastic material that permanently hardens when heated and cannot be melted or reshaped again once cured, due to irreversible chemical cross-linking between polymer chains</span>
+[^2]: **thermoset** /ˈθɜːməset/: n. a plastic material that permanently hardens when heated and cannot be melted or reshaped again once cured, due to irreversible chemical cross-linking between polymer chains
 
-[^3]: <span style="font-family: Gulliver;">**glass transition**</span>：非晶态物质（如玻璃、高分子、某些小分子化合物等）从硬而脆的‌玻璃态‌转变为柔软可流动的‌高弹态‌（或反之）的过程
+[^3]: **glass transition**：非晶态物质（如玻璃、高分子、某些小分子化合物等）从硬而脆的‌玻璃态‌转变为柔软可流动的‌高弹态‌（或反之）的过程

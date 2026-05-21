@@ -49,10 +49,10 @@ description: "象鼻感知：大象独特的触须，助力感知周遭世界"
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>K. R. Callaway</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**forage** /ˈfɔːrɪdʒ/: v. to look around for something you need</span>
+[^1]: **forage** /ˈfɔːrɪdʒ/: v. to look around for something you need
 
-[^2]: <span style="font-family: Gulliver;">**whisker** /ˈwɪskər/: n. any of the long stiff hairs growing on the face of an animal</span>
+[^2]: **whisker** /ˈwɪskər/: n. any of the long stiff hairs growing on the face of an animal
 
-[^3]: <span style="font-family: Gulliver;">**umwelt**</span>: 来自德语，意为‌环境‌或‌周围世界‌，在生物学和哲学领域特指生物体主观感知的‌主体环境
+[^3]: **umwelt**: 来自德语，意为‌环境‌或‌周围世界‌，在生物学和哲学领域特指生物体主观感知的‌主体环境
 
-[^4]: <span style="font-family: Gulliver;">**haptic** /ˈhæptɪk/: adj. relating to the sense of touch, especially in technology and robotics</span>
+[^4]: **haptic** /ˈhæptɪk/: adj. relating to the sense of touch, especially in technology and robotics

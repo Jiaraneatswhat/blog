@@ -35,10 +35,10 @@ description: "直立之心：心脏如何感知人体起身动作"
 
 <p style="font-family: 'Gulliver' !important;" align="right">—<i>Jacek Krywko</i></p>
 
-[^1]: <span style="font-family: Gulliver;">**baroreceptor** /ˌbærəʊrɪˈseptə(r)/</span>：压力感受器，分布于颈动脉窦、主动脉弓等血管壁的感觉神经末梢集合体，能够监测血压变化并通过反射调节心血管活动
+[^1]: **baroreceptor** /ˌbærəʊrɪˈseptə(r)/：压力感受器，分布于颈动脉窦、主动脉弓等血管壁的感觉神经末梢集合体，能够监测血压变化并通过反射调节心血管活动
 
-[^2]: <span style="font-family: Gulliver;">**plummet** /ˈplʌmɪt/: v. to fall or drop suddenly and steeply in amount, value or level</span>
+[^2]: **plummet** /ˈplʌmɪt/: v. to fall or drop suddenly and steeply in amount, value or level
 
-[^3]: <span style="font-family: Gulliver;">**hemorrhage** /ˈhemərɪdʒ/: v. bleeding, especially a large or uncontrolled loss of blood from the body</span>
+[^3]: **hemorrhage** /ˈhemərɪdʒ/: v. bleeding, especially a large or uncontrolled loss of blood from the body
 
-[^4]: <span style="font-family: Gulliver;">**fidelity** /fɪˈdeləti/: n. the quality of being accurate and exact</span>
+[^4]: **fidelity** /fɪˈdeləti/: n. the quality of being accurate and exact
