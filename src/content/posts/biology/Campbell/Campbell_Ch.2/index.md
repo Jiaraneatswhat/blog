@@ -1,5 +1,5 @@
 ---
-title: "Campbell's Biology Ch.2 The Chemical Context of Life"
+title: "Campbell Biology Ch.2 The Chemical Context of Life"
 published: 2024-11-26 21:00:00
 tags: [生物学, 普通生物学]
 category: Science

@@ -1,5 +1,5 @@
 ---
-title: "Campbell's Biology Ch.5 The Structure and Function of Large Biological Molecules"
+title: "Campbell Biology Ch.5 The Structure and Function of Large Biological Molecules"
 published: 2024-11-30
 tags: [生物学, 普通生物学]
 category: Science

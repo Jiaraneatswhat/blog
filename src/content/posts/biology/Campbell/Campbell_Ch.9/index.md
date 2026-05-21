@@ -1,5 +1,5 @@
 ---
-title: "Campbell's Biology Ch.9 Cellular Respiration and Fermentation"
+title: "Campbell Biology Ch.9 Cellular Respiration and Fermentation"
 published: 2024-12-15
 tags: [生物学, 普通生物学]
 category: Science

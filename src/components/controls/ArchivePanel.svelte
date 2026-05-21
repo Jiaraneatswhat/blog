@@ -105,6 +105,11 @@ function getCategoryColor(post: Post): string {
 		return 'bg-[#2e8b57]';
 	}
 
+	// 哲学 → #7A8FA6（标签判断）
+	if (tags.includes('哲学')) {
+		return 'bg-[#7A8FA6]';
+	}
+
 	// 生物学 → #f8e411（标签判断）
 	if (tags.includes('生物学')) {
 		return 'bg-[#f8e411]';
@@ -262,19 +267,19 @@ onMount(async () => {
 						</div>
 
 						<!-- post title with color block -->
-<div
-    class="w-[70%] md:max-w-[65%] md:w-[65%] text-left font-bold
-         group-hover:translate-x-1 transition-all group-hover:text-(--primary)
-         text-75 pr-8 flex items-center gap-2.5"
->
-    <span 
-        class="flex-shrink-0 w-4 h-4 rounded-md {getCategoryColor(post)}"
-        title={post.data.tags[0] || post.data.category || '未分类'}
-    ></span>
-    <span class="whitespace-nowrap text-ellipsis overflow-hidden">
-        {post.data.title}
-    </span>
-</div>
+						<div
+							class="w-[70%] md:max-w-[65%] md:w-[65%] text-left font-bold
+                     group-hover:translate-x-1 transition-all group-hover:text-(--primary)
+                     text-75 pr-8 flex items-center gap-2.5"
+						>
+							<span 
+								class="flex-shrink-0 w-4 h-4 {getCategoryColor(post)}"
+								title={post.data.tags[0] || post.data.category || '未分类'}
+							></span>
+							<span class="whitespace-nowrap text-ellipsis overflow-hidden">
+								{post.data.title}
+							</span>
+						</div>
 
 						<!-- tag list -->
 						<div

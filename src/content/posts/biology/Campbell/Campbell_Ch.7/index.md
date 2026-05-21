@@ -1,5 +1,5 @@
 ---
-title: "Campbell's Biology Ch.7 Membrane Structure and Function"
+title: "Campbell Biology Ch.7 Membrane Structure and Function"
 published: 2024-12-05
 tags: [生物学, 普通生物学]
 category: Science

@@ -1,5 +1,5 @@
 ---
-title: "Campbell's Biology Ch.4 Carbon and the Molecular Diversity of Life"
+title: "Campbell Biology Ch.4 Carbon and the Molecular Diversity of Life"
 published: 2024-11-28
 tags: [生物学, 普通生物学]
 category: Science
