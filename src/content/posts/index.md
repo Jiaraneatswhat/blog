@@ -339,7 +339,7 @@ pinned: true
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/biology/stern-botany/ch3/">Chapter 3</a></td>
 		</tr>
 		<tr> 
-			<td rowspan="10" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American <br> (May, 2026)</td>
+			<td rowspan="11" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American <br> (May, 2026)</td>
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/an-icy-ear/">An Icy Ear</a></td>
 		</tr> 
 		<tr> 
@@ -368,6 +368,9 @@ pinned: true
 		</tr>
 		<tr> 
 			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/upright-heart/">Upright Heart</a></td>
+		</tr>
+		<tr> 
+			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/heart-in-flame/">Your Heart In Flames</a></td>
 		</tr>
 		<tr> 
 			<td rowspan="4" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">The Economist <br> (May 9th–15th, 2026)</td>
