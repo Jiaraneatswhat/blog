@@ -1,7 +1,7 @@
 ---
 title: "Stern's Introductory Plant Biology Ch.3"
 published: 2026-05-17 10:00:00
-tags: [生物学, 植物学]
+tags: [生物学]
 category: Science
 image: "./images/cover.png"
 description: chapter 3

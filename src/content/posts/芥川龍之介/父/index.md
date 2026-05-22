@@ -1,7 +1,7 @@
 ---
 title: "芥川龍之介: 父"
 published: 2026-05-21 10:00:00
-tags: [芥川龍之介, 近代文学]
+tags: [あ行]
 category: Literature
 image: "./cover.png"
 description: "父亲"

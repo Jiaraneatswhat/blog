@@ -1,7 +1,7 @@
 ---
 title: "Campbell Biology Ch.8 An Introduction to Metabolism"
 published: 2024-12-10
-tags: [生物学, 普通生物学]
+tags: [生物学]
 category: Science
 author: ran
 image: "./images/cover.png"
