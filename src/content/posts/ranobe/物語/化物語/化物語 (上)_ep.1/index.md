@@ -8,7 +8,7 @@ description: "第一话"
 ---
 
 :::note[META]
-`audio from Amazon Audible`
+`audio from Amazon Audible`<br>
 `desc`: 向着阿良良木历从天而降的少女・战场原黑仪，身上几乎可以说是完全没有所谓的体重这回事——！？青春里，总少不了这般荒诞离奇的事！
 :::
 
