@@ -1,19 +1,23 @@
 ---
-title: "[The Economist, May 9th–15th, 2026] How AI could enable bioterrorism: Bio hazards "
+title: "[The Economist, May 9th–15th, 2026] How AI could enable bioterrorism"
 published: 2026-05-14
 tags: [期刊]
 category: Journal
 image: "./images/cover.png"
-description: "AI如何助长生物恐怖主义：生物危害"
+description: "AI如何助长生物恐怖主义"
 ---
 
 <p style="margin:0!important;text-indent:0!important;font-family: 'Gulliver' !important;"><span style="color:#e3000f;font-weight:bold;padding:0 4px;user-select:none;">Artificial intelligence</span></p>
 
-![](./images/fig.png "w-70")
+![](./images/fig.png)
 
 <audio controls> 
     <source src="https://audio.taffybook.cn/Economist/2026-05/076%20Science%20and%20technology%20-%20Artificial%20intelligence.mp3"> 
 </audio>
+
+<span style="margin:30px 0 0 0!important; font-family: Gulliver; display:block; text-align:left; font-size:27px;">
+<strong>Bio hazards</strong>
+</span>
 
 <span style="margin:30px 0 0 0!important; font-family: Gulliver; display:block; text-align:left;">
 <strong>AI tools could make it easier to design and build deadly pathogens</strong>

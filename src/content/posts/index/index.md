@@ -1,6 +1,7 @@
 ---
 title: "📍Index"
-published: 1970-01-01 08:00:00 
+published: 1970-01-01 08:00:00
+image: "./cover.png"
 pinned: true
 ---
 
@@ -388,6 +389,10 @@ pinned: true
 		</tr> 
 		<tr> 
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/commuting/">The pros and cons of commuting</a></td>
+		</tr>
+		<tr> 
+			<td rowspan="1" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">The Economist <br> (May 16th–22nd, 2026)</td>
+			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-16-22/job-apocalypse/">Will AI wipe out jobs?</a></td>
 		</tr>
 	</table>
 </div>

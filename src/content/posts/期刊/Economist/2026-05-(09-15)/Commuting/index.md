@@ -1,10 +1,10 @@
 ---
-title: "[The Economist, May 9th–15th, 2026] The pros and cons of commuting: Everyone moans about the length of their commute. Should managers care?"
+title: "[The Economist, May 9th–15th, 2026] The pros and cons of commuting"
 published: 2026-05-17 09:00:00
 tags: [期刊]
 category: Journal
 image: "./cover.png"
-description: "通勤的利弊：人人都抱怨通勤耗时久，管理者是否该重视？"
+description: "通勤的利弊"
 ---
 
 <p style="margin:0!important;text-indent:0!important;font-family: 'Gulliver' !important;text-align:center!important;"> <span style="font-weight:bold;padding:0 4px;user-select:none;font-size:30px;">BARTLEBY</span> </p>
