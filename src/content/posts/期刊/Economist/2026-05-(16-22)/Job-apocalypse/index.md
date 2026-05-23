@@ -3,7 +3,7 @@ title: "[The Economist, May 16th–22nd, 2026] Will AI wipe out jobs?"
 published: 2026-05-23 08:00:00
 tags: [期刊]
 category: Journal
-image: "./cover.png"
+image: "./images/cover.png"
 description: "人工智能会彻底取代人类工作吗？"
 ---
 
