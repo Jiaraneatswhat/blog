@@ -105,6 +105,10 @@ function getCategoryColor(post: Post): string {
 		return 'bg-[#2e8b57]';
 	}
 
+	if (post.data.category?.toLowerCase() === 'cs') {
+    	return 'bg-[#ff7d80]';
+	}
+
 	// 哲学 → #7A8FA6（标签判断）
 	if (tags.includes('哲学')) {
 		return 'bg-[#7A8FA6]';
