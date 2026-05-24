@@ -105,7 +105,7 @@ function getCategoryColor(post: Post): string {
 		return 'bg-[#2e8b57]';
 	}
 
-	if (post.data.category?.toLowerCase() === 'cs') {
+	if (post.data.category?.toLowerCase() === 'leetcode') {
     	return 'bg-[#ff7d80]';
 	}
 
