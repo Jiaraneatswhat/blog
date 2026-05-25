@@ -5,8 +5,17 @@
   line-height: 1.7;
   font-size: 18px;
 
-  p {
+p {
     text-indent: 1em !important;
+  }
+
+
+/* 块级公式后的第一个段落取消缩进 */
+  .katex-display + p,
+  .katex-display-container + p,
+  .katex-display + .no-indent-auto,
+  div:has(> .katex-display) + p {
+    text-indent: 0 !important;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -16,10 +25,6 @@
   .footnotes p {
     text-indent: 0 !important;
   }
-
-.no-indent {
-  text-indent: 0 !important;
-}
 
   h1 {
     @apply text-3xl;
@@ -411,4 +416,27 @@ body.sticky-navbar .custom-md [id] {
 .custom-md img[src*="loading.GIF"] {
   display: block;
   margin: 0 auto;
+}
+
+.custom-md li p {
+  text-indent: 0 !important;
+}
+
+.katex-display-container,
+div[class*="katex"] {
+  overflow-x: visible !important;
+  overflow-y: visible !important;
+}
+
+/* 覆盖 .katex-display 自身 */
+.katex-display,
+.katex-display[data-scrollbar-initialized="true"] {
+  overflow-x: visible !important;
+  overflow-y: visible !important;
+}
+
+/* 隐藏可能的自定义滚动条 */
+.katex-display::-webkit-scrollbar,
+.katex-display-container::-webkit-scrollbar {
+  display: none;
 }
