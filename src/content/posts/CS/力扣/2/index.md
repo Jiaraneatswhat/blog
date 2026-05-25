@@ -1,7 +1,7 @@
 ---
 title: "😐 LeetCode 2. 两数相加 [链表]"
 published: 2026-05-24 09:00:00
-category: LeetCode
+category: CS
 image: "./cover.png"
 ---
 
