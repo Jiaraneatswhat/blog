@@ -347,57 +347,6 @@ pinned: true
 		<tr> 
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/biology/stern-botany/ch3/">Chapter 3</a></td>
 		</tr>
-		<tr> 
-			<td rowspan="11" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">Scientific American <br> (May, 2026)</td>
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/an-icy-ear/">An Icy Ear</a></td>
-		</tr> 
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/ancient-lexicon/">Ancient Lexicon</a></td>
-		</tr> 
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/boosting-science/">Boosting Science</a></td>
-		</tr>
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/discerning-chicks/">Discerning Chicks</a></td>
-		</tr>
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/flower-forger/">Flower Forger</a></td>
-		</tr>
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/love-island/">Love Island</a></td>
-		</tr>
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/melting-marvel/">Melting Marvel</a></td>
-		</tr>
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/thermal-breakthrough/">Thermal Breakthrough</a></td>
-		</tr>
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/trunk-sense/">Trunk Sense</a></td>
-		</tr>
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/upright-heart/">Upright Heart</a></td>
-		</tr>
-		<tr> 
-			<td style="border: 1px solid #000;"><a href="/posts/期刊/sciam/2026-05/heart-in-flame/">Your Heart In Flames</a></td>
-		</tr>
-		<tr> 
-			<td rowspan="4" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">The Economist <br> (May 9th–15th, 2026)</td>
-			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/almost-protein/">Almost proteins</a></td>
-		</tr> 
-		<tr> 
-			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/biohazard/">Bio hazards</a></td>
-		</tr> 
-		<tr> 
-			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/red-lights/">Red lights</a></td>
-		</tr> 
-		<tr> 
-			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-09-15/commuting/">The pros and cons of commuting</a></td>
-		</tr>
-		<tr> 
-			<td rowspan="1" style="text-align:center; vertical-align:middle; background:#02aedb; border: 1px solid #000;">The Economist <br> (May 16th–22nd, 2026)</td>
-			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/期刊/economist/2026-05-16-22/job-apocalypse/">Will AI wipe out jobs?</a></td>
-		</tr>
 	</table>
 </div>
   </div>
