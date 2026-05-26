@@ -68,6 +68,10 @@ pinned: true
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
+				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/虱/">虱</a></td>
+				<td style="border: 1px solid #000; text-align:center;">☑</td>
+			</tr>
+			<tr>
 				<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1917</td>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/或日の大石内蔵助/">或日の大石内蔵助</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
