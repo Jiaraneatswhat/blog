@@ -27,9 +27,9 @@ pinned: true
 		</thead>
 		<tbody>
 			<tr>
-				<td rowspan="51" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
-				<td rowspan="13" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
-				<td rowspan="11" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
+				<td rowspan="53" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
+				<td rowspan="15" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
+				<td rowspan="13" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
 				<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1915</td>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/羅生門/">羅生門</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
@@ -72,8 +72,16 @@ pinned: true
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
-				<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1917</td>
+				<td rowspan="3" style="border: 1px solid #000; text-align:center; background:#16ad6b; vertical-align:middle;">1917</td>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/或日の大石内蔵助/">或日の大石内蔵助</a></td>
+				<td style="border: 1px solid #000; text-align:center;">☑</td>
+			</tr>
+			<tr>
+				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/女体/">女体</a></td>
+				<td style="border: 1px solid #000; text-align:center;">☑</td>
+			</tr>
+			<tr>
+				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/黄梁夢/">黄梁夢</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
@@ -214,7 +222,7 @@ pinned: true
 				<td rowspan="2" style="border: 1px solid #000; text-align:center; vertical-align:middle;">た行</td>
 				<td rowspan="1" style="border: 1px solid #000; text-align:center; vertical-align:middle;">橘公司</td>
 				<td style="border: 1px solid #000; text-align:center; background:#dfd7d4;">2013</td>
-				<td style="border: 1px solid #000;"><a href="/posts/ranobe/datealive/encore1/encore1_ep.1/">デートアライブ アンコール 1</a></td>
+				<td style="border: 1px solid #000;"><a href="/posts/ranobe/datealive/encore1/encore1_ep1/">デートアライブ アンコール 1</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
