@@ -350,7 +350,7 @@ pinned: true
 			<td style="border: 1px solid #000;"><a href="/posts/biology/campbell/campbell_ch9/">Chapter 9</a></td>
 		</tr> 
 		<tr> 
-			<td rowspan="3" style="text-align:center; vertical-align:middle; background:#f8e411; border: 1px solid #000;">Stern's Introductory <br> Plant Biology</td>
+			<td rowspan="4" style="text-align:center; vertical-align:middle; background:#f8e411; border: 1px solid #000;">Stern's Introductory <br> Plant Biology</td>
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/biology/stern-botany/ch1/">Chapter 1</a></td>
 		</tr>
 		<tr> 
@@ -358,6 +358,9 @@ pinned: true
 		</tr>
 		<tr> 
 			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/biology/stern-botany/ch3/">Chapter 3</a></td>
+		</tr>
+		<tr> 
+			<td style="border: 1px solid #000; vertical-align:middle;"><a href="/posts/biology/stern-botany/ch4/">Chapter 4</a></td>
 		</tr>
 	</table>
 </div>
