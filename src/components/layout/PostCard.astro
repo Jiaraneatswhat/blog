@@ -162,7 +162,7 @@ const descriptionText = description || remarkPluginFrontmatter.excerpt || "";
           "post-card-image",
           "group",
           "w-full md:w-(--coverWidth)",
-          "aspect-2/1 md:aspect-auto",
+	   "aspect-[16/9]",
           "relative md:absolute md:top-4 md:bottom-4 md:right-4",
           "rounded-(--radius-large) md:rounded-xl overflow-hidden",
         ]}
@@ -217,8 +217,25 @@ const descriptionText = description || remarkPluginFrontmatter.excerpt || "";
     line-clamp: var(--descriptionClampLines);
   }
 
+  /* ===== 统一封面图显示比例（使用 :global 穿透组件作用域） ===== */
+  :global(.post-card-image img) {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+  }
+
+  :global(.post-card-image :is(img, picture, .cover-image)) {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  :global(.post-card-image > *) {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
   /* === List Mode Mobile Styles === */
-  /* 移动端列表模式：封面在右侧，内容缩小 */
   :global(.list-mode) .post-card-wrapper {
     flex-direction: row !important;
   }
@@ -236,6 +253,10 @@ const descriptionText = description || remarkPluginFrontmatter.excerpt || "";
     width: 9rem !important;
     aspect-ratio: auto !important;
     border-radius: 0.75rem !important;
+  }
+
+  :global(.list-mode .has-cover .post-card-image img) {
+    object-fit: cover !important;
   }
 
   :global(.list-mode) .post-card-title {
@@ -260,7 +281,6 @@ const descriptionText = description || remarkPluginFrontmatter.excerpt || "";
     display: flex !important;
   }
 
-  /* 移动端列表模式 - 隐藏tags，只在有空间时显示 */
   :global(.list-mode) .stats a {
     font-size: 0.65rem !important;
     padding: 0.125rem 0.375rem !important;
@@ -318,7 +338,6 @@ const descriptionText = description || remarkPluginFrontmatter.excerpt || "";
   }
 
   /* === Grid Mode Styles === */
-  /* 网格模式：封面在顶部（移动端和桌面端一致） */
   :global(.grid-mode) .post-card-wrapper {
     flex-direction: column-reverse !important;
     height: 100% !important;
@@ -340,7 +359,11 @@ const descriptionText = description || remarkPluginFrontmatter.excerpt || "";
     margin: 0 !important;
     border-radius: var(--radius-large) var(--radius-large) 0 0 !important;
     max-height: none !important;
-    aspect-ratio: 2/1 !important;
+    aspect-ratio: 16 / 9 !important;
+  }
+
+  :global(.grid-mode .post-card-image img) {
+    object-fit: cover !important;
   }
 
   :global(.grid-mode) .description {
@@ -354,6 +377,7 @@ const descriptionText = description || remarkPluginFrontmatter.excerpt || "";
   :global(.grid-mode) .has-cover .post-card-content {
     padding-top: 0.8rem !important;
   }
+
   :global(.grid-mode) .has-cover .post-card-title::before {
     top: 1.3rem !important;
   }
