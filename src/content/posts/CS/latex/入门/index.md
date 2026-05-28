@@ -1,5 +1,5 @@
 ---
-title: "Latex 入门 [LaTeX]"
+title: "LaTeX 入门 [LaTeX]"
 published: 2026-05-25 08:00:00
 category: CS
 image: "./cover.png"
