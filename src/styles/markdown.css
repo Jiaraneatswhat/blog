@@ -236,6 +236,14 @@ p {
   --_spoiler-mask: color-mix(in oklch, var(--primary) 55%, white 45%);
 }
 
+/* 放在 .custom-md code 样式之后 */
+.custom-md .expressive-code code,
+.expressive-code .ec-line .code,
+.expressive-code [class*="ec-line"] {
+  color: var(--ec-codeFg) !important;
+  background-color: transparent !important;
+}
+
 /* 跟随全局主题色的音频播放器 */
 .custom-md audio::-webkit-media-controls-panel {
   background-color: color-mix(in srgb, var(--primary) 12%, white 88%);
