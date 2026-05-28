@@ -7,10 +7,10 @@ const SITE_LANG = "en";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Ace",
+	title: "永雏多氢菲の書库",
 
 	// 站点副标题
-	subtitle: "Perhydrophenanthrene",
+	subtitle: "",
 
 	// 站点 URL
 	site_url: "https://taffybook.cn",
