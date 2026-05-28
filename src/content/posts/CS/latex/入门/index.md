@@ -1,9 +1,9 @@
 ---
-title: "Latex 入门 [Latex]"
+title: "Latex 入门 [LaTeX]"
 published: 2026-05-25 08:00:00
 category: CS
 image: "./cover.png"
-description: "Overleaf 中的 Latex 入门文档"
+description: "Overleaf 中的 LaTeX 入门文档"
 ---
 
 
