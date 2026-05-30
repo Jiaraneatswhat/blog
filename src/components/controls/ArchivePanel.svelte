@@ -80,7 +80,8 @@ function getCategoryColor(post: Post): string {
 		title.includes('江戸川乱歩') ||
 		title.includes('梶井基次郎') ||
 		title.includes('中島敦') ||
-		title.includes('夏目漱石')
+		title.includes('夏目漱石') ||
+		title.includes('有島武郎')
 	) {
 		return 'bg-[#16ad6b]';
 	}

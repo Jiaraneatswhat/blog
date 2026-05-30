@@ -85,6 +85,12 @@ pinned: true
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
+				<td rowspan="1" style="border: 1px solid #000; text-align:center; vertical-align:middle;">有島武郎</td>
+				<td rowspan="1" style="border: 1px solid #000; text-align:center; background:#16ad6b; vertical-align:middle;">1920</td>
+				<td style="border: 1px solid #000;"><a href="/posts/有島武郎/一房の葡萄/">一房の葡萄</a></td>
+				<td style="border: 1px solid #000; text-align:center;">☑</td>
+			</tr>
+			<tr>
 				<td rowspan="2" style="border: 1px solid #000; text-align:center; vertical-align:middle;">江戸川乱歩</td>
 				<td rowspan="2" style="border: 1px solid #000; text-align:center; background:#16ad6b; vertical-align:middle;">1925</td>
 				<td style="border: 1px solid #000;"><a href="/posts/江戸川乱歩/人間椅子/">人間椅子</a></td>
