@@ -1,5 +1,5 @@
 ---
-title: "😐LeetCode 3. 无重复字符的最长子串 [指针]"
+title: "😐 LeetCode 3. 无重复字符的最长子串 [指针]"
 published: 2026-06-02 08:05:00
 category: CS
 image: "./cover.png"
