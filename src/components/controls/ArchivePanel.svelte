@@ -106,10 +106,6 @@ function getCategoryColor(post: Post): string {
 		return 'bg-[#2e8b57]';
 	}
 
-	if (post.data.category?.toLowerCase() === 'cs') {
-    	return 'bg-[#ff7d80]';
-	}
-
 	// 哲学 → #7A8FA6（标签判断）
 	if (tags.includes('哲学')) {
 		return 'bg-[#7A8FA6]';
@@ -120,12 +116,12 @@ function getCategoryColor(post: Post): string {
 		return 'bg-[#f8e411]';
 	}
 
-	// 期刊 → #02aedb（标签判断）
-	if (
-		tags.includes('期刊') ||
-		tags.includes('journal')
-	) {
-		return 'bg-[#02aedb]';
+	if (post.data.category?.toLowerCase() === 'cs') {
+    	return 'bg-[#ff7d80]';
+	}
+
+	if (post.data.category?.toLowerCase() === 'paper') {
+    	return 'bg-[#02aedb]';
 	}
 
 	// 轻小说 → #dfd7d4（标签判断）
