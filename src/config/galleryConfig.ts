@@ -18,6 +18,7 @@ export const galleryConfig: GalleryConfig = {
 			name: "vocaloid",
 	          photoLinks: {
         	"ノンブレス・オブリージュ.JPG": "/posts/vocaloid/ノンブレスオブリージュ/",
+		"歌姫失格.JPG": "/posts/vocaloid/歌姫失格/",
       }
 		},
 	],
