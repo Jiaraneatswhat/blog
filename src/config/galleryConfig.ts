@@ -17,16 +17,7 @@ export const galleryConfig: GalleryConfig = {
 			id: "vocaloid",
 			name: "vocaloid",
 	          photoLinks: {
-        	"cover.avif": "/posts/paper/transformer-xl/",
-        	"1.avif": "/posts/paper/attention-is-all/",
-        	"2.avif": "/posts/paper/bert/",
-        	"3.avif": "/posts/paper/gpt/",
-        	"4.avif": "/posts/paper/llama/",
-        	"5.avif": "/posts/paper/moe/",
-        	"6.avif": "/posts/paper/rwkv/",
-        	"7.avif": "/posts/paper/mamba/",
-        	"8.avif": "/posts/paper/transformer-xl/",
- 	  "work-taffy": "/posts/paper/transformer-xl/",
+        	"ノンブレス・オブリージュ.JPG": "/posts/vocaloid/ノンブレスオブリージュ/",
       }
 		},
 	],
