@@ -39,7 +39,7 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 		icon: "material-symbols:movie",
 	},
 	[LinkPreset.Gallery]: {
-		name: i18n(I18nKey.gallery),
+		name: "Vocadendou",
 		url: "/gallery/",
 		icon: "material-symbols:photo-library",
 	},
