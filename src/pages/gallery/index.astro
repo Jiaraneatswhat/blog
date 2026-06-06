@@ -1,6 +1,7 @@
 ---
+// src/pages/gallery.astro
+
 import { Icon } from "astro-icon/components";
-import AlbumCard from "@/components/pages/gallery/AlbumCard.astro";
 import { galleryConfig, siteConfig } from "@/config";
 import I18nKey from "@/i18n/i18nKey";
 import { i18n } from "@/i18n/translation";
@@ -15,150 +16,250 @@ if (!siteConfig.pages.gallery) {
 const title = i18n(I18nKey.gallery);
 const description = i18n(I18nKey.galleryDescription);
 
-// 构建相册数据（扫描照片、获取封面）
+// 构建相册数据
 const albums = galleryConfig.albums.map((album) => {
 	const photos = scanAlbumPhotos(album.id);
 	const cover = getAlbumCover(album, photos);
-	return { ...album, cover, photoCount: photos.length };
+	return { ...album, cover, photos, photoCount: photos.length };
 });
 
-// 收集所有标签用于筛选
+// 获取照片链接（从相册配置中读取）
+function getPhotoLink(photoUrl: string, album: any): string {
+	// 从 URL 中提取文件名
+	const fileName = photoUrl.split('/').pop() || '';
+	// 查找相册配置中的 photoLinks
+	if (album.photoLinks && album.photoLinks[fileName]) {
+		return album.photoLinks[fileName];
+	}
+	// 默认使用相册页面
+	return `/gallery/${album.id}/`;
+}
+
+// 构建平铺的照片列表
+const allPhotos: Array<{ url: string; album: any; link: string; fileName: string }> = [];
+for (const album of albums) {
+	album.photos.forEach((photoUrl: string) => {
+		const fileName = photoUrl.split('/').pop() || '';
+		allPhotos.push({
+			url: photoUrl,
+			album: album,
+			fileName: fileName,
+			link: getPhotoLink(photoUrl, album)
+		});
+	});
+}
+
+// 收集所有标签（用于筛选）
 const allTags = [...new Set(albums.flatMap((a) => a.tags || []))].sort();
 ---
 
 <MainGridLayout title={title} description={description}>
-  <div
-    class="flex w-full rounded-(--radius-large) overflow-hidden relative min-h-32"
-  >
-    <div class="card-base z-10 px-9 py-6 relative w-full">
-      <!-- 页面标题和描述 -->
-      <div class="mb-4">
-        <div class="flex items-center gap-3 mb-3">
-          <div
-            class="h-8 w-8 rounded-lg bg-(--primary) flex items-center justify-center text-white dark:text-black/70"
-          >
-            <Icon name="material-symbols:photo-library" class="text-[1.5rem]" />
-          </div>
-          <div class="text-3xl font-bold text-neutral-900 dark:text-neutral-100">
-            {title}
-          </div>
-        </div>
-        {description && (
-          <p class="text-base text-neutral-600 dark:text-neutral-400 leading-relaxed mb-4">
-            {description}
-          </p>
-        )}
-      </div>
+	<div
+		class="flex w-full rounded-(--radius-large) overflow-hidden relative min-h-32"
+	>
+		<div class="card-base z-10 px-9 py-6 relative w-full">
+			<!-- 页面标题 -->
+			<div class="mb-4">
+				<div class="flex items-center gap-3 mb-3">
+					<div
+						class="h-8 w-8 rounded-lg bg-(--primary) flex items-center justify-center text-white dark:text-black/70"
+					>
+						<Icon name="material-symbols:photo-library" class="text-[1.5rem]" />
+					</div>
+					<div class="text-3xl font-bold text-neutral-900 dark:text-neutral-100">
+						{title}
+					</div>
+				</div>
+				{description && (
+					<p class="text-base text-neutral-600 dark:text-neutral-400 leading-relaxed mb-4">
+						{description}
+					</p>
+				)}
+			</div>
 
-      <!-- 标签筛选 -->
-      {albums.length > 0 && allTags.length > 0 && (
-        <gallery-filter class="flex flex-wrap gap-2 mb-6">
-          <button
-            data-tag="all"
-            class="btn-regular px-3 py-1.5 rounded-lg bg-(--primary) text-white hover:bg-(--primary) transition-colors duration-200 text-sm font-medium"
-          >
-            {i18n(I18nKey.all)}
-          </button>
-          {allTags.map((tag) => (
-            <button
-              data-tag={tag}
-              class="btn-regular px-3 py-1.5 rounded-lg bg-(--btn-regular-bg) text-(--btn-content) hover:bg-(--btn-regular-bg-hover) transition-colors duration-200 text-sm font-medium"
-            >
-              {tag}
-            </button>
-          ))}
-        </gallery-filter>
-      )}
+			<!-- 标签筛选 -->
+			{allPhotos.length > 0 && allTags.length > 0 && (
+				<gallery-filter class="flex flex-wrap gap-2 mb-6">
+					<button
+						data-tag="all"
+						class="btn-regular px-3 py-1.5 rounded-lg bg-(--primary) text-white hover:bg-(--primary) transition-colors duration-200 text-sm font-medium"
+					>
+						{i18n(I18nKey.all)}
+					</button>
+					{allTags.map((tag) => (
+						<button
+							data-tag={tag}
+							class="btn-regular px-3 py-1.5 rounded-lg bg-(--btn-regular-bg) text-(--btn-content) hover:bg-(--btn-regular-bg-hover) transition-colors duration-200 text-sm font-medium"
+						>
+							{tag}
+						</button>
+					))}
+				</gallery-filter>
+			)}
 
-      <!-- 相册卡片网格 -->
-      {albums.length > 0 ? (
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 my-4">
-          {albums.map((album) => (
-            <AlbumCard
-              id={album.id}
-              name={album.name}
-              cover={album.cover}
-              description={album.description}
-              date={album.date}
-              location={album.location}
-              tags={album.tags}
-              photoCount={album.photoCount}
-            />
-          ))}
-        </div>
-      ) : (
-        <div class="flex flex-col items-center justify-center py-16 text-neutral-400 dark:text-neutral-500">
-          <Icon name="material-symbols:photo-library" class="text-6xl mb-4 opacity-50" />
-          <p class="text-lg">{i18n(I18nKey.galleryNoAlbums)}</p>
-        </div>
-      )}
-    </div>
-  </div>
+			<!-- 纯图片瀑布流网格（每张图片都有超链接） -->
+			{allPhotos.length > 0 ? (
+				<div class="photos-masonry-grid my-4" id="photosMasonryGrid">
+					{allPhotos.map((photo, index) => {
+						// 查找这张照片所属相册的标签
+						let tags = '';
+						for (const album of albums) {
+							if (album.photos.includes(photo.url)) {
+								tags = (album.tags || []).join(',');
+								break;
+							}
+						}
+						
+						return (
+							<div
+								class="photo-item"
+								data-photo-url={photo.url}
+								data-tags={tags}
+							>
+								<!-- 每张图片都用超链接包裹 -->
+								<a
+									href={photo.link}
+									class="photo-card group relative block overflow-hidden rounded-2xl transition-all duration-300 hover:scale-[1.02] active:scale-[0.98] cursor-pointer"
+								>
+									<div class="relative overflow-hidden bg-gradient-to-br from-gray-100 to-gray-200 dark:from-gray-700 dark:to-gray-800 photo-container">
+										<img
+											src={photo.url}
+											alt="Gallery image"
+											class="w-full h-full object-cover transition-all duration-500 group-hover:scale-110 group-hover:rotate-1 photo-img"
+											loading="lazy"
+											decoding="async"
+										/>
+									</div>
+								</a>
+							</div>
+						);
+					})}
+				</div>
+			) : (
+				<div class="flex flex-col items-center justify-center py-16 text-neutral-400 dark:text-neutral-500">
+					<Icon name="material-symbols:photo-library" class="text-6xl mb-4 opacity-50" />
+					<p class="text-lg">{i18n(I18nKey.galleryNoAlbums)}</p>
+				</div>
+			)}
+		</div>
+	</div>
 
-  <script slot="head" is:inline>
-    if (!customElements.get("gallery-filter")) {
-      class GalleryFilter extends HTMLElement {
-        constructor() {
-          super();
-        }
+	<script slot="head" is:inline>
+		// 标签筛选逻辑（保持不变）
+		if (!customElements.get("gallery-filter")) {
+			class GalleryFilter extends HTMLElement {
+				constructor() {
+					super();
+				}
 
-        connectedCallback() {
-          this.addEventListener("click", this.handleClick);
-        }
+				connectedCallback() {
+					this.addEventListener("click", this.handleClick);
+				}
 
-        disconnectedCallback() {
-          this.removeEventListener("click", this.handleClick);
-        }
+				disconnectedCallback() {
+					this.removeEventListener("click", this.handleClick);
+				}
 
-        handleClick(e) {
-          const target = e.target;
-          const button = target.closest("button");
-          if (!button) return;
+				handleClick(e) {
+					const target = e.target;
+					const button = target.closest("button");
+					if (!button) return;
 
-          const selectedTag = button.dataset.tag;
-          const filters = this.querySelectorAll("button");
-          const container = this.closest(".card-base");
-          if (!container) return;
+					const selectedTag = button.dataset.tag;
+					const filters = this.querySelectorAll("button");
+					const container = this.closest(".card-base");
+					if (!container) return;
 
-          const cards = container.querySelectorAll(".album-card");
+					const photoItems = container.querySelectorAll(".photo-item");
 
-          filters.forEach((f) => {
-            f.classList.remove("bg-(--primary)", "text-white");
-            f.classList.remove("hover:bg-(--primary)");
-            f.classList.add(
-              "bg-(--btn-regular-bg)",
-              "text-(--btn-content)"
-            );
-            f.classList.add("hover:bg-(--btn-regular-bg-hover)");
+					filters.forEach((f) => {
+						f.classList.remove("bg-(--primary)", "text-white");
+						f.classList.remove("hover:bg-(--primary)");
+						f.classList.add("bg-(--btn-regular-bg)", "text-(--btn-content)");
+						f.classList.add("hover:bg-(--btn-regular-bg-hover)");
 
-            if (f === button) {
-              f.classList.remove(
-                "bg-(--btn-regular-bg)",
-                "text-(--btn-content)"
-              );
-              f.classList.remove("hover:bg-(--btn-regular-bg-hover)");
-              f.classList.add("bg-(--primary)", "text-white");
-              f.classList.add("hover:bg-(--primary)");
-            }
-          });
+						if (f === button) {
+							f.classList.remove("bg-(--btn-regular-bg)", "text-(--btn-content)");
+							f.classList.remove("hover:bg-(--btn-regular-bg-hover)");
+							f.classList.add("bg-(--primary)", "text-white");
+							f.classList.add("hover:bg-(--primary)");
+						}
+					});
 
-          cards.forEach((card) => {
-            const cardEl = card;
-            const tags = (cardEl.dataset.tags || "").split(",");
-            if (
-              selectedTag === "all" ||
-              (selectedTag && tags.includes(selectedTag))
-            ) {
-              cardEl.style.display = "";
-              cardEl.classList.add("animate-fade-in-up");
-            } else {
-              cardEl.style.display = "none";
-              cardEl.classList.remove("animate-fade-in-up");
-            }
-          });
-        }
-      }
-      customElements.define("gallery-filter", GalleryFilter);
-    }
-  </script>
+					let visibleCount = 0;
+					photoItems.forEach((item) => {
+						const tagsAttr = item.getAttribute("data-tags") || "";
+						const tags = tagsAttr.split(",").filter(t => t.trim());
+						if (selectedTag === "all" || tags.includes(selectedTag)) {
+							item.style.display = "";
+							visibleCount++;
+						} else {
+							item.style.display = "none";
+						}
+					});
+
+					const grid = document.getElementById("photosMasonryGrid");
+					let emptyMsg = grid?.querySelector(".empty-placeholder");
+					if (visibleCount === 0 && grid) {
+						if (!emptyMsg) {
+							emptyMsg = document.createElement("div");
+							emptyMsg.className = "empty-placeholder flex flex-col items-center justify-center py-16 text-neutral-400 dark:text-neutral-500";
+							emptyMsg.style.columnSpan = "all";
+							emptyMsg.innerHTML = `
+								<svg class="text-6xl mb-4 opacity-50" width="1em" height="1em" viewBox="0 0 24 24" fill="currentColor">
+									<path d="M9 14h10l-3.45-4.5-2.3 3-1.55-2zm-1 4q-.825 0-1.412-.587T6 16V4q0-.825.588-1.412T8 2h12q.825 0 1.413.588T22 4v12q0 .825-.587 1.413T20 18zm-4 4q-.825 0-1.412-.587T2 20V6h2v14h14v2z"/>
+								</svg>
+								<p class="text-lg">没有找到相关标签的照片</p>
+							`;
+							grid.appendChild(emptyMsg);
+						}
+					} else if (emptyMsg) {
+						emptyMsg.remove();
+					}
+				}
+			}
+			customElements.define("gallery-filter", GalleryFilter);
+		}
+	</script>
+
+	<style is:inline>
+	.photos-masonry-grid {
+		columns: 2;
+		column-gap: 0.25rem;
+	}
+	@media (min-width: 640px) {
+		.photos-masonry-grid {
+			columns: 2;
+		}
+	}
+	@media (min-width: 1024px) {
+		.photos-masonry-grid {
+			columns: 3;
+		}
+	}
+	@media (min-width: 1280px) {
+		.photos-masonry-grid {
+			columns: 4;
+		}
+	}
+
+	.photo-item {
+		break-inside: avoid;
+		margin-bottom: 0.25rem;
+	}
+
+	.photo-container {
+		width: 100%;
+	}
+	
+	.photo-img {
+		width: 100%;
+		height: auto;
+		display: block;
+	}
+
+	.photo-card {
+		display: block;
+	}
+</style>
 </MainGridLayout>
