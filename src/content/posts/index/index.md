@@ -27,8 +27,8 @@ pinned: true
 		</thead>
 		<tbody>
 			<tr>
-				<td rowspan="53" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
-				<td rowspan="15" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
+				<td rowspan="55" style="border: 1px solid #000; text-align:center; vertical-align:middle;">JP</td>
+				<td rowspan="16" style="border: 1px solid #000; text-align:center; vertical-align:middle;">あ行</td>
 				<td rowspan="13" style="border: 1px solid #000; text-align:center; vertical-align:middle;">芥川龍之介</td>
 				<td style="border: 1px solid #000; text-align:center; background:#16ad6b;">1915</td>
 				<td style="border: 1px solid #000;"><a href="/posts/芥川龍之介/羅生門/">羅生門</a></td>
@@ -138,7 +138,7 @@ pinned: true
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
-				<td style="border: 1px solid #000;"><a href="/posts/梶井基次郎/Kの昇天/">Kの昇天</a></td>
+				<td style="border: 1px solid #000;"><a href="/posts/梶井基次郎/kの昇天/">Kの昇天</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
@@ -238,7 +238,7 @@ pinned: true
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
-				<td rowspan="8" style="border: 1px solid #000; text-align:center; vertical-align:middle;">な行</td>
+				<td rowspan="9" style="border: 1px solid #000; text-align:center; vertical-align:middle;">な行</td>
 				<td rowspan="4" style="border: 1px solid #000; text-align:center; vertical-align:middle;">中島敦</td>
 				<td rowspan="2" style="border: 1px solid #000; text-align:center; background:#16ad6b; vertical-align:middle;">1942</td>
 				<td style="border: 1px solid #000;"><a href="/posts/中島敦/山月記/">山月記</a></td>
@@ -268,13 +268,17 @@ pinned: true
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
-				<td rowspan="2" style="border: 1px solid #000; text-align:center; vertical-align:middle;">西尾維新</td>
-				<td rowspan="2" style="border: 1px solid #000; text-align:center; background:#dfd7d4; vertical-align:middle;">2006</td>
+				<td rowspan="3" style="border: 1px solid #000; text-align:center; vertical-align:middle;">西尾維新</td>
+				<td rowspan="3" style="border: 1px solid #000; text-align:center; background:#dfd7d4; vertical-align:middle;">2006</td>
 				<td style="border: 1px solid #000;"><a href="/posts/ranobe/物語/化物語/化物語-上_ep1/">化物語(上)</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
 				<td style="border: 1px solid #000;"><a href="/posts/ranobe/物語/化物語/化物語-中_ep3/">化物語(中)</a></td>
+				<td style="border: 1px solid #000; text-align:center;">☑</td>
+			</tr>
+			<tr>
+				<td style="border: 1px solid #000;"><a href="/posts/ranobe/物語/化物語/化物語-下/001/">化物語(下)</a></td>
 				<td style="border: 1px solid #000; text-align:center;">☑</td>
 			</tr>
 			<tr>
