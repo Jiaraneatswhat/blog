@@ -13,7 +13,7 @@ description: "008"
 :::
 
 <audio controls> 
-    <source src=""> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Tubasacat_008.mp3"> 
 </audio>
 
 後日談というか、今回のオチ。

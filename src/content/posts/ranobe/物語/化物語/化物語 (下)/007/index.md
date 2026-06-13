@@ -13,7 +13,7 @@ description: "007"
 :::
 
 <audio controls> 
-    <source src=""> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Tubasacat_007.mp3"> 
 </audio>
 
 あっという間に、夜になった。

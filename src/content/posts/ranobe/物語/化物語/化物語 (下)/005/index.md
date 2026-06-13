@@ -13,7 +13,7 @@ description: "005"
 :::
 
 <audio controls> 
-    <source src=""> 
+    <source src="https://audio.taffybook.cn/ranobe/Monogatari/Bake/Tubasacat_005.mp3"> 
 </audio>
 
 浪白公園──それが『ろうはく』と読むのか『なみしろ』と読むのか、それともそれ以外の読み方をするのか、僕は未だ知らない。まだ知らないということは、これからも知ることはないだろうが──記念すべきと言うなら、この公園もまた、記念すべき場所と言うべきかもしれない。

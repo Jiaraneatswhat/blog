@@ -1,5 +1,5 @@
 ---
-title: "使用 Beamer 实现一个简单的 ppt [LLM]"
+title: "使用 Beamer 实现一个简单的 ppt [LaTeX]"
 published: 2026-06-12 08:00:00
 category: CS
 image: "./images/cover.png"
