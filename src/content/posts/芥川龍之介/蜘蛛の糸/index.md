@@ -9,7 +9,7 @@ description: "蜘蛛丝"
 
 :::note[META]
 `first published`:『赤い鳥』1918年7月号<br>
-`audio`: `www.youtube.com/watch?v=TYB5TylL3Fc`<br>
+`audio`: `www.youtube.com/watch?v=suA91RlCxlU`<br>
 `desc`: 改编自佛教故事集《因果物语》，以极乐净土与地狱的强烈对比构建寓言，篇幅短小，却深刻剖析人性自私、慈悲的真谛与获得救赎的前提。
 :::
 
