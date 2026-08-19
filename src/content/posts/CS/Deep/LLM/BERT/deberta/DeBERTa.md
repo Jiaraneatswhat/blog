@@ -1,163 +1,414 @@
 ---
-title: "DeBERTa: Decoding-enhanced BERT with Disentangled Attention"
-published: 2026-08-19 08:00:00
-category: Paper
-image: "./images/cover.png"
+title: DeBERTa 的一个简单实现 [LLM]
+published: 2026-08-19 09:00:00
+category: CS
+image: ./cover.png
 ---
 
-:::note[META]
-**DOI**: `10.48550/arXiv.2006.03654`<br>
-**Date**: `2020/06/05`
-:::
+`DeBERTa` 是微软 `ICLR2021` 提出的一种 `encoder-only` 预训练语言模型，主要的核心创新在于解耦注意力和增强掩码解码器
 
-## 1 问题
+代码仓库在 `microsoft/DeBERTa/tree/master/DeBERTa` 下，目录结构如下：
 
-`Transformer` 现已成为神经语言建模领域效果最优的神经网络架构。$2018$ 年以来一大批基于 `Transformer` 的大规模预训练语言模型`（PLM）`相继问世，包括 `GPT`，`BERT`，`RoBERTa`，`XLNet`，`UniLM`，`ELECTRA`，`T5` 等。研究者使用各下游任务专属标注数据对这些预训练语言模型进行微调，在大量 `NLP` 任务上刷新了当前最优性能指标。
+> deberta
+├── __init__.py 
+├── deberta.py # DeBERTa主模型
+├── disentangled_attention.py # 解耦注意力 
+├── da_util.py # 相对位置矩阵
+├── configuration.py 
+├── tokenization.py # V1: GPT2‑BPE；V2: SentencePiece分词封装 
+├── ops.py # 自定义算子, XSoftmax, StableDropout, MaskedLayerNorm 
+└── utils.py
 
-本文提出了一个基于 `Transformer` 的新模型 `DeBERTa (Decodingenhanced BERT with disentangled attention)`，通过两个新技术改进了此前性能最优的预训练语言模型：解耦注意力机制与增强掩码 `encoder`。
-
-**解耦注意力机制**。`BERT` 在输入层中，每个单词仅由词嵌入与位置嵌入相加得到单一向量表征；与之不同，`DeBERTa` 为每个单词分配两组独立向量，分别编码单词语义内容与位置信息。词与词之间的注意力权重，会依托两套解耦矩阵分别基于单词内容、相对位置进行计算。
-
-**增强掩码 encoder**。与 `BERT` 相同，`DeBERTa` 采用 `MLM` 开展预训练。`DeBERTa` 在执行 `MLM` 时，会同时利用上下文词汇的语义内容与位置信息。解耦注意力机制虽已纳入上下文词语义内容和相对位置，但并未考量词语的绝对位置，而绝对位置在诸多场景下对预测结果至关重要。因此在 `softmax` 解码层前额外引入单词绝对位置嵌入，模型会融合单词语义内容与位置的上下文表征，再依托该融合特征解码出被掩码的词汇。
-
-另外还提出了一个新的虚拟对抗训练方法，用于将预训练语言模型微调适配至各类 `NLP` 下游任务。该方法能够有效提升模型的泛化能力。
-
-## 2 相关工作
-### 2.1 解耦注意力
-
-对序列中 $i$ 位置处的 `token`，我们使用两个向量来表示：$\{\mathbf H_i\}$ 和 $\{\mathbf P_{i|j}\}$，分别代表该 `token` 的内容和它与位置 $j$ 处的 `token` 的相对距离。$i,j$ 之间的 `token` 的交叉注意力分数可以分解为四部分：
-
-$$
-\begin{align*}
-A_{i,j} &= \{\mathbf H_i, \mathbf P_{i|j}\} \times \{\mathbf H_j, \mathbf P_{j|i}\}^\top \\
-& = \mathbf H_i\mathbf H_j^\top + \mathbf H_i\mathbf P_{j|i}^\top + \mathbf P_{i|j}\mathbf H_j^\top + \mathbf P_{i|j}\mathbf P_{j|i}^\top \tag{1}
-\end{align*}
-$$
-
-也就是说，一组词之间的注意力权重可拆分为四项注意力分数相加求得；借助针对语义内容与相对位置解耦分离的矩阵，四项分数分别为：*内容对内容*、*内容对位置*、*位置对内容*、*位置对位置*。
-
-现有相对位置编码方案均使用独立嵌入矩阵，在计算注意力权重时求解相对位置偏置项。这种方式等价于仅采用<font color="#034ea9"><b>式 (1) </b></font>中的内容-内容项与内容-位置项来计算注意力权重。
-
-> 传统的 `RPE`：$A_{i,j} = \frac{\mathbf Q_i \mathbf K_j^\top}{\sqrt{d_k}} + \mathbf Q_i \mathbf R_{i-j}^\top$
-> 	$\mathbf Q_i$ 只与内容有关，$\mathbf K_j$ 仅由 $j$ 处 `token` 的内容决定，因此是内容对内容项
-> 	$\mathbf R_{i-j}$ 是独立的相对位置嵌入矩阵，$\mathbf Q_i \mathbf R_{i-j}^\top$ 是内容对位置项
-> 	等价于式中的 $s_{i,j} = \mathbf H_i \mathbf H_j^\top + \mathbf H_i\mathbf P_{j|i}^\top$
-
-本文认为**位置-内容项**同样不可或缺：一对词汇的注意力关联强度同时受二者语义内容与相对位置共同影响，只有同时引入内容-位置项与位置-内容项，才能完整建模该交互关系。由于本模型采用相对位置嵌入，位置-位置项无法提供有效增量信息，因此在实际实现时从<font color="#034ea9"><b>式 (1) </b></font>中将该项移除。
-
-单头标准注意力的公式如下：
-
-$$
-\begin{align*}
-\mathbf Q = \mathbf H \mathbf W_{q},\; &\mathbf K = \mathbf H \mathbf W_{k},\; \mathbf V = \mathbf H \mathbf W_{v},\; \mathbf A = \frac{\mathbf Q \mathbf K^\top}{\sqrt{d}} \\ 
-& \mathbf H_{\mathbf o} = \mathrm{softmax}(\mathbf A) \mathbf V
-\end{align*}
-$$
-
-其中 $\mathbf H \in \mathbb R^{d \times d}$ 是输入隐向量，$\mathbf H_{\mathbf o} \in \mathbb R^{N \times d}$ 是自注意力的输出，$\mathbf W_{\mathbf q},\mathbf W_{\mathbf k},\mathbf W_{\mathbf v} \in \mathbb R^{d \times d}$ 是投影向量。$\mathbf A \in \mathbb R^{N \times N}$ 是注意力矩阵，$N$ 是输入序列的长度，$d$ 是隐状态的维度。
-
-假设 $k$ 是最大的相对距离，$\delta (i,j) \in [0,2k)$ 是 `token` $i$ 和 $j$ 之间的距离：
-
-$$
-\delta(i,j)= \begin{cases} 0 & \text{for } i-j \le -k \\ 
-2k-1 & \text{for } i-j \ge k \\ 
-i-j+k & \text{others} \end{cases} \tag{2}
-$$
-
-我们可以通过<font color="#034ea9"><b>式 (3) </b></font>表示带有相对位置偏置的解耦自注意力机制：其中 $\mathbf{Q}_c、\mathbf{K}_c、\mathbf{V}_c$ 为内容投影向量，分别由投影矩阵 $\mathbf{W}_{q,c},\mathbf{W}_{k,c},\mathbf{W}_{v,c} \in \mathbb{R}^{d\times d}$ 线性变换得到；$\mathbf{P} \in \mathbb{R}^{2k\times d}$ 是跨所有层共享的相对位置嵌入向量（前向传播过程中参数固定不更新）；$\mathbf{Q}_r、\mathbf{K}_r$ 为相对位置投影向量，分别由投影矩阵 $\mathbf{W}_{q,r},\mathbf{W}_{k,r} \in \mathbb{R}^{d\times d}$ 线性变换得到。
+### 1 注意力解耦
+回顾之前论文中解耦注意力的公式：
 
 $$
 \begin{align*} 
-\mathbf Q_c = \mathbf H \mathbf W_{q,c},\; &\mathbf K_c = \mathbf H \mathbf W_{k,c},\; \mathbf V_c = \mathbf H \mathbf W_{v,c},\; \mathbf Q_r = \mathbf P \mathbf W_{q,r},\; \mathbf K_r = \mathbf P \mathbf W_{k,r} \\[4pt] &\tilde{A}_{i,j} = \underbrace{\mathbf Q_i^c {\mathbf K_j^c}^\top}_{(\text{a}) \text{ content-to-content}} + \underbrace{\mathbf Q_i^c {\mathbf K_{\delta(i,j)}^r}^\top}_{(\text{b}) \text{ content-to-position}} + \underbrace{\mathbf K_j^c {\mathbf Q_{\delta(j,i)}^r}^\top}_{(\text{c}) \text{ position-to-content}} \tag{3} \\[4pt] &\mathbf H_o = \mathrm{softmax}\left( \frac{\tilde{A}}{\sqrt{3d}} \right) \mathbf V_c 
+\mathbf Q_c = \mathbf H \mathbf W_{q,c},\; &\mathbf K_c = \mathbf H \mathbf W_{k,c},\; \mathbf V_c = \mathbf H \mathbf W_{v,c},\; \mathbf Q_r = \mathbf P \mathbf W_{q,r},\; \mathbf K_r = \mathbf P \mathbf W_{k,r} \\[4pt] &\tilde{A}_{i,j} = \underbrace{\mathbf Q_i^c {\mathbf K_j^c}^\top}_{(\text{a}) \text{ content-to-content}} + \underbrace{\mathbf Q_i^c {\mathbf K_{\delta(i,j)}^r}^\top}_{(\text{b}) \text{ content-to-position}} + \underbrace{\mathbf K_j^c {\mathbf Q_{\delta(j,i)}^r}^\top}_{(\text{c}) \text{ position-to-content}}  \\[4pt] &\mathbf H_o = \mathrm{softmax}\left( \frac{\tilde{A}}{\sqrt{3d}} \right) \mathbf V_c 
 \end{align*} 
 $$
 
-> $\mathbf Q_r, \mathbf K_r$ 仅用于调整权重，不用于输出特征，不将位置信息添加到隐状态中，因此不需要 $\mathbf V_r$
+其中涉及到三项 `c2c`, `c2p` 和 `p2c`
 
-$\tilde{A}_{i,j}$ 是注意力矩阵 $\tilde{A}$ 的元素，代表 `token` $i$ 指向 `token` $j$ 的注意力原始得分。 $\mathbf Q_i^c$ 是矩阵 $\mathbf Q_c$ 的第 $i$ 行；$\mathbf K_j^c$ 是矩阵 $\mathbf K_c$ 的第 $j$ 行。 $\mathbf K_{\delta(i,j)}^r$ 是根据相对偏移量 $\delta(i,j)$ 取到的 $\mathbf K_r$ 的第 $\delta(i,j)$ 行；$\mathbf Q_{\delta(j,i)}^r$ 是根据相对偏移量 $\delta(j,i)$ 取到的 $\mathbf Q_r$ 的第 $\delta(j,i)$ 行。位置-内容项的计算形式为 $\mathbf K_j^c {\mathbf Q_{\delta(j,i)}^r}^\top$；内容-位置项的计算逻辑与之对称。
+对应的实现在 disentangled_attention.py 中：
 
-> $\mathbf Q_i^c {\mathbf K_{\delta(i,j)}^r}^\top$ 计算的是「$i$ 的查询<font color="#c00000">内容</font>」作用于「$j$ 的键<font color="#c00000">位置</font>」的注意力权重，对应偏移为 $\delta(i,j)$
-> $\mathbf K_j^c {\mathbf Q_{\delta(j,i)}^r}^\top$ 计算的是「$j$ 的键<font color="#c00000">内容</font>」作用于「$i$ 的查询<font color="#c00000">位置</font>」的注意力权重，对应偏移为 $\delta(j,ji)$
-> `DeBERTa` 的创新就在于新增了 `P → C`
+#### 1.1 DisentangledSelfAttention 类
+##### `__init__()` 
+```python
+class DisentangledSelfAttention(nn.Module):
+	def __init__(self, config):
+		super().__init__()
+		self.num_attention_heads = config.num_attention_heads
+		# 每个 head 的维度
+		_attention_head_size = int(config.hidden_size / config.num_attention_heads)
+		# 检查配置里是否写了 head 的维度
+		self.attention_head_size = getattr(config, 'attention_head_size', _attention_head_size)
+		self.all_head_size = self.num_attention_heads * self.attention_head_size
+		
+		# Q_c, K_c, V_c: 将输入从 hidden_size 映射到 all_head_size, 后面再分头，这样只需要一个线性层
+		# 类似 transfoemer 中的 self.w_q = nn.Linear(d_model, d_model, bias=False)
+		self.query_proj = nn.Linear(config.hidden_size, self.all_head_size, bias=True)
+		self.key_proj = nn.Linear(config.hidden_size, self.all_head_size, bias=True)
+		self.value_proj = nn.Linear(config.hidden_size, self.all_head_size, bias=True)
+		
+		# 是否在内容和位置之间共享投影权重, 默认 False Q_r, K_r 有自己的 W
+		self.share_att_key = getattr(config, 'share_att_key', False)
+		
+		# c2p, p2c (c2c 不包含在位置选项内)
+		self.pos_att_type = [x.strip() for x in getattr(config, 'pos_att_type', 'c2p').lower().split('|')]
+		
+		# 是否使用相对位置 attn
+		self.relative_attention = getattr(config, 'relative_attention', False)
+		
+		if self.relative_attention:
+		# pos 桶数, 根据距离存储到不同的桶中, 节省空间
+			self.position_buckets = getattr(config, 'position_buckets', -1)
+			self.max_relative_positions = getattr(config, 'max_relative_positions', -1)
+			if self.max_relative_positions < 1:
+			self.max_relative_positions = config.max_position_embeddings
+			# pos 嵌入表大小, 分桶时取桶数, 因为距离只会是这些桶中的一个
+			self.pos_ebd_size = self.max_relative_positions
+			if self.position_buckets > 0:
+			self.pos_ebd_size = self.position_buckets
+			# For backward compitable
+			self.pos_dropout = StableDropout(config.hidden_dropout_prob)
+			if (not self.share_att_key):
+			if 'c2p' in self.pos_att_type or 'p2p' in self.pos_att_type:
+			# c2p 项 计算 K_r 时的 W_{k,r}
+			self.pos_key_proj = nn.Linear(config.hidden_size, self.all_head_size, bias=True)
+			if 'p2c' in self.pos_att_type or 'p2p' in self.pos_att_type:
+			# W_{q,r}
+			self.pos_query_proj = nn.Linear(config.hidden_size, self.all_head_size)
+			self.dropout = StableDropout(config.attention_probs_dropout_prob)
+			# 新旧版本模型权重格式转换
+			self._register_load_state_dict_pre_hook(self._pre_load_hook)
+```
 
-最终我们对 $\tilde{A}_{i,j}$ 施加一个缩放因子 $\frac{1}{\sqrt{3d}}$，该缩放因子对稳定模型训练至关重要，在 `PLM` 场景下效果尤为显著。
+##### `forward()`
+```python
+def forward(self, hidden_states, attention_mask, return_att=False, query_states=None, relative_pos=None, rel_embeddings=None):
+	# 若没有查询 (例如自注意力)
+	if query_states is None:
+		query_states = hidden_states
 
-#### 2.1.1 有效实现
+	# self.x_proj() 调了 forward(), 得到了 [batch, seq, all_head_size] 的 x_proj
+	# 在最后一维上进行分头: [batch * heads, seq, head_size]
+	query_layer = self.transpose_for_scores(self.query_proj(query_states), self.num_attention_heads).float()
+	key_layer = self.transpose_for_scores(self.key_proj(hidden_states), self.num_attention_heads).float()
+	value_layer = self.transpose_for_scores(self.value_proj(hidden_states), self.num_attention_heads)
 
-> **输入**：隐状态 $\mathbf H$，相对距离嵌入 $\mathbf P$，相对距离矩阵 $\delta$。内容投影矩阵 $\mathbf{W}_{q,c},\mathbf{W}_{k,c},\mathbf{W}_{v,c}$，位置投影矩阵 $\mathbf{W}_{q,r},\mathbf{W}_{k,r}$
-> 1：$\mathbf K_c = \mathbf H \mathbf W_{k,c},\ \mathbf Q_c = \mathbf H \mathbf W_{q,c},\ \mathbf V_c = \mathbf H \mathbf W_{v,c},\ \mathbf K_r = \mathbf P \mathbf W_{k,r},\ \mathbf Q_r = \mathbf P \mathbf W_{q,r}$
-> 2：$\mathbf A_{c\to c} = \mathbf Q_c \mathbf K_c^\top$
-> 3：$\mathbf {for} \ i=0,\ldots,N-1 \ \mathbf{do}$
-> 4：&emsp;&emsp;$\tilde{A}_{c\to p}[i,:] = \mathbf Q_c[i,:] \mathbf K_r^\top$
-> 5：$\mathbf {end \ for}$
-> 6：$\mathbf {for} \ i=0,\ldots,N-1 \ \mathbf{do}$
-> 7：&emsp;&emsp;$\mathbf {for} \ j=0,\ldots,N-1 \ \mathbf{do}$
-> 8：&emsp;&emsp;&emsp;&emsp;$A_{c\to p}[i,j] = \tilde{A}_{c\to p}[i,\delta[i,j]]$
-> 9：&emsp;&emsp;$\mathbf {end \ for}$
-> 10：$\mathbf {end \ for}$
-> 11：$\mathbf {for} \ j=0,\ldots,N-1 \ \mathbf{do}$
-> 12：&emsp;&emsp;$\tilde{A}_{p\to c}[j,:] = \mathbf K_c[j,:] \mathbf Q_r^\top$
-> 13：$\mathbf {end \ for}$
-> 14：$\mathbf {for} \ j=0,\ldots,N-1 \ \mathbf{do}$
-> 15：&emsp;&emsp;$\mathbf {for} \ i=0,\ldots,N-1 \ \mathbf{do}$
-> 16：&emsp;&emsp;&emsp;&emsp;$A_{p\to c}[i,j] = \tilde{A}_{p\to c}[\delta[j,i],j]$
-> 17：&emsp;&emsp;$\mathbf {end \ for}$
-> 18：$\mathbf {end \ for}$
-> 19：$\tilde{A} = A_{c\to c} + A_{c\to p} + A_{p\to c}$
-> 20：$\mathbf H_o = \mathrm{softmax}\left(\frac{\tilde{A}}{\sqrt{3d}}\right) \mathbf V_c$
+	rel_att = None
+	# 分母上的缩放项
+	scale_factor = 1
+	if 'c2p' in self.pos_att_type:
+		scale_factor += 1
+	if 'p2c' in self.pos_att_type:
+	scale_factor += 1
+	if 'p2p' in self.pos_att_type:
+		scale_factor += 1
 
-对于长度为 $N$ 的输入序列，传统方案为每个 `token` 单独存储相对位置嵌入，空间复杂度达到 $O(N^2d)$。 但以内容-位置项为例可以发现：偏移映射函数满足 $\delta(i,j) \in [0, 2k]$，所有可能的相对位置嵌入向量都存放于全局共享矩阵 $K_r \in \mathbb{R}^{2k\times d}$ 中，因此我们可以让全部 `Query` 在注意力计算时复用同一份 $K_r$，无需为每个位置重复存储位置表征。
+	# 在单头 attn 中分母 d 对应的是隐维度, 这里的 head_size * scale = qk/√3d 对应隐维度
+	scale = 1/math.sqrt(query_layer.size(-1) * scale_factor)
 
-本文预训练实验中将最大相对距离阈值 $k$ 设置为 $512$。设 $\delta$ 为依据<font color="#034ea9"><b>式 (2) </b></font>定义的相对位置索引矩阵，满足 $\delta[i,j] = \delta(i,j)$。不同于传统方案为每个查询向量单独分配独立的相对位置嵌入矩阵，本方法如算法第 $3-5$ 行所示，将每条查询向量 $\mathbf Q_c[i,:]$ 与 $\mathbf K_r^\top \in \mathbb{R}^{d\times 2k}$ 做矩阵乘法；随后如第 $6-10$ 行，以相对位置矩阵 $\delta$ 作为索引查表取出对应注意力分值，完成内容-位置项计算。针对位置-内容注意力分值的求解与之类似。该设计无需为每个查询分配独立的位置嵌入存储空间，仅需存储 $\mathbf K_r$, $\mathbf Q_r$ 两份全局位置矩阵，将空间复杂度降低至 $O(kd)$。
+	attention_scores = torch.bmm(query_layer, key_layer.transpose(-1, -2) * scale)
 
-### 2.2 增强掩码 decoder：建模单词绝对位置信息
+	# 计算解耦注意力分数
+	if self.relative_attention:
+		rel_embeddings = self.pos_dropout(rel_embeddings)
+		rel_att = self.disentangled_attention_bias(query_layer, key_layer, relative_pos, rel_embeddings, scale_factor)
 
-`DeBERTa` 采用 `MLM` 完成预训练，该任务的目标是利用掩码 `token` 周边的上下文词汇，还原出被掩码遮盖的原始单词。在 `MLM` 任务中，`DeBERTa` 会同时借助上下文单词的语义内容与位置特征进行推理。其内部的解耦自注意力结构虽然已经建模了上下文词汇的语义内容以及词汇之间的相对位置关系，但完全没有引入单词在整段序列里的绝对位置信息，而这类绝对位置特征在大量场景下对掩码单词的预测起到决定性作用。
+	# [batch×h, q, k]
+	if rel_att is not None:
+		attention_scores = (attention_scores + rel_att)
+	attention_scores = (attention_scores - attention_scores.max(dim=-1, keepdim=True).values.detach()).to(hidden_states)
 
-引入绝对位置信息存在两种实现方案。`BERT` 在输入层就将绝对位置嵌入与词向量融合；而 `DeBERTa` 则是在全部 `Transformer` 层运算完成后、`token` 预测的 `softmax` 层之前再引入绝对位置信息，如<font color="#034ea9"><b>图 1 </b></font>所示。
+	# batch 和 heads 分开
+	attention_scores = attention_scores.view(-1, self.num_attention_heads, attention_scores.size(-2), attention_scores.size(-1))
 
-![图 1: decoder 层的对比](./images/f1.png)
+	_attention_probs = XSoftmax.apply(attention_scores, attention_mask, -1)
+	attention_probs = self.dropout(_attention_probs)
+	context_layer = torch.bmm(attention_probs.view(-1, attention_probs.size(-2), attention_probs.size(-1)), value_layer)
+	context_layer = context_layer.view(-1, self.num_attention_heads, context_layer.size(-2), context_layer.size(-1)).permute(0, 2, 1, 3).contiguous()
+	new_context_layer_shape = context_layer.size()[:-2] + (-1,)
+	context_layer = context_layer.view(*new_context_layer_shape)
 
-`DeBERTa` 在所有 `Transformer` 层中仅学习相对位置，仅在解码预测掩码单词时，把绝对位置作为补充特征使用，因此我们将 `DeBERTa` 的解码模块命名为增强掩码解码器`（EMD）`。
+	return {
+		'hidden_states': context_layer,
+		'attention_probs': _attention_probs,
+		'attention_logits': attention_scores
+		}
+```
 
-实验对比了两种绝对位置引入方式，结果表明 `EMD` 的效果显著更优。我们推测，`BERT` 过早混入绝对位置的做法会干扰模型充分学习相对位置特征。除此之外，`EMD` 还支持在预训练阶段引入位置以外的其他有效特征，相关拓展工作留待后续研究。
+##### `transpose_for_scores()`
+```python
+# 分头
+def transpose_for_scores(self, x, attention_heads):
+	# x.size()[:-1] 是除最后一维前的所有维度, 拼接后面的维度
+	# 最后一维拆分成 attention_heads * -1 (head_size 的大小让 torch 自己算)
+	# [batch, seq, heads, head_size]
+	new_x_shape = x.size()[:-1] + (attention_heads, -1)
+	
+	# 改变 x 的形状, 通过 * 进行解包
+	x = x.view(*new_x_shape)
 
-### 2.3 尺度不变微调
+	# permute 交换 seq 和 heads
+	# contiguous() 重新排列内存, 因为 permute 后的内存不是连续的
+	# 再通过 view 将 batch 和 heads 合并成一个维度: [batch * heads, seq, head_size]
+	return x.permute(0, 2, 1, 3).contiguous().view(-1, x.size(1), x.size(-1))
+```
 
-本文还提出了一种全新的虚拟对抗训练微调算法 —— 尺度不变微调`（SiFT）`，该算法专门用于下游微调阶段。
+##### `disentangled_attention_bias()`
+```python
+# 计算解耦注意力权重
+def disentangled_attention_bias(self, query_layer, key_layer, relative_pos, rel_embeddings, scale_factor):
+	
+	if relative_pos is None:
+	# seq_len
+	q = query_layer.size(-2)
+	# q size, k size, bkt size
+	# 生成一个矩阵记录 token 间的距离
+	relative_pos = build_relative_position(q, key_layer.size(-2), bucket_size = self.position_buckets, max_position = self.max_relative_positions, device=query_layer.device)
 
-虚拟对抗训练是一种用于提升模型泛化能力的正则化手段。其核心思路是增强模型针对对抗样本的鲁棒性，对抗样本通过对原始输入施加微小扰动生成。该正则化约束要求：输入任务原始样本与该样本添加微小扰动后的对抗样本时，模型输出的概率分布保持一致。
+	if relative_pos.dim()==2:
+		relative_pos = relative_pos.unsqueeze(0).unsqueeze(0)
+	# [1, q, k] -> [batch, 1, q, k]
+	elif relative_pos.dim()==3:
+		relative_pos = relative_pos.unsqueeze(1)
+	elif relative_pos.dim()!=4:
+		raise ValueError(...)
+  
+	att_span = self.pos_ebd_size
+	relative_pos = relative_pos.long().to(query_layer.device)
 
-针对 `NLP` 任务，扰动会作用于词嵌入而非原始单词序列。但不同单词、不同模型对应的嵌入范数取值区间存在差异，参数量达数十亿的大模型中该差异会进一步扩大，进而造成对抗训练过程不稳定。
+	# bert.py 中 self.rel_embeddings = nn.Embedding(pos_ebd_size, config.hidden_size), 大小是 [pos_ebd_size, hidden_size]
+	# att_span = self.pos_ebd_size 带入: 切片 [0: 2*pos_ebd_size] 添加维度 -> [1, 2*pos_ebd_size, hidden_size]
+	rel_embeddings = rel_embeddings[self.pos_ebd_size - att_span: self.pos_ebd_size + att_span, :].unsqueeze(0) 
 
-本文的 `SiFT` 算法，通过在归一化后的词嵌入上施加扰动来提升训练稳定性。具体来说，实验中将 `DeBERTa` 微调至下游自然语言任务时，`SiFT` 先把词嵌入向量归一化为随机向量，再对归一化后的嵌入添加扰动。实验发现归一化操作能够大幅提升微调后模型的效果，且模型规模越大，提升效果越明显。
+	if self.share_att_key:
+		...
 
-## 3 结果
-### 3.1 large model 的表现
+	else:
+	# 把之前的 proj 投影成 K^r 和 Q^r
+		if 'c2p' in self.pos_att_type or 'p2p' in self.pos_att_type:
+			# [1, 2*pos_ebd_size, hidden_size] 的 embedding 经过 pos_key_proj 投影成 [1, 2*pos_ebd_size, all_head_size]
+			# 分头 -> [1*heads, 2*pos_ebd_size, head_size]
+			# repeat(*sizes, 每个维度重复几次)
+			# size(0) 是 batch * heads, // heads 得到 batch
+			# rel_embeddings 是共享的, 为了和 query_layer [batch * heads, seq, head_size] 做 bmm 要复制 batch 份
+			# [B, m, n] @ [B, n, p] = [B, m, p]
+			pos_key_layer = 
+				self.transpose_for_scores(
+					self.pos_key_proj(rel_embeddings), 
+					self.num_attention_heads)\
+				# heads 重复 batch 次
+				.repeat(query_layer.size(0)//self.num_attention_heads, 1, 1)
 
-在 `GLUE` 八项 `NLU` 任务上开展对比实验，将 `DeBERTa` 与 `BERT`、`RoBERTa`、`XLNet`、`ALBERT`、`ELECTRA` 等结构相近（$24$ 层、隐层维度 $1024$）的 `Transformer` 预训练模型对比。需要注意：`RoBERTa、XLNet、ELECTRA` 预训练数据为 `160GB`，而 `DeBERTa` 仅 `78GB`；`RoBERTa` 与 `XLNet` 采用 `batch size 8000` 训练 `500K` 步，合计 $40$ 亿训练样本；`DeBERTa` 以 `batch size 2000` 训练 `1M` 步，共 $20$ 亿训练样本，仅为前两者的一半。
+		# 计算 Q^r
+		if 'p2c' in self.pos_att_type or 'p2p' in self.pos_att_type:
+			pos_query_layer = 
+				self.transpose_for_scores(
+					self.pos_query_proj(rel_embeddings), 
+					self.num_attention_heads)\
+				.repeat(query_layer.size(0)//self.num_attention_heads, 1, 1) 
+				
+	score = 0
+	# content->position
+	if 'c2p' in self.pos_att_type:
+		scale = 1/math.sqrt(pos_key_layer.size(-1)*scale_factor)
+	# query_layer: [batch×heads, q, head_size], pos_key_layer: [batch×heads, 2*pos_ebd, head_size] 后者转置才能做乘法
+		c2p_att = torch.bmm(query_layer, pos_key_layer.transpose(-1, -2).to(query_layer)*scale)
 
-![表 1: large model 在 NLU 任务上的对比](./images/f2.png)
+		# 把桶编号转换成数组索引
+		# expand() 扩展到 [batch×heads, q, 2 * pos_ebd]
+		c2p_pos = torch.clamp(relative_pos + att_span, 0, att_span*2-1).squeeze(0).expand([query_layer.size(0), query_layer.size(1), relative_pos.size(-1)])
 
-实验结果表明：相比 `BERT`、`RoBERTa`，`DeBERTa` 在全部任务上性能均有提升；八项任务中有六项优于 `XLNet`，在 `MRPC、RTE、CoLA` 任务上提升尤为明显。在 `GLUE` 平均得分上，`DeBERTa` 也优于 `ELECTRA‑large、XLNet‑large` 等现有 `SOTA` 预训练模型。`MNLI` 常被视作衡量预训练语言模型进展的代表性任务，`DeBERTa` 在同等参数量模型下显著超越已有模型，取得新的 `SOTA` 结果。
+		# 2 * pos_ebd 是所有距离的分数, 根据 gather 取出对应项
+		c2p_att = torch.gather(c2p_att, dim=-1, index=c2p_pos)
+		score += c2p_att
 
-### 3.2 base model 的表现
+	# position->content
+	if 'p2c' in self.pos_att_type or 'p2p' in self.pos_att_type:
+		scale = 1/math.sqrt(pos_query_layer.size(-1)*scale_factor)
 
-`base` 模型架构沿用 `BERT‑base`：层数 $L=12$，隐层维度 $H=768$，注意力头数 $A=12$，`batch size` 为 $2048$，训练 $1M$ 步。$\ce{DeBERTa}_{\ce{base}}$ 同样使用 `78GB` 数据集训练，对比在 `160GB` 文本数据上训练得到的 $\ce{RoBERTa}_{\ce{base}}$、$\ce{XLNet}_{\ce{base}}$。
+	if 'p2c' in self.pos_att_type:
+		# 为了复用 c2p_pos, 将公式中的 Q_c · K_p^T 进行了转置
+		# 转置后 2*pos 的位置变了, 需要让 dim=-2
+		p2c_att = torch.bmm(pos_query_layer.to(key_layer)*scale, key_layer.transpose(-1, -2))
+		p2c_att = torch.gather(p2c_att, dim=-2, index=c2p_pos)
+		score += p2c_att
 
-![表 2: base model 在 MNLI in/out-domain (m/mm), SQuAD v1.1 and v2.0 development set 上的对比](./images/f3.png)
+	return score
+```
 
-在全部三项任务上，$\ce{DeBERTa}_{\ce{base}}$ 相对 `RoBERTa`、`XLNet` 的性能增益幅度大于 `Large` 模型上的提升。以 `MNLI‑m` 任务为例，$\ce{DeBERTa}_{\ce{base}}$ 相比 $\ce{RoBERTa}_{\ce{base}}$ 提升 $1.2\%$，相对 $\ce{XLNet}_{\ce{base}}$ 提升 $2.0\%$。
+#### 1.2 da_utils.py
+##### `build_relative_position()`
 
-### 3.3 消融实验
+```python
+# 计算 token 间的相对距离
+def build_relative_position(query_size, key_size, bucket_size=-1, max_position=-1, device=None):
+	q_ids = torch.arange(0, query_size)
+	k_ids = torch.arange(0, key_size)
+	if device is not None:
+	    q_ids = q_ids.to(device)
+	    k_ids = k_ids.to(device)
+	
+	# q_ids 转列向量, k_ids 转行向量 ((n,) -> (n,1)), 利用广播运算快速算出 token 间所有的距离
+	rel_pos_ids = q_ids.view(-1,1) - k_ids.view(1,-1)
 
-为验证整套预训练实验流程，从零预训练得到 $\ce{RoBERTa}_{\ce{base}}$ 复现版本，记作 $\ce{RoBERTa-ReImp}_{\ce{base}}$,同时为探究 `DeBERTa` 各组件的相对贡献，构建三种变体模型:
-- `-EMD`: 移除 `EMD` 模块的 $\ce{DeBERTa}_{\ce{base}}$ 模型，在 `decoder` 不加入绝对位置信息
-- `‑C2P`：移除内容‑位置交互项的 $\ce{DeBERTa}_{\ce{base}}$ 模型
-- `‑P2C`：移除位置‑内容交互项的 $\ce{DeBERTa}_{\ce{base}}$ 模型
+	if bucket_size > 0 and max_position > 0:
+		# 分桶
+		rel_pos_ids = make_log_bucket_position(rel_pos_ids, bucket_size, max_position)
 
-![表 3: DeBERTa base model的消融实验](./images/f4.png)
+	# 只关注需要查询的行
+	rel_pos_ids = rel_pos_ids[:query_size, :]
+	rel_pos_ids = rel_pos_ids.unsqueeze(0)
+	return rel_pos_ids
+```
 
-第一，$\ce{RoBERTa-ReImp}_{\ce{base}}$ 在全部基准数据集上与原版 `RoBERTa` 性能接近，证明本文实验设置是合理的。第二，移除 `DeBERTa` 的任意一个组件都会造成明显的性能下降。例如，移除 `EMD` 模块后：`RACE` 下降 $1.4\%$，`SQuAD v1.1` 下降 $0.3\%$，`SQuAD v2.0` 下降 $1.2\%$，`MNLI‑m、MNLI‑mm` 分别下降 $0.2\%$ 与 $0.1\%$。与之类似，移除内容‑位置项或位置‑内容项，都会在所有基准任务上带来性能劣化。同时移除两个组件，性能损失会进一步增大。
+##### `make_log_bucket_position()`
 
+```python
+def make_log_bucket_position(relative_pos, bucket_size, max_position):
+	# 通过 clamp + max_position 后将距离转为正值
+	relative_pos = torch.clamp(relative_pos,-max_position+1, max_position-1) + max_position
+	# [pos1, pos2, ...]
+	bucket_dict = make_log_bucket_dict(bucket_size, max_position, relative_pos.device)
+	for d in range(relative_pos.dim()-1):
+	    # 插入一个 1 的新维度, 方便和 bkt_pos 广播
+	    bucket_dict = bucket_dict.unsqueeze(0)
+	    # gather () 根据索引从 tensor 中提取元素
+	    # 取 relative_pos.size() 的前 3 个维度, 与 bucket_dict 的最后一个维度拼接
+	    # 通过 index=relative_pos 进行索引
+	    bucket_pos = torch.gather(bucket_dict.expand(list(relative_pos.size())[:-1] + [bucket_dict.size(-1)]), index=relative_pos.long(), dim=-1)
+	return bucket_pos
+
+def make_log_bucket_dict(bucket_size, max_position, device=None):
+	relative_pos = torch.arange(-max_position, max_position, device=device)
+	# 对数压缩会丢失符号，这里先存起来
+	sign = torch.sign(relative_pos)
+	# 线性区和对数区的分界点
+	mid = bucket_size // 2
+	# 距离在 (-mid, mid) 内的线性处理
+	abs_pos = torch.where((relative_pos<mid) & (relative_pos > -mid), torch.tensor(mid-1).to(relative_pos), torch.abs(relative_pos))
+	# mid, ..., max_pos - 1 转换为 mid, ..., 2 * mid - 1
+	log_pos = torch.ceil(torch.log(abs_pos/mid)/math.log((max_position-1)/mid) * (mid-1)) + mid
+	# 合并线性区和对数区
+	# where 是三元运算符
+	# mid 范围内的取原始的 relative_pos, 否则给 log 距离乘上之前的 sign
+	bucket_pos = torch.where(abs_pos<=mid, relative_pos, (log_pos*sign).to(relative_pos)).to(torch.long)
+	return bucket_pos
+```
+
+### 2 增强掩码 decoder
+
+`DeBERTa` 在全部 `Transformer` 层运算完成后、`token` 预测的 `softmax` 层之前引入绝对位置信息:
+
+```python
+# masked_language_model.py 中:
+class EnhancedMaskDecoder(torch.nn.Module):
+  def __init__(self, config, vocab_size):
+    super().__init__()
+    self.config = config
+    self.position_biased_input = getattr(config, 'position_biased_input', True)
+    self.lm_head = BertLMPredictionHead(config, vocab_size)
+
+  def forward(self, ctx_layers, ebd_weight, target_ids, input_ids, input_mask, z_states, attention_mask, encoder, relative_pos=None):
+	# 获取增强的上下文表示
+    mlm_ctx_layers = self.emd_context_layer(ctx_layers, z_states, attention_mask, encoder, target_ids, input_ids, input_mask, relative_pos=relative_pos)
+    loss_fct = torch.nn.CrossEntropyLoss(reduction='none')
+    lm_loss = torch.tensor(0).to(ctx_layers[-1])
+    arlm_loss = torch.tensor(0).to(ctx_layers[-1])
+	# 最后一层输出
+    ctx_layer = mlm_ctx_layers[-1]
+    lm_logits = self.lm_head(ctx_layer, ebd_weight).float()
+    lm_logits = lm_logits.view(-1, lm_logits.size(-1))
+    lm_labels = target_ids.view(-1)
+    label_index = (target_ids.view(-1)>0).nonzero().view(-1)
+    lm_labels = lm_labels.index_select(0, label_index)
+    lm_loss = loss_fct(lm_logits, lm_labels.long())
+    return lm_logits, lm_labels, lm_loss
+
+  def emd_context_layer(self, encoder_layers, z_states, attention_mask, encoder, target_ids, input_ids, input_mask, relative_pos=None):
+    if attention_mask.dim()<=2:
+		extended_attention_mask = attention_mask.unsqueeze(1).unsqueeze(2)
+		att_mask = extended_attention_mask.byte()
+		attention_mask = att_mask*att_mask.squeeze(-2).unsqueeze(-1)
+    elif attention_mask.dim()==3:
+		attention_mask = attention_mask.unsqueeze(1)
+		target_mask = target_ids>0
+	# 取倒 2 层不含 MLM 信息的表示
+    hidden_states = encoder_layers[-2]
+	# position_biased_input 为 False 时使用 emd_context
+    if not self.position_biased_input: 
+		# encoder 的最后一层
+		layers = [encoder.layer[-1] for _ in range(2)]
+		# 融合所有的隐状态作为 query
+		z_states += hidden_states
+		query_states = z_states
+		query_mask = attention_mask
+		outputs = []
+		rel_embeddings = encoder.get_rel_embedding()
+
+	for layer in layers:
+        output = layer(hidden_states, query_mask, return_att=False, query_states = query_states, relative_pos=relative_pos, rel_embeddings = rel_embeddings)
+		# 跑两次, 第一次的结果作为第二次的 query
+        query_states = output
+        outputs.append(query_states)
+    else:
+		# 否则直接取最后一层
+		outputs = [encoder_layers[-1]]
+    
+    _mask_index = (target_ids>0).view(-1).nonzero().view(-1)
+	
+    def flatten_states(q_states):
+		q_states = q_states.view((-1, q_states.size(-1)))
+		q_states = q_states.index_select(0, _mask_index)
+		return q_states
+		
+    return [flatten_states(q) for q in outputs]
+```
+
+### 3 模型主类
+
+```python
+# deberta.py
+class DeBERTa(torch.nn.Module):
+  def __init__(self, config=None, pre_trained=None):
+    super().__init__()
+    state = None
+	# 加载预训练权重
+    if pre_trained is not None:
+		state, model_config = load_model_state(pre_trained)
+		if config is not None and model_config is not None:
+			for k in config.__dict__:
+				if k not in ['hidden_size',
+					'intermediate_size',
+					'num_attention_heads',
+					'num_hidden_layers',
+					'vocab_size',
+					'max_position_embeddings']:
+					model_config.__dict__[k] = config.__dict__[k]
+		config = copy.copy(model_config)
+    self.embeddings = BertEmbeddings(config)
+    self.encoder = BertEncoder(config)
+    self.config = config
+    self.pre_trained = pre_trained
+	# 加载已有状态
+    self.apply_state(state)
+
+  def forward(self, input_ids, attention_mask=None, token_type_ids=None, output_all_encoded_layers=True, position_ids = None, return_att = False):
+    
+	if attention_mask is None:
+		attention_mask = torch.ones_like(input_ids)
+    if token_type_ids is None:
+		token_type_ids = torch.zeros_like(input_ids)
+
+    ebd_output = self.embeddings(input_ids.to(torch.long), token_type_ids.to(torch.long), position_ids, attention_mask)
+    embedding_output = ebd_output['embeddings']
+    encoder_output = self.encoder(embedding_output,
+                   attention_mask,
+                   output_all_encoded_layers=output_all_encoded_layers, return_att = return_att)
+    encoder_output.update(ebd_output)
+    return encoder_output
+```
 
