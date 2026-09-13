@@ -9,7 +9,7 @@ export const profileConfig: ProfileConfig = {
 	avatar: "/assets/images/tfpunch.GIF",
 
 	// 名字
-	name: "永雏多氢菲",
+	name: "永雏塔菲胶",
 
 	// 个人签名
 	bio: "∴さて····どこへ行こうか？",

@@ -7,7 +7,7 @@ const SITE_LANG = "en";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "永雏多氢菲の書库",
+	title: "永雏塔菲胶の書库",
 
 	// 站点副标题
 	subtitle: "",
