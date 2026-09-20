@@ -524,3 +524,153 @@ label ch30_end_2:
     # 重启
     $ renpy.full_restart(transition=None, label="splashscreen")
 ```
+
+游戏重启进入主菜单，这次不会加载 `monika` 的立绘：
+
+![图 6 开始菜单](./images/6.png "w-100")
+
+```python
+screen main_menu():
+    if persistent.ghost_menu: ...
+    else:
+        add "menu_bg"
+        add "menu_art_y"
+        add "menu_art_n"
+        frame
+    if persistent.ghost_menu: ...
+    # playthrough == 4 不加载 monika
+    else:
+        if persistent.playthrough != 4:
+            add "menu_art_m"
+```
+
+点击开始游戏，进入 `ch40`:
+
+```python
+label start:
+    ...
+    if persistent.playthrough == 0: ...
+    ...
+    elif persistent.playthrough == 4:
+        $ chapter = 0
+        call ch40_main
+        jump credits
+```
+
+```python
+label ch40_main:
+    $ s_name = "Sayori"
+    stop music fadeout 2.0
+    scene bg residential_day
+    with dissolve_scene_full
+
+    python:
+        # monika_back 默认是 None
+        if not persistent.monika_back:
+            try:
+                renpy.file("../characters/monika.chr")
+                renpy.call_screen("dialog", message="Please stop playing with my heart.\nI don't want to come back.", ok_action=Return())
+                persistent.monika_back = True
+            except:
+                pass
+    # 删除 monika.chr
+    $ delete_character("monika")
+```
+
+在 `characters` 文件夹下新建一个 `monika.chr`，进入游戏：
+
+![图 7 创建一个 monika.chr](./images/7.png "w-100")
+
+```python
+label ch40_main:
+    ...
+    play music t2
+    "It's an ordinary school day, like any other."
+    "As usual, I'm surrounded by couples and friend groups walking to school together."
+    ...
+    # 根据是否已看过所有 cg 进入不同结局
+    s 1q "Ehehe~"
+    s 1a "There's actually something else."
+    $ if all(clear for clear in persistent.clear): persistent.clearall = True
+    if persistent.clearall:
+        call ch40_clearall
+    else:
+        call ch40_clearnormal
+```
+
+未看过全部 `cg`, 进入 `ch40_clearnormal`：
+
+```python
+label ch40_clearnormal:
+    s "I wanted to thank you for getting rid of Monika."
+    ...
+    show room_glitch zorder 1:
+    ...
+    $ pause(0.3)
+    stop sound
+    s 1q "Forever and ever..."
+    ...
+```
+
+![图 8 room glitch](./images/8.png "w-100")
+
+```python
+label ch40_clearnormal:
+    ...
+    call screen dialog("No...", ok_action=Return())
+    show layer master
+    hide black
+    show sayori end-glitch onlayer screens
+    s "...Eh?"
+    s "W-What's happening...?"
+    call screen dialog("I won't let you hurt him.", ok_action=Return())
+    ...
+    return
+```
+
+![图 9 end-glitch](./images/9.png "w-100")
+
+向下 `return` 到 `start` 后 `jump` 到 `credits`:
+
+```python
+label credits:
+    ...
+    jump credits2
+
+label credits2:
+    # 看过的 cg 展示 _clearall 版本(彩色)，否则是 _locked 版本(黑白)
+    $ lockedtext = "" if persistent.clear[imagenum] else "_locked"
+    $ if persistent.clearall: lockedtext = "_clearall"
+    $ imagenum += 1
+    ...
+    # 左上角显示删除文件的控制台
+    if not persistent.clearall:
+        call updateconsole ("os.remove(\"images/cg/n_cg1.png\")", "n_cg1.png deleted successfully.")
+    else:
+        call updateconsole_clearall ("os.remove(\"images/cg/n_cg1.png\")", "n_cg1.png deleted successfully.")
+    ...
+    label postcredits_loop:
+        # 每次启动都会进入 postcredits_loop
+        $ persistent.autoload = "postcredits_loop"
+        $ renpy.save_persistent()
+        $ config.keymap['game_menu'] = []
+        $ config.keymap['hide_windows'] = []
+        $ renpy.display.behavior.clear_keymap_cache()
+        $ quick_menu = False
+        $ config.skipping = False
+        $ config.allow_skipping = False
+        scene black
+        # 展示诗
+        show poem_end
+        $ pause()
+        call screen dialog(message="Error: Script file is missing or corrupt.\nPlease reinstall the game.", ok_action=Quit(confirm=False))
+        return    
+```
+
+![图 10 删除文件的控制台](./images/10.png "w-100")
+
+播放完毕后弹出提示框：
+
+![图 11 重装游戏](./images/11.png "w-100")
+
+如果看过全部 `cg`, 则进入 `ch40_clearall`，结束后进入 `credits`
