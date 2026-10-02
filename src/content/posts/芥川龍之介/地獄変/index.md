@@ -8,8 +8,8 @@ description: "地狱变"
 ---
 
 :::note[META]
-`first published`:『大阪毎日新聞』、『東京日日新聞』1918年 5月1日-22日
-`audio`: `www.youtube.com/watch?v=NFo7r8YLDUM`
+`first published`:『大阪毎日新聞』、『東京日日新聞』1918年 5月1日-22日<br>
+`audio`: `www.youtube.com/watch?v=JzvQYO-NreE`<br>
 `desc`: 平安时代的画佛师良秀，奉大殿之命绘制地狱变屏风。他目睹爱女被困在燃烧的牛车之中，陷入艺术带来的法悦，完成作品后自尽。小说刻画了艺术至上主义。
 :::
 
